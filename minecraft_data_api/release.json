@@ -1,0 +1,89 @@
+{
+  "schema_version": 7,
+  "id": "minecraft_data_api",
+  "latest_version": "1.5.0",
+  "releases": [
+    {
+      "url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0",
+      "name": "MinecraftDataAPI v1.5.0",
+      "tag_name": "v1.5.0",
+      "created_at": "2023-07-10T18:27:31Z",
+      "assets": [
+        {
+          "name": "MinecraftDataAPI-v1.5.0.mcdr",
+          "size": 18178,
+          "download_count": 1438,
+          "created_at": "2023-07-10T18:29:01Z",
+          "browser_download_url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr"
+        }
+      ],
+      "description": "- Performance improved\r\n- More precise and more proper entity data parsing\r\n",
+      "prerelease": false,
+      "parsed_version": "1.5.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "minecraft_data_api",
+        "name": "Minecraft Data API",
+        "version": "1.5.0",
+        "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "link": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3",
+          "hjson",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A MCDReforged api plugin to get player data information and more",
+          "zh_cn": "一个用获得玩家信息等数据的的 API"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1",
+      "name": "MinecraftDataAPI v1.4.1",
+      "tag_name": "v1.4.1",
+      "created_at": "2021-08-16T17:13:30Z",
+      "assets": [
+        {
+          "name": "MinecraftDataAPI-v1.4.1.mcdr",
+          "size": 17831,
+          "download_count": 5959,
+          "created_at": "2021-08-16T17:14:55Z",
+          "browser_download_url": "https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr"
+        }
+      ],
+      "description": "Release for MCDR 2.0",
+      "prerelease": false,
+      "parsed_version": "1.4.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "minecraft_data_api",
+        "name": "Minecraft Data API",
+        "version": "1.4.1",
+        "repository": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "link": "https://github.com/MCDReforged/MinecraftDataAPI",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3",
+          "hjson",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A MCDReforged api plugin to get player data information and more",
+          "zh_cn": "一个用获得玩家信息等数据的的 API"
+        }
+      }
+    }
+  ]
+}

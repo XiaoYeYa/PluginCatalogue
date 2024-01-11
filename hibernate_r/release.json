@@ -1,0 +1,83 @@
+{
+  "schema_version": 7,
+  "id": "hibernate_r",
+  "latest_version": "1.0.3",
+  "releases": [
+    {
+      "url": "https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.3",
+      "name": "Hibernate_R v1.0.3",
+      "tag_name": "1.0.3",
+      "created_at": "2023-02-15T17:02:10Z",
+      "assets": [
+        {
+          "name": "HibernateR.v1.0.3.mcdr",
+          "size": 4754,
+          "download_count": 407,
+          "created_at": "2023-02-16T08:08:36Z",
+          "browser_download_url": "https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.3/HibernateR.v1.0.3.mcdr"
+        }
+      ],
+      "description": "修复了开启伪装服务器后一段时间会自动关闭的问题（time out）",
+      "prerelease": false,
+      "parsed_version": "1.0.3",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/HIM049/MCDR_HibernateR/releases/tag/1.0.1",
+      "name": "Hibernate_R v1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2023-02-14T05:56:34Z",
+      "assets": [
+        {
+          "name": "HibernateR.mcdr",
+          "size": 4745,
+          "download_count": 71,
+          "created_at": "2023-02-14T06:01:55Z",
+          "browser_download_url": "https://github.com/HIM049/MCDR_HibernateR/releases/download/1.0.1/HibernateR.mcdr"
+        }
+      ],
+      "description": "- 重写了默认配置文件，开箱即用\r\n- 修复了创建配置文件时报错的 bug\r\n- 增加了 requirements\r\n- 改写了部分逻辑",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/HIM049/MCDR_HibernateR/releases/tag/0.1.0",
+      "name": "Hibernate_R v0.1.0",
+      "tag_name": "0.1.0",
+      "created_at": "2023-02-13T17:46:59Z",
+      "assets": [
+        {
+          "name": "HibernateR.mcdr",
+          "size": 12042,
+          "download_count": 59,
+          "created_at": "2023-02-13T17:53:02Z",
+          "browser_download_url": "https://github.com/HIM049/MCDR_HibernateR/releases/download/0.1.0/HibernateR.mcdr"
+        }
+      ],
+      "description": "实现了插件的基本功能",
+      "prerelease": false,
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "0.1.0",
+        "repository": "https://github.com/HIM049/MCDR_HibernateR",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      }
+    }
+  ]
+}

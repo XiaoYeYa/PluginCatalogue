@@ -1,0 +1,147 @@
+{
+  "schema_version": 7,
+  "id": "advanced_calculator",
+  "latest_version": "0.3.1",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.1",
+      "name": "advanced_calculator: v0.3.1",
+      "tag_name": "advanced_calculator-v0.3.1",
+      "created_at": "2023-01-19T16:59:59Z",
+      "assets": [
+        {
+          "name": "AdvancedCalculator-v0.3.1.mcdr",
+          "size": 2518,
+          "download_count": 923,
+          "created_at": "2023-01-19T17:01:07Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.1/AdvancedCalculator-v0.3.1.mcdr"
+        }
+      ],
+      "description": "## [0.3.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-v0.3.0...advanced_calculator-v0.3.1) (2023-01-19)\n\n\n### Bug Fixes\n\n* **advanced_calculator:** 🐛 fix double \"*\" too expensive to eval ([ceec10e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/ceec10ea57e1887f998f3e3f6abdb0634d2f8e60))",
+      "prerelease": false,
+      "parsed_version": "0.3.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.3.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.3.0",
+      "name": "advanced_calculator: v0.3.0",
+      "tag_name": "advanced_calculator-v0.3.0",
+      "created_at": "2022-10-21T20:02:55Z",
+      "assets": [
+        {
+          "name": "AdvancedCalculator-v0.3.0.mcdr",
+          "size": 2476,
+          "download_count": 283,
+          "created_at": "2022-10-21T20:03:33Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.3.0/AdvancedCalculator-v0.3.0.mcdr"
+        }
+      ],
+      "description": "## [0.3.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-v0.2.1...advanced_calculator-v0.3.0) (2022-10-21)\n\n\n### Features\n\n* **advanced_calculator:** ✨ set `==` as `!!calc item` ([9f7e0da](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/9f7e0da8e8a54b04a1afa0c85b668a9dbdaabedd))",
+      "prerelease": false,
+      "parsed_version": "0.3.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.3.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.1",
+      "name": "advanced_calculator: v0.2.1",
+      "tag_name": "advanced_calculator-v0.2.1",
+      "created_at": "2022-07-21T13:19:23Z",
+      "assets": [
+        {
+          "name": "AdvancedCalculator-v0.2.1.mcdr",
+          "size": 2433,
+          "download_count": 218,
+          "created_at": "2022-07-21T13:20:06Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.1/AdvancedCalculator-v0.2.1.mcdr"
+        }
+      ],
+      "description": "## [0.2.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-v0.2.0...advanced_calculator-v0.2.1) (2022-07-21)\n\n\n### Bug Fixes\n\n* **advanced_calculator:** 🔒️ add security eval check in !!calc item command (fix [#54](https://github.com/AnzhiZhang/MCDReforgedPlugins/issues/54)) ([444dd85](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/444dd859a7c8a9fc65c612027893689ae9d7e314))",
+      "prerelease": false,
+      "parsed_version": "0.2.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.2.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/advanced_calculator-v0.2.0",
+      "name": "advanced_calculator: v0.2.0",
+      "tag_name": "advanced_calculator-v0.2.0",
+      "created_at": "2022-07-18T11:46:42Z",
+      "assets": [
+        {
+          "name": "AdvancedCalculator-v0.2.0.mcdr",
+          "size": 2323,
+          "download_count": 92,
+          "created_at": "2022-07-18T11:47:23Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/advanced_calculator-v0.2.0/AdvancedCalculator-v0.2.0.mcdr"
+        }
+      ],
+      "description": "## [0.2.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/advanced_calculator-0.1.0...advanced_calculator-v0.2.0) (2022-07-18)\n\n\n### Features\n\n* **advanced_calculator:** 🔒️ add expression characters whitelist (resolve [#48](https://github.com/AnzhiZhang/MCDReforgedPlugins/issues/48)) ([aec8b6d](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/aec8b6d2826de53c5d941b62d1f5c117199a5d76))\n\n\n### Bug Fixes\n\n* **advanced_calculator:** 🐛 fix reply exception info error ([b4e178f](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/b4e178f488ff8bbc824eb57b3757c9c4ac067997))",
+      "prerelease": false,
+      "parsed_version": "0.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.2.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      }
+    }
+  ]
+}

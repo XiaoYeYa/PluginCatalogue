@@ -1,0 +1,20 @@
+{
+  "schema_version": 3,
+  "id": "fastapi_mcdr",
+  "name": "FastAPI MCDR",
+  "version": "1.0.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/fastapi_mcdr",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [
+    "fastapi",
+    "uvicorn"
+  ],
+  "description": {
+    "en_us": "Provides HTTP API.",
+    "zh_cn": "提供 HTTP API。"
+  }
+}

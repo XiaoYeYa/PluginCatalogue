@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "start_stop_helper_r",
+  "authors": [
+    "Fallen_Breath",
+    "Andy Zhang"
+  ],
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "branch": "master",
+  "related_path": ".archived/start_stop_helper_r",
+  "labels": [
+    "management"
+  ],
+  "introduction": {
+    "en_us": "# StartStopHelperR\n\n> 开关服助手\n\n## 使用\n\n| 指令 | 用途 |\n| - | - |\n| !!server | 显示帮助信息 |\n| !!server start | 启动服务器 |\n| !!server stop | 关闭服务器 |\n| !!server stop_exit | 关闭服务器并退出 MCDR |\n| !!server restart | 重启服务器 |\n| !!server exit | 退出 MCDR |\n\n## 配置\n\n### permissions\n\n各指令所需的最低权限等级\n\n默认值:\n\n```json\n{\n    \"help\": 3,\n    \"start\": 3,\n    \"stop\": 3,\n    \"stop_exit\": 4,\n    \"restart\": 3,\n    \"exit\": 4\n}\n```\n",
+    "zh_cn": "# StartStopHelperR\n\n> 开关服助手\n\n## 使用\n\n| 指令 | 用途 |\n| - | - |\n| !!server | 显示帮助信息 |\n| !!server start | 启动服务器 |\n| !!server stop | 关闭服务器 |\n| !!server stop_exit | 关闭服务器并退出 MCDR |\n| !!server restart | 重启服务器 |\n| !!server exit | 退出 MCDR |\n\n## 配置\n\n### permissions\n\n各指令所需的最低权限等级\n\n默认值:\n\n```json\n{\n    \"help\": 3,\n    \"start\": 3,\n    \"stop\": 3,\n    \"stop_exit\": 4,\n    \"restart\": 3,\n    \"exit\": 4\n}\n```\n"
+  }
+}

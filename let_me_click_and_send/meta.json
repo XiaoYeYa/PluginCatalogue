@@ -1,0 +1,17 @@
+{
+  "schema_version": 3,
+  "id": "let_me_click_and_send",
+  "name": "Let Me Click and Send",
+  "version": "1.0.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "Allowed click to send anything in 1.19",
+    "zh_cn": "允许在 1.19 点击发送任意信息"
+  }
+}

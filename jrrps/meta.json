@@ -1,0 +1,20 @@
+{
+  "schema_version": 3,
+  "id": "jrrps",
+  "name": "Jrrps Plg",
+  "version": "2.3.2",
+  "repository": "https://github.com/SkyDynamic/jrrps",
+  "link": "https://github.com/SkyDynamic/jrrps",
+  "authors": [
+    "SkyDynamic"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.0.0",
+    "apscheduler": ">=3.9.1"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "Test today's luck",
+    "zh_cn": "测试今天的运势"
+  }
+}

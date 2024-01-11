@@ -1,0 +1,118 @@
+{
+  "schema_version": 7,
+  "id": "advanced_whitelist_r",
+  "latest_version": "1.0.3",
+  "releases": [
+    {
+      "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.3",
+      "name": "1.0.3",
+      "tag_name": "1.0.3",
+      "created_at": "2023-01-04T02:51:35Z",
+      "assets": [
+        {
+          "name": "AdvancedWhitelistR-v1.0.3.mcdr",
+          "size": 3815,
+          "download_count": 253,
+          "created_at": "2023-01-04T02:59:30Z",
+          "browser_download_url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.3/AdvancedWhitelistR-v1.0.3.mcdr"
+        }
+      ],
+      "description": "小修了一下逻辑错误 :P",
+      "prerelease": false,
+      "parsed_version": "1.0.3",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.3",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "link": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.2",
+      "name": "1.0.2",
+      "tag_name": "1.0.2",
+      "created_at": "2022-01-24T14:25:12Z",
+      "assets": [
+        {
+          "name": "AdvancedWhitelistR-v1.0.2.mcdr",
+          "size": 3582,
+          "download_count": 292,
+          "created_at": "2022-01-24T15:38:16Z",
+          "browser_download_url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.2/AdvancedWhitelistR-v1.0.2.mcdr"
+        }
+      ],
+      "description": "反复横跳的修bug",
+      "prerelease": false,
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.2",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "link": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/tag/1.0.1",
+      "name": "1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2022-01-24T10:22:20Z",
+      "assets": [
+        {
+          "name": "AdvancedWhitelistR-v1.0.1.mcdr",
+          "size": 3586,
+          "download_count": 76,
+          "created_at": "2022-01-24T11:46:47Z",
+          "browser_download_url": "https://github.com/EMUnion/AdvancedWhitelistR/releases/download/1.0.1/AdvancedWhitelistR-v1.0.1.mcdr"
+        }
+      ],
+      "description": "离线白名单改用uuid生成+原生白名单结合方式实现\r\n\r\n新增bot白名单功能",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "advanced_whitelist_r",
+        "name": "AdvancedWhitelistR",
+        "version": "1.0.1",
+        "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+        "link": "https://github.com/2X-ercha/AdvancedWhitelistR",
+        "authors": [
+          "noionion",
+          "GamerNoTitle"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "For outline-model Whitelist"
+        }
+      }
+    }
+  ]
+}

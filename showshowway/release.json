@@ -1,0 +1,43 @@
+{
+  "schema_version": 7,
+  "id": "showshowway",
+  "latest_version": "1.1.0",
+  "releases": [
+    {
+      "url": "https://github.com/WhiteXero/ShowShowWay/releases/tag/1.1.0",
+      "name": "1.1.0",
+      "tag_name": "1.1.0",
+      "created_at": "2023-07-06T10:52:16Z",
+      "assets": [
+        {
+          "name": "ShowShowWay.mcdr",
+          "size": 1584,
+          "download_count": 248,
+          "created_at": "2023-07-06T10:55:22Z",
+          "browser_download_url": "https://github.com/WhiteXero/ShowShowWay/releases/download/1.1.0/ShowShowWay.mcdr"
+        }
+      ],
+      "description": "- Fix: Rcon replace error",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "showshowway",
+        "name": "ShowShowWay",
+        "version": "1.1.0",
+        "repository": "https://github.com/WhiteXero/ShowShowWay",
+        "link": "https://github.com/WhiteXero/ShowShowWay",
+        "authors": [
+          "WhiteXero"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "获取玩家的头，或者展示手上的物品"
+        }
+      }
+    }
+  ]
+}

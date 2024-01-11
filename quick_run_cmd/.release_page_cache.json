@@ -1,0 +1,19 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"ab972eee4a86c67a0c1083e5bf61a79199588db9440f082c80a6c96dadbef408\"",
+      "release_tags": [
+        "2.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 7,
+  "id": "onebot_api",
+  "latest_version": "1.1.1",
+  "releases": [
+    {
+      "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.1.1",
+      "name": "1.1.1",
+      "tag_name": "1.1.1",
+      "created_at": "2022-11-16T12:59:49Z",
+      "assets": [
+        {
+          "name": "OneBotAPI-v1.1.1.mcdr",
+          "size": 3803,
+          "download_count": 95,
+          "created_at": "2022-11-16T13:02:15Z",
+          "browser_download_url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.1.1/OneBotAPI-v1.1.1.mcdr"
+        }
+      ],
+      "description": "只是补个忘记了的更新",
+      "prerelease": false,
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "onebot_api",
+        "name": "OneBot API",
+        "version": "1.1.1",
+        "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+        "link": "https://github.com/HuajiMUR233/OneBotAPI",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.4"
+        },
+        "requirements": [
+          "websocket-client>=1.2.0",
+          "mcdreforged>=2.0.4"
+        ],
+        "description": {
+          "en_us": "OneBot in MCDReforged"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/tag/1.0.1",
+      "name": "1.0.1",
+      "tag_name": "1.0.1",
+      "created_at": "2021-09-06T13:04:52Z",
+      "assets": [
+        {
+          "name": "OneBotAPI-v1.0.1.mcdr",
+          "size": 15160,
+          "download_count": 1241,
+          "created_at": "2021-09-06T13:06:15Z",
+          "browser_download_url": "https://github.com/HuajiMURsMC/OneBotAPI/releases/download/1.0.1/OneBotAPI-v1.0.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "onebot_api",
+        "name": "OneBot API",
+        "version": "1.0.1",
+        "repository": "https://github.com/HuajiMUR233/OneBotAPI",
+        "link": "https://github.com/HuajiMUR233/OneBotAPI",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.4"
+        },
+        "requirements": [
+          "websocket-client>=1.2.0",
+          "mcdreforged>=2.0.4"
+        ],
+        "description": {
+          "en_us": "OneBot in MCDReforged"
+        }
+      }
+    }
+  ]
+}

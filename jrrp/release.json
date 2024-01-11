@@ -1,0 +1,46 @@
+{
+  "schema_version": 7,
+  "id": "jrrp",
+  "latest_version": "3.0.0",
+  "releases": [
+    {
+      "url": "https://github.com/HuajiMURsMC/jrrp/releases/tag/3.0.0",
+      "name": "新算法",
+      "tag_name": "3.0.0",
+      "created_at": "2022-08-28T11:27:23Z",
+      "assets": [
+        {
+          "name": "Jrrp-v3.0.0.mcdr",
+          "size": 14311,
+          "download_count": 609,
+          "created_at": "2022-08-28T11:29:45Z",
+          "browser_download_url": "https://github.com/HuajiMURsMC/jrrp/releases/download/3.0.0/Jrrp-v3.0.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "3.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "jrrp",
+        "name": "Jrrp",
+        "version": "3.0.0",
+        "repository": "https://github.com/HuajiMURsMC/jrrp",
+        "link": "https://github.com/HuajiMURsMC/jrrp",
+        "authors": [
+          "Huaji_MUR233"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.4",
+          "mc_uuid": ">=1.0.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.4"
+        ],
+        "description": {
+          "en_us": "《今日人品》"
+        }
+      }
+    }
+  ]
+}

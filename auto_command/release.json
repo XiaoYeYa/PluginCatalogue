@@ -1,0 +1,122 @@
+{
+  "schema_version": 7,
+  "id": "auto_command",
+  "latest_version": "1.3.0",
+  "releases": [
+    {
+      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.3.0",
+      "name": "AutoCommand v1.3.0",
+      "tag_name": "v1.3.0",
+      "created_at": "2023-06-10T21:02:10Z",
+      "assets": [
+        {
+          "name": "AutoCommand-v1.3.0.mcdr",
+          "size": 22784,
+          "download_count": 108,
+          "created_at": "2023-06-15T17:14:11Z",
+          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.3.0/AutoCommand-v1.3.0.mcdr"
+        }
+      ],
+      "description": "Add `time_after_execute` which allows command stack to wait after executing every command\r\nAdd `!!ac wait <sec>` which allows command stack to wait when sending commands",
+      "prerelease": false,
+      "parsed_version": "1.3.0",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.2.1",
+      "name": "AutoCommand v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2023-06-10T21:02:10Z",
+      "assets": [
+        {
+          "name": "AutoCommand-v1.2.1.mcdr",
+          "size": 22496,
+          "download_count": 10,
+          "created_at": "2023-06-10T22:56:34Z",
+          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.2.1/AutoCommand-v1.2.1.mcdr"
+        }
+      ],
+      "description": "Fixed interpreter",
+      "prerelease": false,
+      "parsed_version": "1.2.1",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.2.0",
+      "name": "AutoCommand v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2023-06-10T20:36:36Z",
+      "assets": [
+        {
+          "name": "AutoCommand-v1.2.0.mcdr",
+          "size": 22457,
+          "download_count": 4,
+          "created_at": "2023-06-10T20:39:44Z",
+          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.2.0/AutoCommand-v1.2.0.mcdr"
+        }
+      ],
+      "description": "Added a simpler way to use `/player <bot> spawn`\r\nAdded a nested loop detector",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.1.0",
+      "name": "AutoCommand v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2023-06-10T04:21:53Z",
+      "assets": [
+        {
+          "name": "AutoCommand-v1.1.0.mcdr",
+          "size": 21625,
+          "download_count": 4,
+          "created_at": "2023-06-10T04:24:24Z",
+          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.1.0/AutoCommand-v1.1.0.mcdr"
+        }
+      ],
+      "description": "You can add some of the commands of other MCDR plugins in the command stack now!!",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/tag/v1.0.0",
+      "name": "AutoCommand v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2023-06-08T04:38:53Z",
+      "assets": [
+        {
+          "name": "AutoCommand-v1.0.0.mcdr",
+          "size": 21964,
+          "download_count": 3,
+          "created_at": "2023-06-08T06:30:33Z",
+          "browser_download_url": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand/releases/download/v1.0.0/AutoCommand-v1.0.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "auto_command",
+        "name": "Auto Command",
+        "version": "1.0.0",
+        "repository": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
+        "link": "https://github.com/bzyyyyyyyy/MCDR-AutoCommand",
+        "authors": [
+          "bzyyyyyyyy"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.0"
+        ],
+        "description": {
+          "en_us": "A plugin that send send commands automaticly",
+          "zh_cn": "自动发送指令的插件"
+        }
+      }
+    }
+  ]
+}

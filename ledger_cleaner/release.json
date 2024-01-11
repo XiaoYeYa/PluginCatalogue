@@ -1,0 +1,45 @@
+{
+  "schema_version": 7,
+  "id": "ledger_cleaner",
+  "latest_version": "0.1.0",
+  "releases": [
+    {
+      "url": "https://github.com/UnknownBits/LedgerCleaner/releases/tag/v0.1.0",
+      "name": "v0.1.0",
+      "tag_name": "v0.1.0",
+      "created_at": "2023-07-13T05:20:02Z",
+      "assets": [
+        {
+          "name": "LedgerCleaner-v0.1.0.mcdr",
+          "size": 3394,
+          "download_count": 73,
+          "created_at": "2023-07-13T05:21:57Z",
+          "browser_download_url": "https://github.com/UnknownBits/LedgerCleaner/releases/download/v0.1.0/LedgerCleaner-v0.1.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "ledger_cleaner",
+        "name": "Ledger Cleaner",
+        "version": "0.1.0",
+        "repository": "https://github.com/UnknownBits/LedgerCleaner",
+        "link": "https://github.com/tanhHeng/LedgerCleaner",
+        "authors": [
+          "UnknownBits",
+          "tanh_Heng"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Clean and free ledger.sqlite",
+          "zh_cn": "清理与释放ledger数据库"
+        }
+      }
+    }
+  ]
+}

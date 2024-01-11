@@ -1,0 +1,120 @@
+{
+  "schema_version": 7,
+  "id": "carpetbotlist",
+  "latest_version": "2.1.1",
+  "releases": [
+    {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.1",
+      "name": "CarpetBotList-2.1.1 for MCDR-2.x",
+      "tag_name": "v2.1.1",
+      "created_at": "2021-08-23T06:10:42Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.1.1.mcdr",
+          "size": 1936,
+          "download_count": 1987,
+          "created_at": "2021-08-23T06:17:05Z",
+          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.1/CarpetBotList-v2.1.1.mcdr"
+        }
+      ],
+      "description": "- 在 `on_player_info` 中对bot加入信息进行解析",
+      "prerelease": false,
+      "parsed_version": "2.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.1",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.1.0",
+      "name": "CarpetBotList-2.1.0 for MCDR-2.x",
+      "tag_name": "v2.1.0",
+      "created_at": "2021-08-16T11:28:38Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.1.0.mcdr",
+          "size": 4181,
+          "download_count": 1383,
+          "created_at": "2021-08-16T11:33:40Z",
+          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.1.0/CarpetBotList-v2.1.0.mcdr"
+        }
+      ],
+      "description": "- 修复 `Carpet Mod` 指令 `/player xxx shadow` 导致的假人统计异常  \r\n- 使用指令树构建指令  \r\n- 扬了多余的logger",
+      "prerelease": false,
+      "parsed_version": "2.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.1.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player",
+          "zh_cn": "帮助你管理地毯端假人"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/tag/v2.0.0",
+      "name": "CarpetBotList-2.0.0 for MCDR-2.x",
+      "tag_name": "v2.0.0",
+      "created_at": "2021-08-12T07:41:47Z",
+      "assets": [
+        {
+          "name": "CarpetBotList-v2.0.0.mcdr",
+          "size": 3686,
+          "download_count": 1390,
+          "created_at": "2021-08-12T07:45:32Z",
+          "browser_download_url": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList/releases/download/v2.0.0/CarpetBotList-v2.0.0.mcdr"
+        }
+      ],
+      "description": "- 适配 `MCDR-2.x`",
+      "prerelease": false,
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "carpetbotlist",
+        "name": "CarpetBotList",
+        "version": "2.0.0",
+        "repository": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+        "authors": [
+          "ZeroKelvin"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.0.0-beta.1",
+          "minecraft_data_api": "*"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Help you manage your carpet fake player"
+        }
+      }
+    }
+  ]
+}

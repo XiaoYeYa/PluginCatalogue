@@ -1,0 +1,83 @@
+{
+  "schema_version": 7,
+  "id": "server_redirect",
+  "latest_version": "1.0.2",
+  "releases": [
+    {
+      "url": "https://github.com/CmmmmmmLau/ServerRedirect/releases/tag/v1.0.2",
+      "name": "ServerRedirect V1.0.2",
+      "tag_name": "v1.0.2",
+      "created_at": "2023-10-10T08:27:10Z",
+      "assets": [
+        {
+          "name": "ServerRedirect-v1.0.2.mcdr",
+          "size": 20695,
+          "download_count": 8,
+          "created_at": "2023-10-10T08:29:08Z",
+          "browser_download_url": "https://github.com/CmmmmmmLau/ServerRedirect/releases/download/v1.0.2/ServerRedirect-v1.0.2.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "server_redirect",
+        "name": "Server Redirect",
+        "version": "1.0.2",
+        "repository": "https://github.com/CmmmmmmLau/ServerRedirect",
+        "link": "https://github.com/CmmmmmmLau/ServerRedirect",
+        "authors": [
+          "Cmmmmmm"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0a1"
+        ],
+        "description": {
+          "en_us": "An plugin for use with ServerDirect Mod in Minecraft"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/CmmmmmmLau/ServerRedirect/releases/tag/v1.0.1",
+      "name": "ServerRedirect V1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2023-09-13T01:43:34Z",
+      "assets": [
+        {
+          "name": "ServerRedirect-v1.0.1.mcdr",
+          "size": 20693,
+          "download_count": 8,
+          "created_at": "2023-09-13T01:44:42Z",
+          "browser_download_url": "https://github.com/CmmmmmmLau/ServerRedirect/releases/download/v1.0.1/ServerRedirect-v1.0.1.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "server_redirect",
+        "name": "Server Redirect",
+        "version": "1.0.1",
+        "repository": "https://github.com/CmmmmmmLau/ServerRedirect",
+        "link": "https://github.com/CmmmmmmLau/ServerRedirect",
+        "authors": [
+          "Cmmmmmm"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.10"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0a1"
+        ],
+        "description": {
+          "en_us": "An plugin for use with ServerDirect Mod in Minecraft"
+        }
+      }
+    }
+  ]
+}

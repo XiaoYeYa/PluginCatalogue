@@ -1,0 +1,152 @@
+{
+  "schema_version": 7,
+  "id": "seed",
+  "latest_version": "1.2.0",
+  "releases": [
+    {
+      "url": "https://github.com/OptiJava/Seed/releases/tag/v1.2.0",
+      "name": "Seed v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2023-03-23T13:09:41Z",
+      "assets": [
+        {
+          "name": "seed-v1.2.0.mcdr",
+          "size": 3032,
+          "download_count": 597,
+          "created_at": "2023-03-23T13:14:02Z",
+          "browser_download_url": "https://github.com/OptiJava/Seed/releases/download/v1.2.0/seed-v1.2.0.mcdr"
+        }
+      ],
+      "description": "Fix some bugs~\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.1.0...v1.2.0",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.2.0",
+        "repository": "https://github.com/OptiJava/Seed",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed without op permission.",
+          "zh_cn": "在没有op权限的情况下获取种子"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/OptiJava/Seed/releases/tag/v1.1.0",
+      "name": "Seed v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2023-02-26T10:59:35Z",
+      "assets": [
+        {
+          "name": "seed-v1.1.0.mcdr",
+          "size": 2959,
+          "download_count": 33,
+          "created_at": "2023-02-26T11:08:24Z",
+          "browser_download_url": "https://github.com/OptiJava/Seed/releases/download/v1.1.0/seed-v1.1.0.mcdr"
+        }
+      ],
+      "description": "\r\n## What's Changed\r\n* 重构 by @alex3236 in https://github.com/OptiJava/Seed/pull/1\r\n\r\n## New Contributors\r\n* @alex3236 made their first contribution in https://github.com/OptiJava/Seed/pull/1\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.0.1...v1.1.0\r\n\r\n**_Thanks to @alex3236 for refactoring the code_**",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.1.0",
+        "repository": "https://github.com/OptiJava/Seed",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed without op permission."
+        }
+      }
+    },
+    {
+      "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.1",
+      "name": "Seed v1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2023-02-26T01:33:21Z",
+      "assets": [
+        {
+          "name": "seed-v1.0.1.mcdr",
+          "size": 2539,
+          "download_count": 10,
+          "created_at": "2023-02-26T01:41:02Z",
+          "browser_download_url": "https://github.com/OptiJava/Seed/releases/download/v1.0.1/seed-v1.0.1.mcdr"
+        }
+      ],
+      "description": "1.Add seed cache\r\n2.Use RText instead of tellraw\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/compare/v1.0.0...v1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.1",
+        "repository": "https://github.com/OptiJava/Seed",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/OptiJava/Seed/releases/tag/v1.0.0",
+      "name": "Seed v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2023-02-25T09:03:21Z",
+      "assets": [
+        {
+          "name": "seed-v1.0.0.mcdr",
+          "size": 2480,
+          "download_count": 8,
+          "created_at": "2023-02-25T09:06:56Z",
+          "browser_download_url": "https://github.com/OptiJava/Seed/releases/download/v1.0.0/seed-v1.0.0.mcdr"
+        }
+      ],
+      "description": "First release!\r\n\r\n**Full Changelog**: https://github.com/OptiJava/Seed/commits/v1.0.0",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.0",
+        "repository": "https://github.com/OptiJava/Seed",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
+      }
+    }
+  ]
+}

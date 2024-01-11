@@ -1,0 +1,20 @@
+{
+  "schema_version": 3,
+  "id": "ledger_cleaner",
+  "name": "Ledger Cleaner",
+  "version": "0.1.0",
+  "repository": "https://github.com/UnknownBits/LedgerCleaner",
+  "link": "https://github.com/UnknownBits/LedgerCleaner",
+  "authors": [
+    "UnknownBits",
+    "tanh_Heng"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.6.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "Clean and free ledger.sqlite",
+    "zh_cn": "清理与释放ledger数据库"
+  }
+}

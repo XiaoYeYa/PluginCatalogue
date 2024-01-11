@@ -1,0 +1,46 @@
+{
+  "schema_version": 7,
+  "id": "offline_whitelist_reforged",
+  "latest_version": "1.0.0",
+  "releases": [
+    {
+      "url": "https://github.com/Aimerny/OfflineWhitelistReforged/releases/tag/v1.0.0",
+      "name": "v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2023-06-15T09:27:38Z",
+      "assets": [
+        {
+          "name": "OfflineWhitelistReforged-v1.0.0.mcdr",
+          "size": 4413,
+          "download_count": 175,
+          "created_at": "2023-06-15T09:30:39Z",
+          "browser_download_url": "https://github.com/Aimerny/OfflineWhitelistReforged/releases/download/v1.0.0/OfflineWhitelistReforged-v1.0.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "offline_whitelist_reforged",
+        "name": "OfflineWhitelistReforged",
+        "version": "1.0.0",
+        "repository": "https://github.com/Aimerny/OfflineWhitelistReforged",
+        "link": "https://github.com/Aimerny/OfflineWhitelistReforged",
+        "authors": [
+          "Aimerny"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A whitelist plugin in offline server",
+          "zh_cn": "离线服的白名单管理插件"
+        }
+      }
+    }
+  ]
+}

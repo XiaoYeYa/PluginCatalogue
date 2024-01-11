@@ -1,0 +1,17 @@
+{
+  "schema_version": 3,
+  "id": "todolist",
+  "name": "ToDoList",
+  "version": "1.1.1",
+  "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+  "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+  "authors": [
+    "Flash-Z"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "ToDoList",
+    "zh_cn": "ToDoList，待办清单"
+  }
+}

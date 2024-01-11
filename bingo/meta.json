@@ -1,0 +1,17 @@
+{
+  "schema_version": 3,
+  "id": "bingo",
+  "name": "Bingo",
+  "version": "0.0.3",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "Useful tool for Bingo game",
+    "zh_cn": "Bingo 游戏实用工具"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 3,
+  "id": "diamond_calc",
+  "name": "Diamond Calculator",
+  "version": "1.0.0",
+  "repository": "https://github.com/HuajiMUR233/DiamondCalc",
+  "link": "https://github.com/HuajiMUR233/DiamondCalc",
+  "authors": [
+    "Huaji_MUR233"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {}
+}

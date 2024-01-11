@@ -1,0 +1,17 @@
+{
+  "schema_version": 3,
+  "id": "online_player_api",
+  "name": "OnlinePlayerAPI",
+  "version": "1.0.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [],
+  "description": {
+    "en_us": "Online Player API",
+    "zh_cn": "在线玩家 API"
+  }
+}

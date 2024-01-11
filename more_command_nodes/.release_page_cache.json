@@ -1,0 +1,23 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"b67cfae0af002e52db50cccfefb747d594e17ff36219700a1cd56412aa0cc1cc\"",
+      "release_tags": [
+        "more_command_nodes-v1.1.0",
+        "more_command_nodes-v1.0.3",
+        "more_command_nodes-v1.0.2",
+        "more_command_nodes-v1.0.1",
+        "more_command_nodes-v1.0.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": 7,
+  "id": "simple_calculator",
+  "latest_version": "1.2.0",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/Calculator/releases/tag/v1.2.0",
+      "name": "Simple Calculator v1.2",
+      "tag_name": "v1.2.0",
+      "created_at": "2021-08-26T04:32:24Z",
+      "assets": [
+        {
+          "name": "SimpleCalculator-v1.2.0.mcdr",
+          "size": 15912,
+          "download_count": 2313,
+          "created_at": "2021-08-26T13:59:56Z",
+          "browser_download_url": "https://github.com/TISUnion/Calculator/releases/download/v1.2.0/SimpleCalculator-v1.2.0.mcdr"
+        }
+      ],
+      "description": "- Upgraded to MCDR 2.1+ better translation logic\r\n",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "simple_calculator",
+        "name": "Simple in-game calculator",
+        "version": "1.2.0",
+        "repository": "https://github.com/TISUnion/Calculator",
+        "link": "https://github.com/TISUnion/Calculator",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "simpleeval"
+        ],
+        "description": {
+          "en_us": "A Simple in-game calculator",
+          "zh_cn": "一个简单的游戏内计算器"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/TISUnion/Calculator/releases/tag/v1.1.0",
+      "name": "Simple Calculator v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-08-21T16:34:34Z",
+      "assets": [
+        {
+          "name": "SimpleCalculator-v1.1.0.mcdr",
+          "size": 15876,
+          "download_count": 1406,
+          "created_at": "2021-08-21T16:39:21Z",
+          "browser_download_url": "https://github.com/TISUnion/Calculator/releases/download/v1.1.0/SimpleCalculator-v1.1.0.mcdr"
+        }
+      ],
+      "description": "MCDR 2.0 packed plugin format with result display imporved\r\n\r\n![image](https://user-images.githubusercontent.com/28978806/130328889-1174ef5c-5a28-46e3-b361-58c4c576abeb.png)\r\n\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "simple_calculator",
+        "name": "Simple in-game calculator",
+        "version": "1.1.0",
+        "repository": "https://github.com/TISUnion/Calculator",
+        "link": "https://github.com/TISUnion/Calculator",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "simpleeval"
+        ],
+        "description": {
+          "en_us": "A Simple in-game calculator",
+          "zh_cn": "一个简单的游戏内计算器"
+        }
+      }
+    }
+  ]
+}

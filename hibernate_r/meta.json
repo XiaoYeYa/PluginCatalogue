@@ -1,0 +1,22 @@
+{
+  "schema_version": 3,
+  "id": "hibernate_r",
+  "name": "HibernateR",
+  "version": "1.0.0",
+  "repository": "https://github.com/HIM049/MCDR_HibernateR",
+  "link": "https://github.com/HIM049/MCDR_HibernateR",
+  "authors": [
+    "HIM049",
+    "sout_Nantang"
+  ],
+  "dependencies": {
+    "online_player_api": "*",
+    "mcdreforged": ">=2.0.0-beta.3"
+  },
+  "requirements": [
+    "mcdreforged>=2.0.0b3"
+  ],
+  "description": {
+    "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "schema_version": 7,
+  "id": "mirror_sync_reforged",
+  "latest_version": "1.3.0",
+  "releases": [
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.3.0",
+      "name": "MirrorSyncReforged v1.3.0",
+      "tag_name": "v1.3.0",
+      "created_at": "2022-07-23T18:23:57Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.3.0.mcdr",
+          "size": 5225,
+          "download_count": 400,
+          "created_at": "2022-07-23T18:25:53Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.3.0/MirrorSyncReforged-v1.3.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n \r\n- Added config item `ignore_session_lock` to solve the backup failure problem caused by `session.lock` being occupied by the server (#3)",
+      "prerelease": false,
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.3.0",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.2",
+      "name": "MirrorSyncReforged v1.2.2",
+      "tag_name": "v1.2.2",
+      "created_at": "2022-06-26T10:32:28Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.2.2.mcdr",
+          "size": 5134,
+          "download_count": 92,
+          "created_at": "2022-06-26T10:33:41Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.2/MirrorSyncReforged-v1.2.2.mcdr"
+        }
+      ],
+      "description": "## Fixes\r\n\r\n - Fixed mcdreforged requirement in `requirements.txt` (#2)\r\n",
+      "prerelease": false,
+      "parsed_version": "1.2.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.2",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.1",
+      "name": "MirrorSyncReforged v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2022-04-07T09:30:09Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.2.1.mcdr",
+          "size": 5151,
+          "download_count": 119,
+          "created_at": "2022-04-07T09:33:53Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.1/MirrorSyncReforged-v1.2.1.mcdr"
+        }
+      ],
+      "description": "## Fixes\r\n\r\n - Added the missing translation key for `permission_denied`",
+      "prerelease": false,
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.1",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.2.0",
+      "name": "MirrorSyncReforged v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2022-04-07T07:28:10Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.2.0.mcdr",
+          "size": 5110,
+          "download_count": 6,
+          "created_at": "2022-04-07T07:29:57Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.2.0/MirrorSyncReforged-v1.2.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n - `!!help` command support",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.2.0",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.1.1",
+      "name": "MirrorSyncReforged v1.1.1",
+      "tag_name": "v1.1.1",
+      "created_at": "2022-04-03T11:52:29Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.1.1.mcdr",
+          "size": 5068,
+          "download_count": 13,
+          "created_at": "2022-04-03T11:53:13Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.1.1/MirrorSyncReforged-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## Fixes\r\n\r\n - FIxed incorrect translation files",
+      "prerelease": false,
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.1.1",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.1.0",
+      "name": "MirrorSyncReforged v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-04-03T09:37:49Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.1.0.mcdr",
+          "size": 5070,
+          "download_count": 8,
+          "created_at": "2022-04-03T09:41:42Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.1.0/MirrorSyncReforged-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## News\r\n\r\n - Added the option to backup the mirror server before syncing the world.\r\nEnable it by setting `backup` field of the config to `True` (Required [QuickBackupM](https://github.com/TISUnion/QuickBackupM))",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.1.0",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "A plugin to sync survival server world to the mirror server",
+          "zh_cn": "一个用于同步生存服存档至镜像服的插件"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.0.0",
+      "name": "MirrorSyncReforged v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-03-12T16:23:00Z",
+      "assets": [
+        {
+          "name": "MirrorSyncReforged-v1.0.0.mcdr",
+          "size": 4410,
+          "download_count": 11,
+          "created_at": "2022-03-12T16:23:57Z",
+          "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.0.0/MirrorSyncReforged-v1.0.0.mcdr"
+        }
+      ],
+      "description": "It works!",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_sync_reforged",
+        "name": "Mirror Sync Reforged",
+        "version": "1.0.0",
+        "repository": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
+        "authors": [
+          "Ivan1F"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "mcdreforged~=2.3.2"
+        ],
+        "description": {
+          "en_us": "Sync survival server world to the mirror server"
+        }
+      }
+    }
+  ]
+}

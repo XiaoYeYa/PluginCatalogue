@@ -1,0 +1,19 @@
+{
+  "schema_version": 3,
+  "id": "advanced_whitelist_r",
+  "name": "AdvancedWhitelistR",
+  "version": "1.0.3",
+  "repository": "https://github.com/EMUnion/AdvancedWhitelistR",
+  "link": "https://github.com/EMUnion/AdvancedWhitelistR",
+  "authors": [
+    "noionion",
+    "GamerNoTitle"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.1.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "For outline-model Whitelist"
+  }
+}

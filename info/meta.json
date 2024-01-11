@@ -1,0 +1,20 @@
+{
+  "schema_version": 3,
+  "id": "info",
+  "name": "Info",
+  "version": "0.2.0",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [
+    "psutil",
+    "py-cpuinfo"
+  ],
+  "description": {
+    "en_us": "Get server info",
+    "zh_cn": "获取服务器信息"
+  }
+}

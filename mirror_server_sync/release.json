@@ -1,0 +1,62 @@
+{
+  "schema_version": 7,
+  "id": "mirror_server_sync",
+  "latest_version": "1.0.1",
+  "releases": [
+    {
+      "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.1",
+      "name": "Mirror Server Sync V1.0.1",
+      "tag_name": "v1.0.1",
+      "created_at": "2022-05-18T06:17:50Z",
+      "assets": [
+        {
+          "name": "MirrorServerSync-v1.0.1.mcdr",
+          "size": 3361,
+          "download_count": 136,
+          "created_at": "2022-05-18T06:23:05Z",
+          "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.1/MirrorServerSync-v1.0.1.mcdr"
+        }
+      ],
+      "description": "# Bug Fix:\r\n\r\n- Adding independent thread to each function\r\n- Fix !!msync recover feature\r\n\r\n**Full Changelog**: https://github.com/VisualSpliter/MirrorServerSync/commits/v1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/VisualSpliter/MirrorServerSync/releases/tag/v1.0.0",
+      "name": "Mirror Server Sync V1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2022-05-18T06:17:50Z",
+      "assets": [
+        {
+          "name": "MirrorServerSync-v1.0.0.mcdr",
+          "size": 3314,
+          "download_count": 62,
+          "created_at": "2022-05-17T08:58:02Z",
+          "browser_download_url": "https://github.com/VisualSpliter/MirrorServerSync/releases/download/v1.0.0/MirrorServerSync-v1.0.0.mcdr"
+        }
+      ],
+      "description": "First Release\r\nPlugin Feature Complete\r\n显示用法\r\n!!msync 显示用法\r\n!!msync peek 查看主服务器qb最新存档信息\r\n!!msync sync 备份当前镜像服存档，并同步主服务器qb最新存档\r\n!!msync recover 回档至同步前存档\r\n!!msync help 显示用法\r\n所有操作需要权限等级2",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "mirror_server_sync",
+        "name": "Mirror Server Sync",
+        "version": "1.0.0",
+        "repository": "https://github.com/VisualSpliter/MirrorServerSync",
+        "link": "https://github.com/VisualSpliter/MirrorServerSync",
+        "authors": [
+          "MRNOBODY-ZST",
+          "Power-tile"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+          "zh_cn": "一个简单的MCDR插件，用于同步Minecraft地图文件"
+        }
+      }
+    }
+  ]
+}

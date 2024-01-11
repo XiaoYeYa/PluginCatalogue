@@ -1,0 +1,20 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"6d97ff9f3d7a5a087fd2aa57de5c7052a97e39e1c042493f4568b3f7e6a03a83\"",
+      "release_tags": [
+        "player_manager-v1.2.1",
+        "player_manager-v1.2.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}

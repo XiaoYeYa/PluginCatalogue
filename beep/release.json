@@ -1,0 +1,81 @@
+{
+  "schema_version": 7,
+  "id": "beep",
+  "latest_version": "1.1.0",
+  "releases": [
+    {
+      "url": "https://github.com/TISUnion/Beep/releases/tag/v1.1.0",
+      "name": "Beep v1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2021-08-26T13:49:50Z",
+      "assets": [
+        {
+          "name": "Beep-v1.1.0.mcdr",
+          "size": 1777,
+          "download_count": 4086,
+          "created_at": "2021-08-26T14:01:49Z",
+          "browser_download_url": "https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr"
+        }
+      ],
+      "description": "- Upgraded to MCDR 2.1+ better translation logic\r\n",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "beep",
+        "name": "Beep",
+        "version": "1.1.0",
+        "repository": "https://github.com/TISUnion/Beep",
+        "link": "https://github.com/TISUnion/Beep",
+        "authors": [
+          "Fallen_Breath",
+          "LucunJi"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Use @ <someone> to ping someone, @ all for everyone. Use @@ for a pogger ping",
+          "zh_cn": "@某人，@ all可作用于所有玩家。使用两个@@小心被打"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/TISUnion/Beep/releases/tag/v1.0.0",
+      "name": "",
+      "tag_name": "v1.0.0",
+      "created_at": "2021-08-21T15:31:17Z",
+      "assets": [
+        {
+          "name": "Beep-v1.0.0.mcdr",
+          "size": 1705,
+          "download_count": 1407,
+          "created_at": "2021-08-21T15:35:36Z",
+          "browser_download_url": "https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr"
+        }
+      ],
+      "description": "release for MCDR 2.0 plugin catalogue",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "beep",
+        "name": "Beep",
+        "version": "1.0.0",
+        "repository": "https://github.com/TISUnion/Beep",
+        "link": "https://github.com/TISUnion/Beep",
+        "authors": [
+          "Fallen_Breath",
+          "LucunJi"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Use @ <someone> to ping someone, @ all for everyone. Use @@ for a pogger ping",
+          "zh_cn": "@某人，@ all可作用于所有玩家。使用两个@@小心被打"
+        }
+      }
+    }
+  ]
+}

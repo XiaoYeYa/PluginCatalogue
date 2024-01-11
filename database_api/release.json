@@ -1,0 +1,79 @@
+{
+  "schema_version": 7,
+  "id": "database_api",
+  "latest_version": "0.1.1",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.1",
+      "name": "database_api: v0.1.1",
+      "tag_name": "database_api-v0.1.1",
+      "created_at": "2022-06-30T06:30:57Z",
+      "assets": [
+        {
+          "name": "DatabaseAPI-v0.1.1.mcdr",
+          "size": 1279,
+          "download_count": 183,
+          "created_at": "2022-06-30T06:31:33Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.1/DatabaseAPI-v0.1.1.mcdr"
+        }
+      ],
+      "description": "## [0.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/database_api-v0.1.0...database_api-v0.1.1) (2022-06-30)\n\n\n### Bug Fixes\n\n* **database_api:** ➕ add sqlalchemy to requirements ([db7123e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/db7123ef5fba2b9a206cb47f413cf39c570330e5))",
+      "prerelease": false,
+      "parsed_version": "0.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "database_api",
+        "name": "DatabaseAPI",
+        "version": "0.1.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "sqlalchemy"
+        ],
+        "description": {
+          "en_us": "Database API to access database",
+          "zh_cn": "访问数据库 API"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/database_api-v0.1.0",
+      "name": "database_api: v0.1.0",
+      "tag_name": "database_api-v0.1.0",
+      "created_at": "2022-06-30T04:16:53Z",
+      "assets": [
+        {
+          "name": "DatabaseAPI-v0.1.0.mcdr",
+          "size": 1158,
+          "download_count": 79,
+          "created_at": "2022-06-30T04:17:28Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/database_api-v0.1.0/DatabaseAPI-v0.1.0.mcdr"
+        }
+      ],
+      "description": "## 0.1.0 (2022-06-30)\n\n\n### Features\n\n* **database_api:** 🔖 support MCDR 2.0 ([5354048](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/53540488d0cbb7ba945b17182ac7b127753d97c8))",
+      "prerelease": false,
+      "parsed_version": "0.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "database_api",
+        "name": "DatabaseAPI",
+        "version": "0.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Database API to access database",
+          "zh_cn": "访问数据库 API"
+        }
+      }
+    }
+  ]
+}

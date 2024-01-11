@@ -1,0 +1,166 @@
+{
+  "schema_version": 7,
+  "id": "todolist",
+  "latest_version": "1.1.1",
+  "releases": [
+    {
+      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.1.1",
+      "name": "todolist-v1.1.1",
+      "tag_name": "todolist-v1.1.1",
+      "created_at": "2023-03-19T05:35:34Z",
+      "assets": [
+        {
+          "name": "ToDoList-v1.1.1.mcdr",
+          "size": 4116,
+          "download_count": 297,
+          "created_at": "2023-03-19T05:37:52Z",
+          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.1.1/ToDoList-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## What's Changed\r\n* 新增tag功能，优化了部分UI\r\n* [Hotfix] 修復todolist的add模式，於輸入五個參數的狀況下不會儲存detail的問題 by @dream-rhythm in https://github.com/Flash-Z/MCDReforgedPlugins/pull/1\r\n\r\n## New Contributors\r\n* @dream-rhythm made their first contribution in https://github.com/Flash-Z/MCDReforgedPlugins/pull/1\r\n\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.3...todolist-v1.1.1",
+      "prerelease": false,
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.1.1",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.3",
+      "name": "todolist-v1.0.3",
+      "tag_name": "todolist-v1.0.3",
+      "created_at": "2023-02-08T11:29:33Z",
+      "assets": [
+        {
+          "name": "ToDoList-v1.0.3.mcdr",
+          "size": 3396,
+          "download_count": 89,
+          "created_at": "2023-02-15T09:50:19Z",
+          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.3/ToDoList-v1.0.3.mcdr"
+        }
+      ],
+      "description": "更新了add功能，现在描述和进度参数改为可选；\r\n更新了部分UI，现在为空的参数不会显示；\r\n重构了部分代码\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.2...todolist-v1.0.3",
+      "prerelease": false,
+      "parsed_version": "1.0.3",
+      "meta": "not fetched"
+    },
+    {
+      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.2",
+      "name": "todolist-v1.0.2",
+      "tag_name": "todolist-v1.0.2",
+      "created_at": "2023-02-05T05:53:48Z",
+      "assets": [
+        {
+          "name": "ToDoList-v1.0.2.mcdr",
+          "size": 3344,
+          "download_count": 82,
+          "created_at": "2023-02-05T06:01:13Z",
+          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.2/ToDoList-v1.0.2.mcdr"
+        }
+      ],
+      "description": "**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.1...todolist-v1.0.2",
+      "prerelease": false,
+      "parsed_version": "1.0.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.2",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.1",
+      "name": "todolist-v1.0.1",
+      "tag_name": "todolist-v1.0.1",
+      "created_at": "2023-02-03T06:34:31Z",
+      "assets": [
+        {
+          "name": "ToDoList-v1.0.1.mcdr",
+          "size": 3040,
+          "download_count": 71,
+          "created_at": "2023-02-03T06:38:11Z",
+          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.1/ToDoList-v1.0.1.mcdr"
+        }
+      ],
+      "description": "todolist-v1.0.1\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/compare/todolist-v1.0.0...todolist-v1.0.1",
+      "prerelease": false,
+      "parsed_version": "1.0.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.1",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/tag/todolist-v1.0.0",
+      "name": "todolist-v1.0.0",
+      "tag_name": "todolist-v1.0.0",
+      "created_at": "2023-02-02T05:24:20Z",
+      "assets": [
+        {
+          "name": "ToDoList-v1.0.0.mcdr",
+          "size": 3273,
+          "download_count": 73,
+          "created_at": "2023-02-02T05:39:26Z",
+          "browser_download_url": "https://github.com/Flash-Z/MCDReforgedPlugins/releases/download/todolist-v1.0.0/ToDoList-v1.0.0.mcdr"
+        }
+      ],
+      "description": "todolist-v1.0.0\r\n\r\n**Full Changelog**: https://github.com/Flash-Z/MCDReforgedPlugins/commits/todolist-v1.0.0",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.0",
+        "repository": "https://github.com/Flash-Z/MCDReforgedPlugins",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      }
+    }
+  ]
+}

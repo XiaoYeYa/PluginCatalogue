@@ -1,0 +1,18 @@
+{
+  "schema_version": 3,
+  "id": "showshowway",
+  "name": "ShowShowWay",
+  "version": "1.1.0",
+  "repository": "https://github.com/WhiteXero/ShowShowWay",
+  "link": "https://github.com/WhiteXero/ShowShowWay",
+  "authors": [
+    "WhiteXero"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.1.0"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "获取玩家的头，或者展示手上的物品"
+  }
+}

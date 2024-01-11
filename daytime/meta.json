@@ -1,0 +1,19 @@
+{
+  "schema_version": 3,
+  "id": "daytime",
+  "name": "Daytime",
+  "version": "1.1.0",
+  "repository": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+  "link": "https://github.com/BelowZeroKelvin/MCDR-Daytime",
+  "authors": [
+    "ZeroKelvin"
+  ],
+  "dependencies": {
+    "mcdreforged": "^2.0.0-beta.1"
+  },
+  "requirements": [],
+  "description": {
+    "en_us": "show time in minecraft",
+    "zh_cn": "显示游戏中的时间"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 7,
+  "id": "online_player_api",
+  "latest_version": "1.0.0",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/online_player_api-v1.0.0",
+      "name": "online_player_api: v1.0.0",
+      "tag_name": "online_player_api-v1.0.0",
+      "created_at": "2023-02-03T20:32:29Z",
+      "assets": [
+        {
+          "name": "OnlinePlayerAPI-v1.0.0.mcdr",
+          "size": 877,
+          "download_count": 979,
+          "created_at": "2023-02-03T20:33:11Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/online_player_api-v1.0.0/OnlinePlayerAPI-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## 1.0.0 (2023-02-03)\n\n\n### Miscellaneous Chores\n\n* **online_player_api:** 🚚 unarchive online_player_api ([620a0a2](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/620a0a2e34ce3885d52ae118a203b5f2e64afb17))",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "online_player_api",
+        "name": "OnlinePlayerAPI",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/online_player_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Online Player API",
+          "zh_cn": "在线玩家 API"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": 7,
+  "id": "lite_file_manager",
+  "latest_version": "1.3.0",
+  "releases": [
+    {
+      "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.3.0",
+      "name": "",
+      "tag_name": "v1.3.0",
+      "created_at": "2021-08-26T13:08:11Z",
+      "assets": [
+        {
+          "name": "LiteFileManager-v1.3.0.mcdr",
+          "size": 25224,
+          "download_count": 1662,
+          "created_at": "2021-08-26T13:57:51Z",
+          "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.3.0/LiteFileManager-v1.3.0.mcdr"
+        }
+      ],
+      "description": "- Upgraded to MCDR 2.1+ better translation logic\r\n",
+      "prerelease": false,
+      "parsed_version": "1.3.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "lite_file_manager",
+        "name": "Lite File Manager",
+        "version": "1.3.0",
+        "repository": "https://github.com/MCDReforged/LiteFileManager",
+        "link": "https://github.com/MCDReforged/LiteFileManager",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7",
+          "requests"
+        ],
+        "description": {
+          "en_us": "A lite-weight in-game file manager",
+          "zh_cn": "一个轻量级的游戏内文件管理器"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.1",
+      "name": "LiteFileManager v1.2.1",
+      "tag_name": "v1.2.1",
+      "created_at": "2021-08-16T17:08:03Z",
+      "assets": [
+        {
+          "name": "LiteFileManager-v1.2.1.mcdr",
+          "size": 25148,
+          "download_count": 1381,
+          "created_at": "2021-08-16T17:09:01Z",
+          "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.1/LiteFileManager-v1.2.1.mcdr"
+        }
+      ],
+      "description": "Added LICENSE into plugin",
+      "prerelease": false,
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "lite_file_manager",
+        "name": "Lite File Manager",
+        "version": "1.2.1",
+        "repository": "https://github.com/MCDReforged/LiteFileManager",
+        "link": "https://github.com/MCDReforged/LiteFileManager",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.7"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7",
+          "requests"
+        ],
+        "description": {
+          "en_us": "A lite-weight in-game file manager",
+          "zh_cn": "一个轻量级的游戏内文件管理器"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/MCDReforged/LiteFileManager/releases/tag/v1.2.0",
+      "name": "LiteFileManager v1.2.0",
+      "tag_name": "v1.2.0",
+      "created_at": "2021-08-15T15:45:13Z",
+      "assets": [
+        {
+          "name": "LiteFileManager-v1.2.0.mcdr",
+          "size": 12758,
+          "download_count": 1365,
+          "created_at": "2021-08-16T17:07:34Z",
+          "browser_download_url": "https://github.com/MCDReforged/LiteFileManager/releases/download/v1.2.0/LiteFileManager-v1.2.0.mcdr"
+        }
+      ],
+      "description": "MCDR 2.0 plugin format!\r\n\r\nTranslation support",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "lite_file_manager",
+        "name": "Lite File Manager",
+        "version": "1.2.0",
+        "repository": "https://github.com/MCDReforged/LiteFileManager",
+        "link": "https://github.com/MCDReforged/LiteFileManager",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.7"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7",
+          "requests"
+        ],
+        "description": {
+          "en_us": "A lite-weight in-game file manager",
+          "zh_cn": "一个轻量级的游戏内文件管理器"
+        }
+      }
+    }
+  ]
+}

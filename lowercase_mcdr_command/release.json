@@ -1,0 +1,260 @@
+{
+  "schema_version": 7,
+  "id": "lowercase_mcdr_command",
+  "latest_version": "1.2.2",
+  "releases": [
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.2",
+      "name": "lowercase_mcdr_command: v1.2.2",
+      "tag_name": "lowercase_mcdr_command-v1.2.2",
+      "created_at": "2023-01-30T21:16:06Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRCommand-v1.2.2.mcdr",
+          "size": 857,
+          "download_count": 686,
+          "created_at": "2023-01-30T21:16:53Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.2/LowercaseMCDRCommand-v1.2.2.mcdr"
+        }
+      ],
+      "description": "## [1.2.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.2.1...lowercase_mcdr_command-v1.2.2) (2023-01-30)\n\n\n### Bug Fixes\n\n* **lowercase_mcdr_command:** ✏️ fix name typo ([5103095](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/51030958472d375221ab7d5df94195215b2dd877))",
+      "prerelease": false,
+      "parsed_version": "1.2.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR Command",
+        "version": "1.2.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.1",
+      "name": "lowercase_mcdr_command: v1.2.1",
+      "tag_name": "lowercase_mcdr_command-v1.2.1",
+      "created_at": "2023-01-26T21:20:10Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.2.1.mcdr",
+          "size": 856,
+          "download_count": 103,
+          "created_at": "2023-01-26T21:20:50Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.1/LowercaseMCDRcommand-v1.2.1.mcdr"
+        }
+      ],
+      "description": "## [1.2.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.2.0...lowercase_mcdr_command-v1.2.1) (2023-01-26)\n\n\n### Bug Fixes\n\n* **lowercase_mcdr_command:** 🐛 fix requires response ([da3977e](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/da3977e7b76e9a4c5b8d0e44be38002e284708e0))",
+      "prerelease": false,
+      "parsed_version": "1.2.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.2.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.2.0",
+      "name": "lowercase_mcdr_command: v1.2.0",
+      "tag_name": "lowercase_mcdr_command-v1.2.0",
+      "created_at": "2023-01-26T17:40:15Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.2.0.mcdr",
+          "size": 910,
+          "download_count": 82,
+          "created_at": "2023-01-26T17:40:59Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.2.0/LowercaseMCDRcommand-v1.2.0.mcdr"
+        }
+      ],
+      "description": "## [1.2.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.1.2...lowercase_mcdr_command-v1.2.0) (2023-01-26)\n\n\n### Features\n\n* **lowercase_mcdr_command:** ✨ fit all mcdr version ([3b2ee57](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/3b2ee5753cbe8894f432a1926062a6bcefa33613))",
+      "prerelease": false,
+      "parsed_version": "1.2.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.2.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.1.2",
+      "name": "lowercase_mcdr_command: v1.1.2",
+      "tag_name": "lowercase_mcdr_command-v1.1.2",
+      "created_at": "2023-01-15T10:26:25Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.1.2.mcdr",
+          "size": 1051,
+          "download_count": 110,
+          "created_at": "2023-01-15T10:27:03Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.1.2/LowercaseMCDRcommand-v1.1.2.mcdr"
+        }
+      ],
+      "description": "## [1.1.2](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.1.1...lowercase_mcdr_command-v1.1.2) (2023-01-15)\n\n\n### Build System\n\n* **lowercase_mcdr_command:** ➕ v1.1.2 for MCDR v2.7.0 ([436c226](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/436c2263adb0c1c1c69b25a9cacc5164cd8bf12b))",
+      "prerelease": false,
+      "parsed_version": "1.1.2",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.1.2",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.7.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.1.1",
+      "name": "lowercase_mcdr_command: v1.1.1",
+      "tag_name": "lowercase_mcdr_command-v1.1.1",
+      "created_at": "2022-12-28T20:59:21Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.1.1.mcdr",
+          "size": 1050,
+          "download_count": 128,
+          "created_at": "2022-12-28T20:59:57Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.1.1/LowercaseMCDRcommand-v1.1.1.mcdr"
+        }
+      ],
+      "description": "## [1.1.1](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.1.0...lowercase_mcdr_command-v1.1.1) (2022-12-28)\n\n\n### Build System\n\n* **lowercase_mcdr_command:** 🔖 1.1.1 for mcdr 2.6.1 ([cd1b675](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/cd1b6753a06d065a16879c4cae6a940972af453a))",
+      "prerelease": false,
+      "parsed_version": "1.1.1",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.1.1",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.6.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.1.0",
+      "name": "lowercase_mcdr_command: v1.1.0",
+      "tag_name": "lowercase_mcdr_command-v1.1.0",
+      "created_at": "2022-12-27T19:10:53Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.1.0.mcdr",
+          "size": 1051,
+          "download_count": 74,
+          "created_at": "2022-12-27T19:11:36Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.1.0/LowercaseMCDRcommand-v1.1.0.mcdr"
+        }
+      ],
+      "description": "## [1.1.0](https://github.com/AnzhiZhang/MCDReforgedPlugins/compare/lowercase_mcdr_command-v1.0.0...lowercase_mcdr_command-v1.1.0) (2022-12-27)\n\n\n### Features\n\n* **lowercase_mcdr_command:** 🔖 1.1.0 for mcdr 2.6.0 ([cb24355](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/cb24355352f551abd275b9f6d85080239ea77bfd))",
+      "prerelease": false,
+      "parsed_version": "1.1.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.1.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "2.6.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    },
+    {
+      "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/lowercase_mcdr_command-v1.0.0",
+      "name": "lowercase_mcdr_command: v1.0.0",
+      "tag_name": "lowercase_mcdr_command-v1.0.0",
+      "created_at": "2022-12-27T19:04:50Z",
+      "assets": [
+        {
+          "name": "LowercaseMCDRcommand-v1.0.0.mcdr",
+          "size": 1048,
+          "download_count": 73,
+          "created_at": "2022-12-27T19:05:31Z",
+          "browser_download_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/lowercase_mcdr_command-v1.0.0/LowercaseMCDRcommand-v1.0.0.mcdr"
+        }
+      ],
+      "description": "## 1.0.0 (2022-12-27)\n\n\n### Features\n\n* **lowercase_mcdr_command:** 🎉 new plugin lowercase_mcdr_command ([a0c255b](https://github.com/AnzhiZhang/MCDReforgedPlugins/commit/a0c255bc52da3a24ea91f26978129b0fc416b223))",
+      "prerelease": false,
+      "parsed_version": "1.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "lowercase_mcdr_command",
+        "name": "Lowercase MCDR command",
+        "version": "1.0.0",
+        "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "~2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Lowercase `!!MCDR` command",
+          "zh_cn": "小写的 `!!MCDR` 指令"
+        }
+      }
+    }
+  ]
+}

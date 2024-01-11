@@ -1,0 +1,24 @@
+{
+  "schema_version": 3,
+  "id": "joinmotd_reforged",
+  "name": "Join MOTD Reforged",
+  "version": "1.0.0",
+  "repository": "https://github.com/iXORTech/joinMOTD-Reforged",
+  "link": "https://github.com/iXORTech/joinMOTD-Reforged",
+  "authors": [
+    "iXOR Technology",
+    "Cubik65536"
+  ],
+  "dependencies": {
+    "mcdreforged": ">=2.10.0",
+    "daycount_nbt": "^2.2.1"
+  },
+  "requirements": [
+    "mcdreforged >= 2.10.0",
+    "nbtlib >= 2.0.0"
+  ],
+  "description": {
+    "en_us": "Send player a MOTD when he joins",
+    "zh_cn": "当玩家加入游戏时向其发送欢迎信息"
+  }
+}

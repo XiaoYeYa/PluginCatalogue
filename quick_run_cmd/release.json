@@ -1,0 +1,46 @@
+{
+  "schema_version": 7,
+  "id": "quick_run_cmd",
+  "latest_version": "2.0.0",
+  "releases": [
+    {
+      "url": "https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0",
+      "name": "quick_run_cmdv2.0.0",
+      "tag_name": "2.0.0",
+      "created_at": "2021-12-24T12:31:01Z",
+      "assets": [
+        {
+          "name": "quick_run_cmd-2.0.0.mcdr",
+          "size": 9504,
+          "download_count": 169,
+          "created_at": "2021-12-24T12:37:07Z",
+          "browser_download_url": "https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr"
+        }
+      ],
+      "description": "N/A",
+      "prerelease": false,
+      "parsed_version": "2.0.0",
+      "meta": {
+        "schema_version": 3,
+        "id": "quick_run_cmd",
+        "name": "quick_run_cmd",
+        "version": "2.0.0",
+        "repository": "https://github.com/R1ckyH/quick_run_cmd",
+        "link": "https://github.com/R1ckyH/quick_run_cmd",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "A plugin for run command quickly.",
+          "zh_cn": "一个快速运行自定义脚本的插件。"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 3,
+  "id": "database_api",
+  "name": "DatabaseAPI",
+  "version": "0.1.1",
+  "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api",
+  "authors": [
+    "Andy Zhang"
+  ],
+  "dependencies": {},
+  "requirements": [
+    "sqlalchemy"
+  ],
+  "description": {
+    "en_us": "Database API to access database",
+    "zh_cn": "访问数据库 API"
+  }
+}

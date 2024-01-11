@@ -1,0 +1,21 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": [
+    {
+      "index": 1,
+      "etag": "\"6404a1d0acd48b8b539a3dfac4f0f7b6a06be3fdb7dbed66c15b67a1e2cc3953\"",
+      "release_tags": [
+        "mcdr_announcements-1.2.2",
+        "mcdr_announcements-1.2.1",
+        "mcdr_announcements-1.2.0"
+      ],
+      "empty": false
+    },
+    {
+      "index": 2,
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "release_tags": [],
+      "empty": true
+    }
+  ]
+}
