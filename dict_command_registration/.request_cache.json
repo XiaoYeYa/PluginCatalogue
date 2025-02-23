@@ -1,0 +1,106 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "91760686": {
+      "meta": {
+        "schema_version": 4,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.1.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.7.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      },
+      "size": 3189,
+      "hash_md5": "ecd8a7340159dbd7ae2e091db37fcf9e",
+      "hash_sha256": "f32f54019ea41e4433e0f186bd915e32fcb1c7b1456097e06b590b2ca989d934",
+      "ttl": 20
+    },
+    "89870496": {
+      "meta": {
+        "schema_version": 4,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.2",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      },
+      "size": 3105,
+      "hash_md5": "f09348676c9137de9f3e6649526ca5c8",
+      "hash_sha256": "f75dd27c61c6f0980441ddaf97a87cb7ce182ebf2091874b1e12d2d3aae7c252",
+      "ttl": 20
+    },
+    "89856417": {
+      "meta": {
+        "schema_version": 4,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      },
+      "size": 3080,
+      "hash_md5": "c2098e009c555596554c5c8c947e3d1e",
+      "hash_sha256": "d91a6989fe11eef9e4684f054ecdbca43f8279ae53ff1a8baccbf34081ee71ed",
+      "ttl": 20
+    },
+    "89822971": {
+      "meta": {
+        "schema_version": 4,
+        "id": "dict_command_registration",
+        "name": "Dict Command Registration",
+        "version": "1.0.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Register your command by a python dict",
+          "zh_cn": "用 Python 字典注册您的指令"
+        }
+      },
+      "size": 3040,
+      "hash_md5": "408c9d16e05fec73449342f4f25af0e4",
+      "hash_sha256": "1ef262001de539a15a750b92f1adb29a1ff2aa768702603c18f31f2cc5d2c104",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"4ba0cebe6e40e830a6c7f48336e9d6bfd11895ff28ee1983eebb7ce78ebc494e\"",
+    "data": "H4sIAEQtuWcC/62YbW/jNgyA/0qQr2vj1En6EqC4Hdah2HC9dod2O3QYDNlmbDWy5ElyssTofx8lv8TO7iXp9KVNFPIhTZOUqHJI4+F84F9OppezC//yZDDkIobArg7vbn5e37NfWXR7tSWfP60ivtzc39yN72+eJncvyfXQiJMMrOxPN59gIWQC8QMrEsqV+XVRMBY0Iu/5NqXPKeGJ92XpXNIV0UZ2QZgCXBFrDhK/l0MmUKpPMSrW0cnFdOyf+ef73v92/vvnjyx6uZt8vHm/uXv8xTcqBG0QGRSSGalU61zNPa9aVaOE6rQICwUyElwD16NIZF7hNTbera6nhpLImlMZM0v7xJzWtAqBSOX1vU91xvYd6aj0hReCMbFGSHCcIa9V3FEoT95GQcXSEzoFDCBKvNpQUKWPdsoqlfYfhtByFIZTQnwsqVZDt0yyvJaehFxUwCJUkaS5poIf7WBP2dAwWwmnW/ImGipbiPHtaGWrZLRhhQl5tHqlVXq2vKLNa+VHBHSFwX4bck/dEPUmt1X+hLK2GvB/sKKwDppf8iJkNLIvhmoISJzZira1/npMNXylfcTQvrC9jjTotiQhl50O8+0Ht5H/vmXD/F4MD0B5lmOAS9i44BlMaf42JRZhEZNQSKKFdGGgxyt7X609DSRzYcdybMcUwkmkLcduIEoVcFgVHMK1ONWWHC+ysO6SzkzsSo4oRRMO4ILaskqvbeyhJDxKneAbVFl/qrKDJE6Sg1S9NWQidMFDcc+ySk+lpN7idODIW0M3qD5cwsIV3KB2cC3d5Id1W9r8aNC48WrMFRf0BuWVDZyhZEESJ/SW1ZwyErIF6cjvGlZ1V64lDQtnzXWH6xxnQkeu72j7ZyV39GoztqHJMqrdRMWS+uXjDm/y/D8mzIKj7t2gentDtQnVP7nbhb5oqx5rXCWoQXnlDznRaROqnEhwEylD8sqQ4PlwNBqVKZDqGJOBdNMZKpDdS2WU4onWAbNsULicEW0HkoV1O8YJhQkSu/C8ZbX54+740suXHEd4F2jL6ZEzykBpwd28yRbWs8GFpgsaHTS0HWKmxyvfKcojOCGMnWCqahpRrAMckesdLATmZvsyIHwskkE9vDEgbjbeBlV69YQQQ87ExlW369Bsc5BANE6NRBuuP/bHp+OLU//q8exsPpvMJ1fPdnLM477U7HTsn/rjx/HF/OxqPvWfq7xU6deFZpWQ2Rvqp8CPR8yT5kHttqjSDuDHnfr8IPWIYUa+daZtfVjx/zMWpyKDHE8/zTWVolvz+dyf9E9DkSi4CebVFNfXRONxfX+1OUgZ1MNGp9XenhIVVI0D17UsoF7LpXiBSKvOtG2Wd52rJ72mS7onmdsz2542VVGBs4q5lGn1q/m7cXU2tc1FStHc8nHsPbseH3eQiCMh6y2JHHj9PC3SNw9PI+AK7G0kjtQ2JXJ2OhmNu/egtx+fBrfAQRI2eLAXHoMPleJgVYuqPP6nvja8ffjQAL5dbLVxPJ90THbvOqPzx1v28vzHbPv8uLwemvsUYi7szC60xJa0CxZVgYYsZ/2b1jWE9SkqMIOgWCxwJvm7oLIXGy1yGpnA//kXfltRRUPKqN70r3eqa4z6RXTCWQeyya0mq2JYkILpoJoMDSojSle3SMbToKoiLZbAdy+Tg16jnf5b7x6R23f3+i+d88Bh5hYAAA=="
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "92299861": {
+      "meta": {
+        "schema_version": 4,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.3.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      },
+      "size": 2518,
+      "hash_md5": "23c82ee951d1d0525eaf89b1cd313f80",
+      "hash_sha256": "abc0d9a75de66808e58071d6e983487d38432c54e691351df16ba77c31c14a1b",
+      "ttl": 20
+    },
+    "81840918": {
+      "meta": {
+        "schema_version": 4,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.3.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      },
+      "size": 2476,
+      "hash_md5": "7fd8bb689489430200b32d778d144f68",
+      "hash_sha256": "e1570835acda24f126bf7cf6ae92ed572ee314c41fd5710ca578212126e7e62f",
+      "ttl": 20
+    },
+    "72252591": {
+      "meta": {
+        "schema_version": 4,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.2.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      },
+      "size": 2433,
+      "hash_md5": "8b180a375888c7f95c47ebec46e93076",
+      "hash_sha256": "d2fca24b7c4ff1a089643c57bd3132829342f47a22edaaa09fd1ae532d1e6c02",
+      "ttl": 20
+    },
+    "71917239": {
+      "meta": {
+        "schema_version": 4,
+        "id": "advanced_calculator",
+        "name": "AdvancedCalculator",
+        "version": "0.2.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/advanced_calculator",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Provides multiple convenient in-game calculations",
+          "zh_cn": "提供游戏内多种便捷计算"
+        }
+      },
+      "size": 2323,
+      "hash_md5": "55ba58ae4ed1aeaa37ef325e64cee6be",
+      "hash_sha256": "95ca7fa0ab04e661db2c0d933bc77be19c923f4fdaee2eea435641571737d5b0",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"4ba0cebe6e40e830a6c7f48336e9d6bfd11895ff28ee1983eebb7ce78ebc494e\"",
+    "data": "H4sIAEQtuWcC/62YbW/jNgyA/0qQr2vj1En6EqC4Hdah2HC9dod2O3QYDNlmbDWy5ElyssTofx8lv8TO7iXp9KVNFPIhTZOUqHJI4+F84F9OppezC//yZDDkIobArg7vbn5e37NfWXR7tSWfP60ivtzc39yN72+eJncvyfXQiJMMrOxPN59gIWQC8QMrEsqV+XVRMBY0Iu/5NqXPKeGJ92XpXNIV0UZ2QZgCXBFrDhK/l0MmUKpPMSrW0cnFdOyf+ef73v92/vvnjyx6uZt8vHm/uXv8xTcqBG0QGRSSGalU61zNPa9aVaOE6rQICwUyElwD16NIZF7hNTbera6nhpLImlMZM0v7xJzWtAqBSOX1vU91xvYd6aj0hReCMbFGSHCcIa9V3FEoT95GQcXSEzoFDCBKvNpQUKWPdsoqlfYfhtByFIZTQnwsqVZDt0yyvJaehFxUwCJUkaS5poIf7WBP2dAwWwmnW/ImGipbiPHtaGWrZLRhhQl5tHqlVXq2vKLNa+VHBHSFwX4bck/dEPUmt1X+hLK2GvB/sKKwDppf8iJkNLIvhmoISJzZira1/npMNXylfcTQvrC9jjTotiQhl50O8+0Ht5H/vmXD/F4MD0B5lmOAS9i44BlMaf42JRZhEZNQSKKFdGGgxyt7X609DSRzYcdybMcUwkmkLcduIEoVcFgVHMK1ONWWHC+ysO6SzkzsSo4oRRMO4ILaskqvbeyhJDxKneAbVFl/qrKDJE6Sg1S9NWQidMFDcc+ySk+lpN7idODIW0M3qD5cwsIV3KB2cC3d5Id1W9r8aNC48WrMFRf0BuWVDZyhZEESJ/SW1ZwyErIF6cjvGlZ1V64lDQtnzXWH6xxnQkeu72j7ZyV39GoztqHJMqrdRMWS+uXjDm/y/D8mzIKj7t2gentDtQnVP7nbhb5oqx5rXCWoQXnlDznRaROqnEhwEylD8sqQ4PlwNBqVKZDqGJOBdNMZKpDdS2WU4onWAbNsULicEW0HkoV1O8YJhQkSu/C8ZbX54+740suXHEd4F2jL6ZEzykBpwd28yRbWs8GFpgsaHTS0HWKmxyvfKcojOCGMnWCqahpRrAMckesdLATmZvsyIHwskkE9vDEgbjbeBlV69YQQQ87ExlW369Bsc5BANE6NRBuuP/bHp+OLU//q8exsPpvMJ1fPdnLM477U7HTsn/rjx/HF/OxqPvWfq7xU6deFZpWQ2Rvqp8CPR8yT5kHttqjSDuDHnfr8IPWIYUa+daZtfVjx/zMWpyKDHE8/zTWVolvz+dyf9E9DkSi4CebVFNfXRONxfX+1OUgZ1MNGp9XenhIVVI0D17UsoF7LpXiBSKvOtG2Wd52rJ72mS7onmdsz2542VVGBs4q5lGn1q/m7cXU2tc1FStHc8nHsPbseH3eQiCMh6y2JHHj9PC3SNw9PI+AK7G0kjtQ2JXJ2OhmNu/egtx+fBrfAQRI2eLAXHoMPleJgVYuqPP6nvja8ffjQAL5dbLVxPJ90THbvOqPzx1v28vzHbPv8uLwemvsUYi7szC60xJa0CxZVgYYsZ/2b1jWE9SkqMIOgWCxwJvm7oLIXGy1yGpnA//kXfltRRUPKqN70r3eqa4z6RXTCWQeyya0mq2JYkILpoJoMDSojSle3SMbToKoiLZbAdy+Tg16jnf5b7x6R23f3+i+d88Bh5hYAAA=="
+  }
+}

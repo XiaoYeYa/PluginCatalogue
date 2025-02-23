@@ -1,0 +1,56 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "65853389": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_sync",
+        "name": "Mirror Server Sync",
+        "version": "1.0.1",
+        "link": "https://github.com/VisualSpliter/MirrorServerSync",
+        "authors": [
+          "MRNOBODY-ZST",
+          "Power-tile"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+          "zh_cn": "一个简单的MCDR插件，用于同步Minecraft地图文件"
+        }
+      },
+      "size": 3361,
+      "hash_md5": "823ac3730150e15b371a2fd1b652cd8f",
+      "hash_sha256": "3e26eb8966f7692772a12fad9286ae26cc19d969ad3f214cceef396821865c33",
+      "ttl": 20
+    },
+    "65758908": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mirror_server_sync",
+        "name": "Mirror Server Sync",
+        "version": "1.0.0",
+        "link": "https://github.com/VisualSpliter/MirrorServerSync",
+        "authors": [
+          "MRNOBODY-ZST",
+          "Power-tile"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+          "zh_cn": "一个简单的MCDR插件，用于同步Minecraft地图文件"
+        }
+      },
+      "size": 3314,
+      "hash_md5": "44b784e879099b0ee7386744368e2e22",
+      "hash_sha256": "9c40047a3bb3a91d0ae096434c2fd3b9916e2ce6efd161d611f147da71b4895e",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"5721f93cda5aa65193679dfd77943147d7eb3f62a300949afcef4f8f20f7e847\"",
+    "data": "H4sIAHP7uWcC/+2YX2/bNhDAv4rg1zWR7DhLY6DotgbLBjR11mQbkGEQKPlksaZIjqTsOkK++44UZVtO0bkeH/PSxhTvx9PpeP+aAZ0NJtH49fgyGY7Phq+iARczSN3q4GO6mF9Nf5nm7z6sBvYRqcCu31ClhLoDtQR1t+a5fVbUjKXdhj+orgm7k4waUPGXtktFl8TYzQVhGnBFrDgo/N0MmJhT/gxjpZxal+fJ2eXrZE/XqdP1JyI+T3+zWwniiUprxezT0hipJ3HcrurTOTVlndUaVC64AW5Oc1HFddyx3y7fjC1lrjynPcQu7RMl9bQWgUgdP1O8NBXb12VH6tn+QjAmVohKv/m4eCO7BVE+PxqEsk0sTAloTNz05MxCtTlGNSfXuP/Qog6l0boKZkfAvCQqZz3nqYkVSNEy60znikpDBT9GzZ68BQo1J5w+kmOBKO84VsNj5J2cBcASffUYQivYxO7e5eunVpsc6BJtfzR1j2ChZi1dCJjumMxdGxRPlxRWabdD1hmjLhhohKVkVrlb7+LB0zfemS/GmBlsvqJl/Bjd0UoyiG7eXX2MblmNUSa6F5HdHt0QGf38KwMdTYvohnLIFSlMNOXRFS0KUPh6UUv310otdmLX1y3nvt4B+lrof32FQ1ixA1niAtZBgJbT2H+7W5tjaCCZUMQIFeSEHrDp/XQHGiBVkIMcyIVkIcJY24FcdtK6hsMu00Fgx9Obq8vrKvPxN9wZ24tLtKZzDhAEu4E18SZpZIrwvAzD71iN/6v1ETIP4yKkjdYZE1kQIO6PHayJdUl8BjVpKH0t3rL6dAVFMLplbelGBfISp7hyXtKxMakb9Jgg+I4VNx2dET6vyTwMfgPrypg5eQQVSnNPa4MtN4pmdbhYu+XtlEtZKOW3uP1iLCBedoUFClbUBDKMQ/XvUUC+9fdnZ9iFUNG8Y/WSRZuW/KOAeemLh/l2KpifWlbcfCeJKTtrSaIgkLEsKm4yggXn6elpUwJpy5sKVKAg0ZJcflV5ibVyCGjTsbDQq4hxrU/hFJ9hL8QEmQXRfQPbeFHAsqbnNbJmLAjbgXroimJRbwQP9Dk3tN4hXBha0Pyg/vCgc3rA5q2mPIdXhLFX6LGG5hTvA/blPqdlwAIlNEvCFyMV+AaRAQmUjDtWE/sWYgaSiXWw0LeDc3FCATHYmBJjwaNkNDpJxiej8X0ymiQXk2T04JpSOevvGp8k5yejy/vhxeRsPEkuH1rv1OUe6uJkNLwfjifDZDIeP3Spwr8G/vktrap9VZcodblD+GErPzlMPmfol0c3zBstlvx/Nd2lqEBiVYQAjpfRdfeP9tfw/OLi4qxfKuWi5taqdnlFDFb0e4tdjWXVuV2bsk35JdFpG0Vw3aga/JpU4hPkZm91G8Z6yyu6oHvirpjbdvVOmOq8xmbGDoK2T9pOvVN06MKMNYW3nH9xH6VnO4KIIxnrLQkJ3L/NhpjYV6c5cA1uIoqdt3MLyU7OTpPdUez1h9+ja+CgCItu3UAlet8KRku/VcvZZz+/vL593wG+fuX84TrePXI7bL25yr+/v2afHv48f3y4X7wZ2HkNsdNCm5IWGJq2lqU6NVBJ1p/2riDzlVVqO0VRFNiw/FNT1bONEZLm1vB//Y2/llTTjKLrrfvjo3bc0X6HHWt6O3Z+5T1qBgWpmUnbvtGCKkJ5O2KoZNpeIiMWwLcfEj3AiMq6lwQMvw7dPO3NBV9G1y+j65fR9cvo2sYFDmaFQamXIXa77E2cf/oXVDMyGYEbAAA="
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "88875338": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.2.7-dev032",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 50532,
+      "hash_md5": "6271068e634f010bec9070d172b37c75",
+      "hash_sha256": "b8ac698565a05fd3250d86ef2068906a1eeea6154ab24f4832536257f79d2f09",
+      "ttl": 20
+    },
+    "58518201": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.1.1-dev024",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 48090,
+      "hash_md5": "8ff41f0bf3980eb687d3c3ed09a58923",
+      "hash_sha256": "827168ae64c4ad109478ef41f87582df9b1b82de2c369a3004ffc71a0540a31d",
+      "ttl": 20
+    },
+    "54058513": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.0.2-dev022",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 45978,
+      "hash_md5": "1ce0df4ff651d1a1f5a5cc3d567396cf",
+      "hash_sha256": "e9d369fd9846d9b38526be98916d95f72f82d6fa656890b48751dd8a4f603c20",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"1636bf86432b4264291f44fe17ffec5bcd2f0294e60f347b04a02e8b4d8fcccc\"",
+    "data": "H4sIAEQtuWcC/62YbW/bNhCA/4rgTxuWWPJLk9RA0WFrkXVI0yxIty7DIFDU2WJNkSpJ2bOF/PcdKcmyvC6JK33xC8V7eDzdHe9YDFg8mHmT8/HFxfl0Mj7xBkLGELrRwfs3b9cf+K+cXr7ckk+3KyqW2+vtu+mHNzR4v333amCnkxTs3J8TYn5SLF7ALcylWkBsn85zzsN6yu2ILje/+F+fmSm2IsbOmxOuAUfkWoDC/8WAywUTDcFOdwqOpy/OJhej6aHWv539/uma08/vguu7P7cf3rwNrAhBPlFhrridlRiT6Znvl6N6uGAmyaNcg6JSGBBmSGXq5369xuvVq6mlLFTFKRezQ4fEjFW0EoFI7TeaJyblh0rsTW8mziXnco3C4fMX8HdCDYGJxfEEFCp8aRJAg+HTB7d1ps1RyjiBwn2huRxDo+kUxMdQKhFUxzrEQ+EryGQJyyNNFcsMk+IoxVqCloRuSATbkqNJKOgAVqejBJ2AlYQVOttRoqVE4buQoZuHcn0KbIWGPR53IGppZpO5iP2I85yH43e4YrAO6ydZHnFG3UtgBkISpy5CXew+PNfL/ycVxLB7OS7oq0eenHuNwInHMEwVoXaat0a059zVo5zZbXync5p4RHvvmQCqyNx4uIkVqBMvZppKFXuRNCeeVJWcSdDn9ffDMnDUci8TPW5M9yYf35HlPfVOnsD4jmFhS9h0ZVlEYT/rsKQY9CSSihipusJbrKL1161lgKRd13AMl02l7GxZx3CHitY5PC+CnmI6lN6FqsjTqMqiveCbUCVas4UA6ErccQp/l/AjRQRNOqNrTFH9Kr2ALDo7ASlzb8Rl1JWFU33HKXydkOq4M2EPWlqyxbTBCuZ9gC2mARvV3Q+cusr5QY3FA9igT3Ql1xi/qMGciEVOFp3JO05dYSzIFlQP+lagMkMKo1iU95IgG9ReGRP1oHJDOqyP+iGXh7IzR5oy090SjtIOjX7Q1o//g7cDPWTfGtPK6+XhUT3q5/T46jpVe9KHE1qMX/yQEZPU5smIgu7WsRS/iAjWgsPhsEiAlGVGCqp7tJcQd/YpmmDl2pFX1Bj8nxLjGoy5UzfGjoNLEnfVeMfZ+Uk/5UXLLzJstbtiHaNFTRkHbaTo/tZ2oBZfSMPmjD6r8XpqiRareK2ZoHBCOD9BdzSMMvRzLPGrkycC3v3YsRDcDkmhasI4kO4HZY0p/Ko6jyHjctNH5tojuYBXQAx2fsRY5jgYj06Ds9NgdDc6mwXBbDK+d91fFrdnTU9H49PR1M4av5yNzu9L/9PJ/qTJaTBG2t0IZ1zMgtF9nd+rHeDPZ/aEdoPuONPJnvCPjejsSVHK0fO+pR/drb0S39rOJjKFDKuT+rpIs639Pb4I2tUKlbmwxpu8wPE1MVgyH47WhY5F3WxMUp7FCdFhmRBw3KgcqrFMyc9AzcFok4xaw2u2ZAfirqJqumAnjK1zjp2CvTZpnpTtba3p1KUNpWR91yYwqzTZOt4TRByJeGtIZiCq3eyI9lqSMwpCg7sPxMbVWoAvMn46GQb715CX1x+9K9DYwXiXIEAR7t24qwrvqgR4q0pCZ/E/1SXe1eXNVQ16PL4qLbTfWnv/7pGe3V3yz/d/vNje373dDOxdCLEXavZ0WWL6aWzMdGggzXj71nMNUVUBhbYhk/M59gpfcqZaVjIyY9S+gr+w6Gdy8DeOrZhmEePMbNoXNOXFQfle9qxb2bV2tNrFYpiTnJuwbNUsKSXalNdAVt2wDCUjlyCadyvArHGZlg/sl7X1+OjhX9OSwmFyFgAA"
+  }
+}

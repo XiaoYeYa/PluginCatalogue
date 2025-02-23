@@ -1,0 +1,284 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "150224246": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.6+build.240207",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.1.3",
+          "parse"
+        ],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 19068,
+      "hash_md5": "00326c5d4881d5c6a322b07b48dc4e6f",
+      "hash_sha256": "dad9ed10851895302a99a1faf07bddb5fa39add4cfc1e980540fca6ce1ea2976",
+      "ttl": 20
+    },
+    "88253984": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.5+build.67",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 18925,
+      "hash_md5": "236c9f8ab4a7646ccfc848f31d9b3527",
+      "hash_sha256": "b0a56e47d4049d96a3596653f9847be97ccd7982ad7d6ad9666cc1c440ec0520",
+      "ttl": 20
+    },
+    "84162882": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.4+build.66",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 18896,
+      "hash_md5": "5d0886643808640f5b5f332c76319c7f",
+      "hash_sha256": "66aecb48dd82dffb1a9e0c27b1c061f36bb5b58e565b56048271110133688833",
+      "ttl": 20
+    },
+    "84158953": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.3+build.65",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 18898,
+      "hash_md5": "cd69a1c82003e7b7f2137f0d9a3bab0a",
+      "hash_sha256": "362d47efc30d1e67d0dd7ce67e372eacd619e961fb201f7814113be404746a27",
+      "ttl": 20
+    },
+    "72141684": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.2+build.64",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 19009,
+      "hash_md5": "bd8e7c83a3c151cfefa7692d366b94dc",
+      "hash_sha256": "2e734061ed7dbdbd947bbecd94182b8ec828fa2a984a353d9b3a80551a99f391",
+      "ttl": 20
+    },
+    "69647509": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.1+build.63",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 19013,
+      "hash_md5": "2a0d81f5c64d2d7cc1e2e09f84c332b5",
+      "hash_sha256": "04c8cbf845dc3e14c4f3af52c7c42455affb41b36b4e798e9c5ef654ab11eb57",
+      "ttl": 20
+    },
+    "69597292": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.3.0+build.62",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress",
+          "zh_cn": "用于展示进行中的工程任务的插件"
+        }
+      },
+      "size": 18996,
+      "hash_md5": "7ed3dc733cfd58876c781f51b5f8fd26",
+      "hash_sha256": "64133c9a786a7f5acd4cbbfa18ce3615d6d4a3d15c9806639163e22eb6c64559",
+      "ttl": 20
+    },
+    "65852851": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.2.0",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      },
+      "size": 18602,
+      "hash_md5": "c500cbbf6bfd16dc4d0d82b4afa88c67",
+      "hash_sha256": "a9da9dbbc7c46ce572e3df11a6f4ffcede0f783eb6a0bc4e9ac854e80b7b77d4",
+      "ttl": 20
+    },
+    "51032601": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.1.0",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      },
+      "size": 14927,
+      "hash_md5": "12aa6d245cbb017030faa2591651e4a7",
+      "hash_sha256": "1e115f99f6b71a03297c0792307c364cae00fa8e317c4818929e3a068037522d",
+      "ttl": 20
+    },
+    "43396026": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.0.1",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      },
+      "size": 14539,
+      "hash_md5": "a7fb5caf443298d746eff4043a4b492a",
+      "hash_sha256": "7749ed9f1cf192e8422a433b6555d3d0ea4e6b76941243464663157c84488b68",
+      "ttl": 20
+    },
+    "42627286": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mcd_task",
+        "name": "Task",
+        "version": "2.0.0",
+        "link": "https://github.com/TISUnion/Task",
+        "authors": [
+          "Pandaria",
+          "Ra1ny_Yuki"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A plugin to show tasks of project in progress"
+        }
+      },
+      "size": 14540,
+      "hash_md5": "94f53aa3fca9538a5bef5353e2c2645e",
+      "hash_sha256": "423710df9302440aa0231beaad59f26dc1dab67e551a6f73dc95827cfa3ad6d4",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"1c20ab72eccd54afdad9a4bbe93f48ebcfe485780894920c5344dc21affe8b65\"",
+    "data": "H4sIAOSAuWcC/+1YW2/bNhT+K4Zfl0S+rrWBoiuQreiANLukQJFiECjpWGJMkRpJ2XME//cdUtTNCbqYj0OAIrXI8308JM+V1Zgm4/Vo+uNkOZ+/mU4uRmMuEgjt6Pjm+uf9LfuVxR9Xj+TrH7uYb//5/PBhevN4M7+5+/BubMRJDkb2jqit+d6UjIXt4Kc/v3AqeNDMFpLuiDZzG8IU4IjYc5D4XY2ZSCnvowzAKrJYLmaLydvVE+0Ot9vV4X72S0m+Flnyke2ih9+nn68/TW6u06WBE1yNyLCUzCAyrQu1DoJ6VF2lVGdlVCqQseAauL6KRR6UQbPe+927hWFJpeOpFzZDp4wFdWw1BVKqoL+PTOfsVI0eoC+6EYyJPRKE5ywStLCOg/LUhwNhVSB0BnhwOH+0R0CVPlMhC6nsf3hwlkXhIUpIzuNxIFTJmMqxCiQUoqYrIxVLWmgUO1O5AdRwCZkSTh+JBxdCLYXR60yohRgs7ND8zgTXmCqwThUfjrUOMdAdHrEP4QnY8OlDYT35tnc81v4RGe4o7MNGoigjRmN7LVRDSJLcerP18+PLPaANFQm0F2QgZFSwEgPESIuRysR+pFFOjcRmVEjxALEe4Rz+TCUo5wJy24sz3z8Iew9PdTAc/3WGz0ADizMEWzj44A2sMn8bx4nRMUkkJNFC+hAO8NXg0/JrILkPr8XZ+CaE10lZnA30SpXwMqt9jsfCVesSvMwjF7m8KTsnIErRlAP4sLTYKmiDaSQJjzMvugZauV/17ZHU6/JIHbciJiIfPE4HFlsFKiMuTejQUxvDZqBDMgkbXzID7ci09Ls/q5a099dQYULSeJc+bA00qBoyRnhaktSLrcU2uTUljyA99XLgOtpwLWlUegebDt5L05Gnah36NOf7sxVNHkO5nGq/XVrk0Fz96YydPaE0A57Rq4EOYmEdZN2Uf5R9ltuV0L4GY6BB9UNBdNZsvSAS/HZukEEVEaw8rq6uqgxInUZzkH6eVgNtLpBxhjWSB0fVQLE6yIm2hezGqpVgZcsESXw0a7Ht/fqnz8F9FtjI+VBZ3IAppwyUFtzv5FvwgJMLTTc0flG5/hztAF+9V5THcEEYu0DT0TSmaIfYBrkIHQHzC88GiGpjN+yKcwbEL3E00CpwFWECBRMH3+jQQ1tnk4BdeRISbXhmk+nby+nscrK8my7Wy9l6vrq3NX+RDKRmCxS5nK6M1HyC/+5ru1HZiRBSvbmbzNbT+Xq5vG9ipdMaf36nEzAbsWFfZT3AT534+lnxmKHFvLTbaNfY8XMalEzkUGD2RXmONm8bn0fztZoP03EsSm5OYzrD8T3RWL+djjaZ3Kz920Fn7tGAqLD2TBzXsgQ35jqek9EuEgyG93RLT+C2ZOhaIwumKi6xVDXdcDdT9z+NpnPry1KK5kHFbdvFtaQHRDoSscGQKIC73bSMdus0Bq56p0jMG4QJklv0wE5zqkINecGGz0d7iFzSDU2dLTYbLBn/LqkcrK1FQWOzsW9/4deOKhpRRvVh2LfWXVu9z562Ts/m4porS2BDSqbDug43TDlRGmTdTuVFWNugFlvg3ebwkLXIzQ0WgIHGslfHk/eH1+ew1+ew1+ew//dzGAe9x3gzCK79RqkNkcd/AYD4qU2kFwAA"
+  }
+}

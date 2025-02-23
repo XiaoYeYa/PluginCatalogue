@@ -1,0 +1,103 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "100611939": {
+      "meta": {
+        "schema_version": 4,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.2.0",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.5.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed without op permission.",
+          "zh_cn": "在没有op权限的情况下获取种子"
+        }
+      },
+      "size": 3032,
+      "hash_md5": "b882c3c3fa5b82b393108bacafa7f169",
+      "hash_sha256": "7ec4815e684c287d15af84972bdc38074a5c9edd580a0b3b1020d8f6a4813523",
+      "ttl": 20
+    },
+    "97176035": {
+      "meta": {
+        "schema_version": 4,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.1.0",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed without op permission."
+        }
+      },
+      "size": 2959,
+      "hash_md5": "7cb5af093cca7a6174e38a6c9faf2a2b",
+      "hash_sha256": "30a15e2c170e49fd8684be11795cac24e66a11fc3780074f16b5eeccb4fa5f6d",
+      "ttl": 20
+    },
+    "97136317": {
+      "meta": {
+        "schema_version": 4,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.1",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
+      },
+      "size": 2539,
+      "hash_md5": "80445fb75ce10530b07349607a3f6add",
+      "hash_sha256": "a345ffc3c5fbdcc40980924d31d1ba915f5d3eaf70068c178d0addea4968b477",
+      "ttl": 20
+    },
+    "97058991": {
+      "meta": {
+        "schema_version": 4,
+        "id": "seed",
+        "name": "Seed",
+        "version": "1.0.0",
+        "link": "https://github.com/OptiJava/Seed",
+        "authors": [
+          "OptiJava"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Get world seed quickly!"
+        }
+      },
+      "size": 2480,
+      "hash_md5": "11457a6e41a1d0d42f9e36cfd2106b06",
+      "hash_sha256": "a1787491993b4b4d9824cd27d7cd062e5a400d10f138d952c6e43f44d501993a",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"9fd0174ebaa8cbc1d43462494d9a2157741fa7e9cb13a34c9018066bfbabde22\"",
+    "data": "H4sIAB4YumcC/51YbW/bNhD+K4a/LrEsO3E6A0OHrUOxYkW6zcWADINASWeJMUWqJGXXFvLfdyT16gRtTCCIpSOfR8fj8V5YT2k6XU9W89VyGb5Zra4mUy5SiKx0+le0y97df/j10+Mim5ohUoCR/w2QmvdtxVjUCu9LTT+QPQna0VLSPdFmbEuYApSIAweJ7/WUiYzyIcoA7EfD+Sq8eXN3dzdW5bNV5Rd2f/ryp5mLEE1kVElmRnOtS7UOAidVs4zqvIorBTIRXAPXs0QUQRV05G/3P90Ymkw2RO4rRnROWdKGznEgpwqGWue6YOd6DADDqVvBmDggQXTJR4IO1nNQnvlwIKwOhM4BLYfjT9YEVOkLFbKQ2v6g4SyLQiNKSC/jaUCoknGMpzqQUApHV8UqkRQnCn6hciOo4RIyI5yeiAcXQi2F0etCqIUYLOzR/y4EO0wd2COUHJ+cDgnQPZrYh/AMbPj0sbTn9jPOtH6Pv9GewiFqR8oqZjSx20E1RCQt7Jm1p/np9Z7fBYQUuo0xkPegJwchWTpROGFyQKSo9ESUkxJkQZXCeTPn8nI3iCLfXri1+/NvG47v2ewFaGBxhmAHRx+8gdXmf3tQEjyIJBaSaCF9CEf4evRq+TWQwofX4mw8E8LLUhZnw7hSFbzOS1/isXDVHQFeFXETqbwpe6cn6FUZB/Bh6bB10AXPWBKe5F50LbRuntzukcxr84iLUzETsQ8ehwOLrQOVkyYt6MhTG8NmoGMyCVtfMgPtybT02z+rlrT711JhAtK4lz5sLTSoWzJGeFaRzIutw7a5NCMnkJ56NWAXbbiWNK68g00PH6Tl2FO1Hn2e4/3ZXDqxSy0Kqv1WaZFjd/WnM372jNIIPKNXCx3FQhdkmyH/KPsid1Mz+zqMgQb1DyXRebv0kkjwW7lBBnVMsOKYzWZ1DsSl0QKk30lzQJsLZJJjTeTBUbdQrA4Kom3hurVqpVjJMkFSH806bLe//ulztJ8ltmk+VBY3YiooA6UF97N8Bx5xcqHpliavKs9foh3h67eK8gSuCGNX6DqaJhT9ENueJkLHwPzCswGi2tjrNsU4A+KXOFpoHTQVYQolE0ff6DBA28MmAXvuNCLa8Czmi+X1fHG9uN3MV+ubH9fL5YOt9cv02ayb6zDchKt1eLueLx6c36j8bNLyerHchMt1eIN/D22sbLTGx290AGYhNuyrfAD4uZ++fnF6wtBjXttldN/Y80sak1wUUGL2ba8AFD2Z53A5TsaJqLixRYjiA9FYvJ0J2yxueD4dsZ2xiSknKnKnEuVaVtDISikeIdFn0j4KjMQHuqNncFsu9G2RBVOVVLZxGo643qdVdG7PsZSivT3heMz7cJgOgEhHYjYSiRJ4s5oRIzaKwBXYyx3sdowFCrcX7f3Qx983kz+aWcauZfq1uXXBke9fvDQfUEFL298NfXyXrDbv2ePDP7enh81vp6lpTom57zABeoenv7ccVZGGomTji6kDxE3Cj0yNL7ZbLFe/VFSO1q5FSRNj2H+nRZLaptn8XpesMrdZzSvgNzPE/Yfve6poTBnVx3E/7bpKZ7mBRRtJ61uNV6WwJRXTkWsTrGWJ0q5pN2uJ3BHRYge8304OGpvr3WiThuVb57dP/wOLI9rRBBQAAA=="
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "123276670": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.3.2",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0",
+          "kpi": "~1.4.6"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4882,
+      "hash_md5": "a35cc542adff1f1d39101c30ebf11169",
+      "hash_sha256": "44d52835d96d9b3373bf00f9d136e6be17c5332c2d7b08a6dd7ee3b80af015b0",
+      "ttl": 20
+    },
+    "85909332": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.3.0",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0",
+          "kpi": ">=1.3.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4886,
+      "hash_md5": "167d29c8eb2d5f5deb30a5d67de19ddc",
+      "hash_sha256": "6df65e1f44a1696de40521aef4053d918145630e1234e94fa9a3ac0fb9ab56a2",
+      "ttl": 20
+    },
+    "81966552": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.2.2",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0",
+          "kpi": ">=1.0.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4891,
+      "hash_md5": "4e3d1a94de5db79ad7defd462a396e5b",
+      "hash_sha256": "8be39ad039f4a4a3fa3f25b068fa0d28f45c142dfbb84d92986f48dd56046cf5",
+      "ttl": 20
+    },
+    "78210276": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.2.1",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0",
+          "kpi": ">=1.0.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4884,
+      "hash_md5": "acfe2d134edd19b6bc600112592f454e",
+      "hash_sha256": "5f3243dae0a45a7adfafcba04c8411dc5fc38c0eac4b7de18978de999ea01d78",
+      "ttl": 20
+    },
+    "78207043": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.2.0",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0",
+          "kpi": ">=1.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4874,
+      "hash_md5": "265effef8d28715c1958b1d5c1e34c0e",
+      "hash_sha256": "77f4dc28e053fec788938b3d8955898f68d928d0149267edabd52f82b6e529b0",
+      "ttl": 20
+    },
+    "64996117": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.1.0",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 4989,
+      "hash_md5": "c304f4ab593bb3bccfd2ff1e82c7b334",
+      "hash_sha256": "597a989d8677d6118a9f204057eb2f86cd5530a4012adf6e5c8b3a7e010a6661",
+      "ttl": 20
+    },
+    "53391263": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.0.3",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 3673,
+      "hash_md5": "0cfb17f6cae7cff15fb573ce73946481",
+      "hash_sha256": "7a6d0533331fc5e35402be9b462fda47fe4c56b73a16862df450bcd44821adb1",
+      "ttl": 20
+    },
+    "53379716": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.0.2",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command until all player have left",
+          "zh_cn": "延迟执行命令, 直到所有玩家都离开游戏"
+        }
+      },
+      "size": 3666,
+      "hash_md5": "1e8ce0f5ac29f00f6a00ef40f62e2243",
+      "hash_sha256": "32ba5d6b8745ab1fccf5288965990db0cbad44f758597fec6891e63a72265f51",
+      "ttl": 20
+    },
+    "53297686": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.0.1",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command when all player was leave"
+        }
+      },
+      "size": 3447,
+      "hash_md5": "6fec413c3c78419131317ef4bb9422cf",
+      "hash_sha256": "05591f0cc25eaddbab03949e20cf79a0492ceb278de805e1f290cf956339fd2b",
+      "ttl": 20
+    },
+    "53294729": {
+      "meta": {
+        "schema_version": 4,
+        "id": "delayexe",
+        "name": "Delay Exe",
+        "version": "1.0.0",
+        "link": "https://github.com/kmcsr/delayexe_mcdr/",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Delay execute command when all player was leave"
+        }
+      },
+      "size": 3397,
+      "hash_md5": "8665979a90deb57c9765fae371088e7a",
+      "hash_sha256": "e601c050d06d8fbc6d91d3abe9af3cf4e30f1fa760431842bce6c26e14d2752e",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"192e0bf4c7d97aa5e81416a3cd301530cbdf9a5055b1686e13ee6571c9035f54\"",
+    "data": "H4sIAEUtuWcC/+2Y227jNhCGXyXwbZPIdrzZxkCxPSzaqyLFYoECKRYCJY0l1hTJkpRdR/C7d0iKkuVssrF5VSA3iUXy/zg8zJDDdkKLyfJisVjcvZ/ezr6/vJhwUUDqSief0nX58f438eccyomtIjXY8gIY2cG/kNZ5oWzFqmEsDbXrOtcqedJGKrohxrZYEaYBS8SWg8LvdsJESXmvta2dAXc37xeL29v52Kp7Z9XPDw/Nr84qglii0kYxW1sZI/UySXypvi6pqZqs0aBywQ1wc52LOmmSwP6w+WFhKaXqOL4TW3RMlLSjeQQiddIbXJmaHdtw0LpvtxKMiS1K01fjk14zACgvTwagpk2EqQAnCyv3bthUm1NMce1b9w9nyiE0zpqC4gRIp0Bj7A7Yt4kCKTyryXSuqDRU8FPMGuksSKiScPpITgWhzumtRafoXHsrhA3usVOUXtAmzj/y3d73ngPd4JyeTDtSWpjZSeeX9wdT4rY3ytINhW0aWsgmYzR360ANpKSonVc6f92/co8/dfwC+qWxwp8uJGvQ3S9WQl38/svHT4A/Sij83lbrgwDx8rDdlD/XqSV9a96eBSRObTFr2J1PseLW/g2ekqMbkkwoYoQ6HzuitKNP14sBUp9Pd2oX0ISImEGndoFc6wZet4+fpzmI7l2FN3XWxa9I8OAlRGtacoDzWT2hTfrwminC8yoCGgBt98uvMCkjFpj4CJcxkZ1PwUaJI7SJrkh3lJg0yjLLtIAxUsEqDmkBA9KomDV2Jiq3xgGIh5nB9T6fGQBJG5CM8LIhZQSzJ4QDuiSPoKJs7BA+jnGjaNZEhrEBcnD0Z1FmDozj20QsU4ZjE1vX1MSM2+nHmzwWavflE7AtiIqOATCKuD6gd1WxEf2rPXQX9bitZQFJ+50kpgqTIYmCmLmw+qTNCF6Grq+v2wqIP9ZrUDG+6uXuDFJ5hZe3s0ltAOD9pSbGXaxXzsQCb9pMkOJ8K3tCvwdij/PRmkvMIM8HOvWIV1MG2ggesy49YkTmwtAVzV+VWTwPH1HaD5ryHC4JY5e4yQzNKe5bTNe60yADFnMUWDkOAdPzLrlgQGIOrABok+5eW4BkYhcXaw4Yzl0VEINpDDGWNp/O51fT2dX03ef5fLmYL2fzB5fCyGLc6t3V1Db8PJ8uZ3ehlWx09UKj6UOIwp3t+PObiY0dlDtidHUg+3EQLV8Q5Qx31WmJVN/fhp+egVWiBom3AVRx9BSX3z3ar5vb8fUgFw23s3SDxVti8OJ5VBjuFbb/P3am8kdiRXTqfRrLjWqgK5NK/A25OSodIsmoeEvX9EjuLjBDOujEVOcNXrRtmj/U+GwvGDp1/q+UCI9C3aC76FgcCBFHMjYqEhJ4N5oRETNj4PpgDol9U7Ghdo2eOlhOdWqglmz81rWFrDvkU5sliNUKL7b/NFSN+jZC0twO7K8v+LWhmmaUUbMbJ+c+O/VWHVjblYR161asgBVpmEl9+mBBNdEGlM8Ua5n6zWjEGvgwNpxjI2q7gBIwHjl4uz96V3l7unt7unt7uvt/PN1xMFsMG6OIdphxhfLZ/j9Qj9koExgAAA=="
+  }
+}

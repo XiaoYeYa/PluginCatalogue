@@ -1,0 +1,56 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "119844220": {
+      "meta": {
+        "schema_version": 4,
+        "id": "join_motd_next",
+        "name": "join MOTD next",
+        "version": "0.2.1",
+        "link": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
+        "authors": [
+          "JOZA_ORANGE"
+        ],
+        "dependencies": {
+          "daycount_nbt": ">=2.2.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Send more diverse information to players when they join the game",
+          "zh_cn": "在玩家加入游戏时向其发送更加多样的信息"
+        }
+      },
+      "size": 3006,
+      "hash_md5": "a41c22a366710db881f52eb381f3404f",
+      "hash_sha256": "f02708f76b475d277fbaf20432b7f4955c5a744045962d67890c4db24704a821",
+      "ttl": 20
+    },
+    "113350337": {
+      "meta": {
+        "schema_version": 4,
+        "id": "join_motd_next",
+        "name": "join MOTD next",
+        "version": "0.1.0",
+        "link": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
+        "authors": [
+          "JOZA_ORANGE"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Send more diverse information to players when they join the game",
+          "zh_cn": "在玩家加入游戏时向其发送更加多样的信息"
+        }
+      },
+      "size": 2219,
+      "hash_md5": "7dbd6d9f2a84fc7b890c43e45cbd847b",
+      "hash_sha256": "ee9926bb45179ba536bac08867f406b76465f2bb9b5799881a40c7af623ec974",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"a47c9b4d2cc84d152f40d42e080f48fe0128d1ca569fcbb6e7ee09517635c941\"",
+    "data": "H4sIAOSAuWcC/62Y4W+rNhDA/5WnfF1bCAkkjTS9Vev0pDf1da/qpq3rhAyY4MbYzDZJU9T/fWcbSMiqvaTzlwQO38/nw3e+oxmRbLT4EIVhGITTYHb2YcR4hmMjHd3Fq+X17efnnz/dbEb6ESqxlt/8eH13/sQJu7m9v2b4WemHeU1p3I34fPtwdX57d/Xl00/em6MrQdZI6bE5ohKDhG8YFnDfjChfEnZA0TrW1HHkz4JpNLT05vpr9NvvX2j69Mfzl6eryc3T10CrIJgEibgWVI8qlKrkwvOsVF4siSrqpJZYpJwpzNRFykuv9ro5Pq6/n2rKUrQcO5kWHRIr0tIsApDSOzC/UCU9tGRP52B0zinlG8DEJ07l9Zo7DGHLd2JAs/G4KjA4EYa8GncQqU43y2g15g/8aEASfCpwdjKq1QPD9J55bTyBK26JdSJTQSpFODvdxIG2xnGxRIy8oPfhQNtQtHWnaxstrY7XsDNP17dqjWciLd2+WktSTNbg8XcyD/Q1Um0rE/G/wmATGPAfrwnexN2Tqk4oSc3bIQrHKCtNdJu4fz0pLt5OJRnuX1qXnHAOvsfZYx1NsuCxnuI8eqzz3E8f63AWzB/r2QRdwnWSgDwMkA+/4yiE8XgCT6PAz+E31FrhdDzWT2f6epLB9aXvw28U5dNe93KMQDKfzIAczUE+zbEe40e5DUKx2st0/+11896/vWrN/NYLPALlGY4GrvDWBU9jGv3bBXkKeQQlXCDFhYsJBrxmcGvmUxiVLuYxHJO3OXfiacMx55iUNT4uBI/hGpzs453VZdImamdT7MIdSUmWDGMX1J7VeP3ZkgjE0sIJvkM17ZXdHWjpZHMgm9oTyhMXPBjuGVbjyQK1p6yKHVmr6Ro1hAucu4Jr1A6uhJv9YcwWZn90aDj5FewVF/QO5TUdnCK2rNHSCb1ndXXOEr1g4cjuFmazK1OCJLWz5LrD7dVTiSPTd7TDYs0d3RYCxjVlSZQbrxjSMHzc4fU+/9cUWuAoe3eowdlgD6H2kbtT6M252u7K1QbVKK/5rkKq6FxVIYHdeEqTvCZBUJteXFw0BUa2jCmxcJMZLMicpSItoJp2wGw6FFRzJVKmI8qN2Rm0SJSjzIXlPavfP+7Kl8F+qWpKXaANZ0AuCcVScebmTfawwRyMK5KT9Kim8ZhpBrzmoyQsxWeI0jPYqoqkBOIAuvT2BEswdXN8aRAsC5W47RwpRm4O3g7VeG2HkOGK8q2rbLdHM8lBYKSgY0VKcwM/mJz70fn48t6fLqbhYjx/MF1rlb0xKoBRk0U4XwThg92XshgOGvvnE//ev1xM5otw8tCdDe0q4PKEXlYv1ByLstgD/LBTXxylnlLYke/tp3sb1uz/tOQFL3EF1Q/oM4hB0/q/6LuxPyyHUl4z7c0AxBukoFw/EHZ1lLbkl60q7NFeIBnbvAFyJWrcyirBn3CqDqS7vDUQb8iKHKibgm3XqBtlItMaGhX9RWj3xHbfnaG+ySxC8O5LY7voNitne4qAQwkdiHiFWbuaAZGSFDO550OkP8jpFL+CeN9ZTmSscFnR4efUDU7aEiXWXRbPcyj4/66JGMyteEVSvbA//4K7NZEkIZSo7fC7jf1GYK3as7aVdO+tfWMZzlFNVWybLg0qkVT245C2M7YbVPEVZru1Maw2MMvAAfvFZycfv/4DaWJrx7MWAAA="
+  }
+}

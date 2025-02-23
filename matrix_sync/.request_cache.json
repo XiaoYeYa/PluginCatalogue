@@ -1,0 +1,66 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "155913574": {
+      "meta": {
+        "schema_version": 4,
+        "id": "matrix_sync",
+        "name": "MatrixSync",
+        "version": "1.0.0",
+        "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "matrix-nio",
+          "aiofiles",
+          "asyncio"
+        ],
+        "description": {
+          "en_us": "Sync messages between online game and Matrix groups.",
+          "zh_cn": "同步Matrix群组和线上游戏的消息."
+        }
+      },
+      "size": 2753,
+      "hash_md5": "bd8185aedeaa6e6e0e498f3a600a68eb",
+      "hash_sha256": "0b83b2304511c43618a60cffd5cde4e502fa97ad266a2871d415ec1acb192e21",
+      "ttl": 20
+    },
+    "155151863": {
+      "meta": {
+        "schema_version": 4,
+        "id": "matrix_sync",
+        "name": "MatrixSync",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+        "authors": [
+          "CleMooling"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "matrix-nio",
+          "aiofiles",
+          "asyncio"
+        ],
+        "description": {
+          "en_us": "Sync messages between online game and Matrix groups. First preview, just send game msg to Matrix groups.",
+          "zh_cn": "同步Matrix群组和线上游戏的消息. 首个预览版本，只能向Matrix群组上报消息."
+        }
+      },
+      "size": 2538,
+      "hash_md5": "64e97c6cfcb0729d8b6465a01837b8b1",
+      "hash_sha256": "cb51196ec5fba4418414a7ed6358f69a630837e0fea772e4a0882e07701f5fa0",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"413b89cbb0ae403f1f1011e47a63536e448bae0c509143f613853b942a4bcc37\"",
+    "data": "H4sIAOSAuWcC/62YbW/bNhCA/4rgTxuWWLZrO6mBostaYBvQdEOXYkDWQaCks8SaIjWSsuMI+e87knqx1KCJY32JI5L38Hg8Hu9Yjmg8WnkXi8vLy+VysTzzRlzEENjW0adgk7z/48NNcXd1NTJdJAPTfk20pHd/7Xl0fv3u/SfTtS4YC5p+IRjlyWQ5mfmPjM0l3RJtRq4JU4AtYsdB4nc5YiKhvMcwMlah6fzi9XI+W1521fxs1Xz38bdfQqsmQTqRQSGZ6U21ztXK912rGidUp0VYKJCR4Bq4Hkci8wu/gb/dvpkbTCIrkJvFNPWROa1wjoFM5fcUT3XG+qocyPRGrwVjYoeY4Mip/EayxWDXCzH4VfpCp4BWxCEP1hxU6ePVslKl/UE7WpBCm0qIj0ZVcqiY8ZaH0peQC0csQhVJmmsq+PEqdqQNTsiEcHpPXoZDaUsx2h0vbaWMOGzRNY+Xd2Klb89YtH9wmkRAt2jxFzJ78gap97k96Z9xsD0Y+BtsKeyCuicvQkYjuztUQ0DizJ5re+IfjjoXj4WQGJotM4Arz3R4P5go5Jko5H0ZmRZY425A/GX0o5ezAiOLp5DiZaAUSUB5IegdAPcEx8nAS4wk4bHnZvQSKYpcjd2JkpuDgPV9E9pNfGoJhvjUXjwJ8i3F4DawP51mIKX5W5/VCMMBCYUkWsjT8R1a2fm0s2kg2emzWIoNvUIMYGFLsVeQUgU87ww9TbUw1RxXXmRhFWcHmqA9q0QpmnCA05kNqfSbayGUhEfpAPAaVFb/OY8gyQAOQVxEDpkIT6fhYN+SSl+lpLoadTCIpoZtQF20hPUwaANq0VoO4RNWZWl9ogbjRa3RP05n1yC/rNGM8KQwoftkdkOqU5KE3IMcROcK5eInx+6wGCh8trCDtCccRO2W1c+ohmK729oaJcuoHsIeltM9LEPBjV9/M4FpGCQ616BO5HcXTNU11A3z6ExV5TOMSxqQX/6UE53WRsqJhCFsZDh+GRJMGcfjcZkCcWlJBnKIGOAw9o6UUYop7snEsgZhXpYRbYuUtVU5xqqFCRKfrnVDanxmqHSk4yM55tKngy2lw80oA6UFH2L/GlRnBi40XdPoWfXb05N0aOVbRXkEZ4SxM3ROTSOKfo+i1e0UAhviajIYXBKWI1UBx4AMcaHWoNKv8vsYcib2w8S0A5YNAxKIxqKRaEOdTWbz88nsfHpxM52uZtPV9PWtLRzzuDtqYUfNbyaz1Xy2WixunS+q9JtBk1dm0GK+mkxv6+hfrQH/fXY5aRZprzyVHoj/3AqvniEcMfTCl5Wzzfxb/vJ6OBUZ5JjNoDTHE2er7nvzNb981c1vIlFwY8bpFNt3RGPK3W+tUyOjyp97nbpbOyUqcGEC27UsoGrLpfgKke61tkGq07yjG9oTtzlYW1lbYaqiAmsN8x7T9riCudZ0YkOJlKJ+6KvWXQXg+EAQcSRknSaRA69W0xBnZuk0Aq7APkViGWwsQHKCNjqfjSeHT6BXttX74MZ7Va/K47vqufCqI/b9s1XNqvzeXO0T5/X7aHnzK/t6+/fi/vbm9zcj84RCzFOduWk26BmtVakKNGQ56z6x7iCscqPAFHFivca64r+Cyo5dtMhpZIz+z7/4taWKhpRRve++6LhHB7cHB5asbFg7Ve1OMaxJwXTgyjpDygjlrt7P8sAdHS02wNtd5KB3OElntw/T3cZfH/4HSqQPRsIWAAA="
+  }
+}

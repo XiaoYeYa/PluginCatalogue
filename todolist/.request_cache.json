@@ -1,0 +1,120 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "99998715": {
+      "meta": {
+        "schema_version": 4,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.1.1",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      },
+      "size": 4116,
+      "hash_md5": "ba3e0aec410d077210a34671e59640e3",
+      "hash_sha256": "3b462e1172c6a0996e7a834612ce77f4970c289ffb52edbb548548eddc33d892",
+      "ttl": 20
+    },
+    "95739891": {
+      "meta": {
+        "schema_version": 4,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.3",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      },
+      "size": 3396,
+      "hash_md5": "c0be05e6bd2043c14eba2f02d790977a",
+      "hash_sha256": "15f5f3236adaeff2e21b2fdbf0e8a39c95eccc2401be9242a9459ef6862d2b02",
+      "ttl": 20
+    },
+    "94360229": {
+      "meta": {
+        "schema_version": 4,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.2",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      },
+      "size": 3344,
+      "hash_md5": "87d7e3185ceacc21767a211e8f79488d",
+      "hash_sha256": "91fa775760ec5fc22bee54e3b3c4e522a70a8a80491a34bce1eec1ec36dda2b3",
+      "ttl": 20
+    },
+    "94137129": {
+      "meta": {
+        "schema_version": 4,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.1",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      },
+      "size": 3040,
+      "hash_md5": "753e9a56ed649ec01d7e5c5c90dcc65d",
+      "hash_sha256": "8490d3a4c5e8fa6697ee9042d1b269a003a24f777b20797640de630defc69de7",
+      "ttl": 20
+    },
+    "93981912": {
+      "meta": {
+        "schema_version": 4,
+        "id": "todolist",
+        "name": "ToDoList",
+        "version": "1.0.0",
+        "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
+        "authors": [
+          "Flash-Z"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "ToDoList",
+          "zh_cn": "ToDoList，待办清单"
+        }
+      },
+      "size": 3273,
+      "hash_md5": "aca46ee7725e28c5fabda5782bda583e",
+      "hash_sha256": "46caaa0809cd4230c723e1bf6563c73f157701337405027a66ade27e5095472b",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"b562df266929e8f9370279776facc8b516ad994c33fa5a9f451931c42a9ae43f\"",
+    "data": "H4sIAFBcumcC/62YbXPiNhCA/wrD14YYcCDAzM2107SZztxL7obrS5qOR5ZlrCBLriRDiSf/vSv5nV6PEPuLMWvto/V6tdpVNqTBcDWYLd3lfOHOri8GQy4C4lnp8LO33dx8/GWKF7NPQ/MIxcTI3/9485mEQm5IcMfSDeXKPA1TxrxyyM8MqWh073x9aCLpDmkzMERMEZCIPScS/mdDJmBUA2HGW3Pms8nYXU6mbRvf33ya//r7B4Yf/5i8X//w9HH908GoIJgASS+VzIyKtE7UynFyqbrcUB2lfqqIxIJrwvUlFrGTOuUcb3dvrgxlIwtOPpkRHRMTWtByBCCV0zA90jE7tqIxvjEyFIyJPah7Z0zhVFo1gvLNKxCglTlCRwScBo+f7etTpc8zx2pk9gd8ZiEK/CdJcBam0AGDTFw8Z44kichpqa+wpImmgp9nWkvToCAqEadP6HwUaFqCseo8TathVMkOou483Vwlc+zqwYfn3AJM6A68+wreka7B6UNil+8XGGiDHX69HSV7r3ySpD6j2H4JqomHgtiuVruOn18c7/+TFwJSfSGj/5AuwmD5kC4nGD+k8/k0hOt0MnlIZ+F4DFc3gPvr+eJq0OANYJAbTB/SKxLO4X7mwnU5x3MjCVxQI0s3Xy1y20hB33ad/XAnzDfAU5/gFMexEEPbkkNnmGFk5louRgxrHflCIi1kZ3oLlrX+2sk0QXHnSSzEZlIhunvXQuyWolRKXrZqTkItS1Xrk6exXyTQfvj1+kRK0Q0npDOyAmVOle19iTiOurNLTlbc5bGANt1DAeVp12fC7wyDsY4FZY6KULHdaa8POw3acNpkScJeyIZTk7XsIRqswdJGQ8mFHVhDZHRGlxwnK8kM8U2KNt3RFaisMjboicg+LC5IecLkWlI/7Sdf1qxGLeP3YXSNOq6SekLnu7L1SBxT3YMzLKa9Rnpim3j+D98I+sjGJaeV6PPtpHjU037y1YmKfqWXWDQcJ/suQToqPZQgSXpwkME4mY+gJry8vMwigvLyIyayh4WfU+x+KHEEJWxXYFZyQBwjbfuN0BocQAPCBAo621yBqmjpqexoRUcCPXhnroW0sDFlRGnBe/h0Fak1AReahhS/qBU7OUcLlr1VlGNygRi7gKjUFFOId2h2i73IJ6yHjchQ4IVQTIqujBHUw+ZZcjKnKN8DkjBx6CWNNVB27UuCNPSCSBvodDx1R+PJaHq9Hi9XU3c1ndgzijQJ2qOuRuMlDFyPpyt3sRpf3edRqKIj1Gw0BtRi5V6Xg0y6L14Bbl/aJZpXtBucihra39e6q9O6mEH8vapHrWbf8Vf3uJGISQJVS3mepOiTuZ/Mr9tVDBYpNw50QbxHGgrqI2FZ/hjQ3UFH+e4cIeXliQHkWqakkCVSPBKsj6R1VmqJ93RLj9RtnVU3y1aZKpxCH2GOU+oneRNcGjqx2UNKUR7FcUgudeIOGoqAQz5riURCePE2FXFsXp1iwhWx54XQ3NooSNjIvRw3jylvP3wZ3BJOJGKDO3tsMXiXKw52xVCVBP8UZ3u3d+9KwLdXVjE5VBmNKZsHkni+vmWP97/Nnu7X2zdDcyqCzAmb2V22kHlqz1LlaRInrH0Wuid+UQh5pkkTYQi9w98plS3faJFQbBz/5zDGgSwCbfgXPNpRRX3KqD60T2zyo4X8ozRcWzi1DLIivAISopRpL+/hDChGlOdtfZx4+SLSYkt4/VU50XuYo/X1m0VuJX/+F/3raK15FgAA"
+  }
+}

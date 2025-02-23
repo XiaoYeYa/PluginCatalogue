@@ -1,0 +1,164 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "79595271": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.2.1",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1520,
+      "hash_md5": "8c1bb3946f4aaa80165a0297b00be9ff",
+      "hash_sha256": "b0e9f497acdd15f8a3d53593f8643ba8d7a49bf6b90daa99eec588411f0cdbcd",
+      "ttl": 20
+    },
+    "48907358": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.1",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib>=2.0.0"
+        ],
+        "description": {
+          "en_us": ":calendar: Get and export server opening times.",
+          "zh_cn": ":calendar: 获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1360,
+      "hash_md5": "6f0436e24fe8e34b2e701cd1e3400102",
+      "hash_sha256": "c628dfe7984490d2feeb50a5f180264eea67ada2bc237e3e412fb2a97199b875",
+      "ttl": 20
+    },
+    "46000802": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.1.0",
+        "link": "https://github.com/alex3236/daycount-NBT",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1343,
+      "hash_md5": "d8455bf641fa5d9f3262807c89b4660a",
+      "hash_sha256": "470a439ec4a9608e0fa668877eab0716c2ff25de552fe9d2debefbd0089c330e",
+      "ttl": 20
+    },
+    "44454285": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.2",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1353,
+      "hash_md5": "c3719cfc3cac03b905fea9576e29c040",
+      "hash_sha256": "fe84a8973ed8eebd58e2edeffb3d1b28e6b8925787cce253569b9fee3be4c4e8",
+      "ttl": 20
+    },
+    "43476234": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.1",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1384,
+      "hash_md5": "a0389207a80d2f794c9d9f6f262d1617",
+      "hash_sha256": "da23fac53e0de0b70f6103d694b4e2051af977c026bedb5f6ce0becd410dcbbb",
+      "ttl": 20
+    },
+    "43245713": {
+      "meta": {
+        "schema_version": 4,
+        "id": "daycount_nbt",
+        "name": "DayCount NBT",
+        "version": "2.0.0",
+        "link": "https://github.com/eagle3236/joinMOTD_Plus",
+        "authors": [
+          "Alex3236"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "nbtlib"
+        ],
+        "description": {
+          "en_us": "Get and export server opening times.",
+          "zh_cn": "获取和输出服务器开服时间。"
+        }
+      },
+      "size": 1553,
+      "hash_md5": "963b5c2bb2dceef6d6d1b458788e1031",
+      "hash_sha256": "8057131fc8cb243ec96c0a32e297ca1f92abad6366c23041e78b1b9be9a336fd",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"0ca195f97306fd036c97cdf5973736b4f91fde68ac91e7b9b4c376f462e1fb98\"",
+    "data": "H4sIAEQtuWcC/6WYbW/bNhCA/4rhr6sjybKdxEDRdesQYGiytnC3IssgUBJlsaZIjaTs2kL++46kJEvulsXhF7+ceA9PR97xjvWYpOPlKAxnV3P/Mrh8NRoznuLISMe3737Z/UZ/pcnN9QF9+bRN2OZwe/g4u1u9DW9XyeuxHo4KrMemaJ/wiqnJ3U8rLc8qSqP2IaL4WzgNF97pqFKQLVJ6TIaoxCDhO4YF/K/HlK8J62trBWPYbB76YXA9P7X24+L3L3c0+foxuD28PdyuNoFWQTADElElqB6VK1XKpedZqbxYE5VXcSWxSDhTmKmLhBde5bVzvNm+nmnKWjQcO5kWnRJL0tAsApDS69ueq4KemtFT6A/NOKV8B4DonEm8Tu3IIGz9Egao1R5XOQbHwfNH4wIi1ZkGGZXafIHjDEWCEwVOz+M0SmCS3h6PtSdwyS2uimUiSKkIZ2caN1DVLC7WiJEDegELVA1C23WmqlHRungL2+9MZatTeyaQkv2jtSHBZAsufgnwRFnz1L40UfwZRpp9D9/RluBd1D4pq5iSxCwHUThCaWEi18T04/N3/nfpIcXdApkI//ndp9FDtQjT6UM1w9niocoyP3morsL48qGahylIFpd+Cr+nKIDPxeIKJH4Yw5gs9eHzagbjF3Otez3PZg9V6PtTGy5i08tDTzvNrNl/261Z/+f3JxCe0degDd67cLR6rT/b4EsguFHMBVJcuIAHnHrw18yjMCpc+Ebf5EzOnTxp9M3BIWWFnxcRT/EMRnZhx6oibrKjM/oYcEhKsmYYu9A6Ru11CTwWiCW5E7ZF1M0vu9po7bTYyObOmPLYhQPDPMOoPZmj5shSkaN1mqoRQ6jAmStUI45QJdzW25gpzHq3SDg0Fay9C7VFeHULpYitK7R2onaMth5YowMWjnY2EJvlmBIkrpyT3BHTKzViR1OPlNP6xZ1qj0rjgqIgyu3tDWG47d2xep9+h9YCx+zZIgY52Sb95pF71v/XOZq2wXWjaYRX/1AilbcuKZHAbh7RBK+OEVRhFxcXdY6RLQMKLNwi2ALMWSWSHOpFB1bdIqDqKZAyxX1mzEyh2qccpS6WdoxuP7gf/4P1L6HRdUEa/QGxIBRLxZnbCnWQAZtxRTKSPKvFeQo/4NRvJGEJfoUofQVbTpGEwD6GFrI5MWJM3Y4LDYDXQAVuGhyKkdvB1iJqr6mMU1xSvnfNQj2KCWKBkYJeCinNm/rTYOJPJ36w8hfL4HoZTO9NP1Wmw1GzSTCdBFcrf7acXS7nl/d2n8m8Pyic+PNJcL3ygbNYhnaQztGN9fDzGV2WfjFzDMm8p/jjUW35pFpCYYed29l1c27ZS5rCnBe4hOqhvYaR5KB/z/1hMWF0QB5MQb5DCqrWU2lbh2jSh73K7dGZIxnZOAe5EhVuZKXgX3GiZK9J1OJjghmM3pENOdE3Fc+JMpFJBZW6voA4PrHtY2eqSQlC8PYOi0HGOGbetKcIOBTTgYiXmDWv0xG1p6Bfx0xic9MGDaJZ+JJOwgu/f6t3c/d5dIMZFoiOPpgmf/TeKo62zVBZpt+aS7GbD+9bwNMh1Ewuvf6U/Zu8ZLG6oV/v/5gf7leb12N9h4D0tZQ+IzaQWI6eJTJSuCjp8BZxh+OmVol0G8SzDCr2vysiBr5RvCSJdvyff8G/LZEkJpSo/fBKwzbjdh163mz82O6sdk+lOEMVVZFtjzSpQITZnrgoIxswim8wO64kw2oHkwxWvF9sdvLHfwC0dZ5zsBUAAA=="
+  }
+}

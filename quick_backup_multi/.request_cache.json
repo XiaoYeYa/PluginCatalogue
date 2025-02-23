@@ -1,0 +1,348 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "142020100": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.10.1",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 24309,
+      "hash_md5": "fd7adde42afcea6a63519529e3a170de",
+      "hash_sha256": "09dad04cfb2512e22988e3868dae00fdf36f6da44b2f51b4db6e2e43ae539264",
+      "ttl": 20
+    },
+    "139408101": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.10.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 24293,
+      "hash_md5": "ea3ef4ab08a9c2ea745086cb17d4525a",
+      "hash_sha256": "76ee99de2c7f2399c4b1749b07dc65974db56ce5cfde17db9b4f295ac7e1968b",
+      "ttl": 20
+    },
+    "107579519": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.9.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 23529,
+      "hash_md5": "6e8bb6a1ea6c00c2b74b3e8849e18e73",
+      "hash_sha256": "7e82fb144d22d0a8ffdf274b04035eceacf441953326c5d60ede5115bf44a208",
+      "ttl": 20
+    },
+    "99234600": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.8.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22991,
+      "hash_md5": "01727564d170708a5c916993ae09e819",
+      "hash_sha256": "a44bcd20f8a6f17d2dceddcf064df2ec62c36747dddd7ed994d4f845fde8d021",
+      "ttl": 20
+    },
+    "79773575": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.7.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22417,
+      "hash_md5": "96e2795a425c0a9d3e8d368d17da7631",
+      "hash_sha256": "ceaa16c4f8a482939169e2fe251b8ef374127d514190b9bbdaedcb645a6dba5b",
+      "ttl": 20
+    },
+    "59195377": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.6.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22070,
+      "hash_md5": "0f020bcc909f9f807651eec96dee3468",
+      "hash_sha256": "0384fd9e09fd4faf7216fbda1571556684c4068916592493255beda7349c70d4",
+      "ttl": 20
+    },
+    "52222043": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.5.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22181,
+      "hash_md5": "ef16f5fd30114d07a26583011567fb5f",
+      "hash_sha256": "4c6cc965cc2dac7697f38e206a39f64e5ec00bb077e50ddcedc8edd992a28651",
+      "ttl": 20
+    },
+    "51370038": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.4",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22146,
+      "hash_md5": "dc086c2265e50499ee512b0cf9a9b607",
+      "hash_sha256": "f82859a8255569b7227446241e52f80ea93252964268a7c7d5b16412329ea3e2",
+      "ttl": 20
+    },
+    "48211323": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.3",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22150,
+      "hash_md5": "26d031c7db1e407aa818e7c03c3367ee",
+      "hash_sha256": "f5c59b2dbfc8c066b8e05ac39789d3026ef87b4b5418c7c9096e258c25515d6c",
+      "ttl": 20
+    },
+    "43562703": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.2",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22249,
+      "hash_md5": "eecbb3906cba7e1c9ea903b1fac5a235",
+      "hash_sha256": "9aa7c8ea32c69ffb8519f87667f25c9f32a126d255118b0b88398fb63fc38203",
+      "ttl": 20
+    },
+    "43419545": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.1",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22243,
+      "hash_md5": "bff8b4ef01e2bc0d96651faeed87023c",
+      "hash_sha256": "4688818374fdd12dfff76b5ebd2012e485a72a46ab94b7b8a4ae676da8bebaca",
+      "ttl": 20
+    },
+    "43184486": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.3.3",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 21598,
+      "hash_md5": "f5772dc5a537c470dc26689050bc1465",
+      "hash_sha256": "11ce887f805181c4f06148d89cad4c225e3eff8bd918f63bf839c9492949d11a",
+      "ttl": 20
+    },
+    "42573153": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.2.2",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 21340,
+      "hash_md5": "1ffe637655cd43d34e9205e147a9d767",
+      "hash_sha256": "a601a65f8252e7ef3768dfa083130109d76dca74cda9e36d47c6fb5df4b538e1",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"cb4afecc7f882ac2a0c2949a05cf2d24c5a2473894c3e5c8e1b673af701fe2e7\"",
+    "data": "H4sIAPlw/WUC/+2YbW/bNhCA/4rhr0siWXa6xEDQbUgXdGjzsrlYkWEwKIm2GFMkR1J2HcH/fUdK1IuzZXH4aUC+JBbJe3g8Ho/HK4ckHU4H0WT0/dlk8u78aDBkPMVz2zr8fPlhc0N/ocnV+SP6+us6Yavt9eWH8c3lXXj9sLoYmuEox2bsXUGS1U8oWRXis2lfFJTOXefs429fGOEs2B8lJFkjbcYsEFUYWviGYQnf5ZDyJWFdaSNgFZucTqJJePZU2+3N6nx7H/1coK8iS6/oOn64G11ffgw/Xy5PjTiC2ZCcF5IaiUxroaZBULWqkyXRWREXCsuEM42ZPkl4HhSBm+/9+mJiKEtZc6qJTdM+UZCaViEAqYLuOjKd0301OgLdoQtOKd8AYH7IJEEj1jIIW76GAWJlwHWGwXDQv7MmIEofqJAVKe0/MJylKDCixOlhnFoIVDKusisDiQWvcEWsEkmEhmEHKtcTNSwul4iRR/QKFohahNHrQFErYmTxGtzvQOFKpgzsoUq2u0qHBJM1mPg1wD1hw9NbYU/0Tcc81vRE4zlKc3ti7VnevdzLn4SFFDebYUR/HMS2bxAMJFaaSzwQtIDocDTYAG2QF1QTQbEbpijXtdvLVSe2PL94a/t/18mw/st+zyACK29AK7z14Rjx0vx1hyiBQ4piLhEYxgfc45S9TzuPxij34Vt5G/s497KklbeXgVIFfplnP8ezGNUcH1bkcR3lvNHtwUFKkSXD2IfWMMqgCcSxRCzJvLAOUda/qt1GS6/NRlUMjCmPfTgwLLCMMlAZqq8ePffUzlANog+VeOELNYgWqqXffls1pd1vh4TLT8Pe+1AdIigdlCK2LNDSi9ow3L2+RI9YeupZQ6oox7QkceEd5FpMJ2WIPVVtKft5iD9VuDsWxudE+63eEvpu7481fvoEbRo8o6dD9GJyFfTrLv+o/49z1Om/r6MZRFB+J5DOnEkEktjPIoYQlDGCDOvk5KTMMKrSgBxLvxNcAexdJZMM8j4PVukQkPXkSNskfWHVTCFrpxylPpo2jMYf/K//3v4LeLz6IK18j5gTajJX5rdDDaTHZlyTBUle9FR5Dt/jlO8VYQk+QpQegctpkhDwY3gK1jdGjKnfdWEAsAyU4/qhQjHyu9gcogzqzDjFgvKtbxTqUOwhlhhpeBMhbXhRGIXHYXQchbNwPB2H09H5va0HiLQ/anIcjo+j0WwUTqNoGoX3lZ+prDtofDwCVDQbnQFnehrduxhdaw8/X/CCMguz15DKOoI/tGLTZ8USCh526KutmXPNXvPgy3iOBWQPrpyiyKP5HY3P+9lEwgtmjDWajKBjgzTkrU+aXSpiYLdbndUVF6Tm1VGHdi0LXLcJyR9wovda2xDTa96QFdkTtzlP+8a0wkQlBeTqppTQ9lQPSKdqFNqoICV35SgGQaMNvmlHEngopr0mLjCrl9Ou3iApSTBT2FbQ4JFoN1/Q4/FJ2K3WXV1/GVxhhiWig9siBqHBp0pwsK6HKpF+qwtcV7efHOD5Y1RProLulN0KXfJudkUf7n8/fbyfrS6GpkaATInJ3BMrCC6tbYmaa5wL2q8ObnBc5ytz8xTiiwVk7X8VRPaMo7kgiTH9H3/C15ooEhNKtDWGsKttHvRuJzr2dJZ03tX4VYoXqKB6Xr2SDCxHSmNpTzKWOWm2vBz2SiFmpxFhGvWazOHvKi1J5bNtP6W1PXb2+Z2LeXU2NV9h5o4KeJrmuXFj0EETq3+526tgvRVU3wqqbwXV/39BlWG9gbDVv0W6b1jXMdn9DXGNzA7bGQAA"
+  }
+}

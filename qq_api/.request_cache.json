@@ -1,0 +1,185 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "117527117": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.3.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 2114,
+      "hash_md5": "0b930d1d1626bd34fd5a229b2e86d181",
+      "hash_sha256": "e4eae6280dc4439c3f3c7a4780ad602f9870bdebe60eaaabfefdfb132923a25c",
+      "ttl": 20
+    },
+    "114486383": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.3.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn==0.20.0"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 2123,
+      "hash_md5": "61ccf04de8c9d2c900c87a6d6e6e0ee3",
+      "hash_sha256": "a4f86392bf4cc7f55cfd5d7e66eff206c7d18b25cd973f3ee6831e45580869e1",
+      "ttl": 20
+    },
+    "111883380": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.2.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn==0.20.0"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 1813,
+      "hash_md5": "b75e97a6984059c4bb2642e4832cfffd",
+      "hash_sha256": "7f8e8f24cdf298e7c583afa81ae0764a93792a89068dc9267b85bcebef6c6c5e",
+      "ttl": 20
+    },
+    "97239931": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.2.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn==0.20.0"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 1813,
+      "hash_md5": "94b1ae7f1c74e0411e27bb292e700067",
+      "hash_sha256": "8bcd2e91b8ea333f6075c553d6cb408165121c21a683deb42b0381bcddf4aad6",
+      "ttl": 20
+    },
+    "94230864": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.1.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 1617,
+      "hash_md5": "1c6ceb0972f3e0420c7d3d31cb86cda3",
+      "hash_sha256": "29be866907be6895cb0c0e852276db99363156cac762d916cd93bc33bed63f3c",
+      "ttl": 20
+    },
+    "94230545": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.1.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 1639,
+      "hash_md5": "190d8183c27001449b8f382ce723b06a",
+      "hash_sha256": "f73f561ab472e3c993514e1f48b03c5f5e9b01d955efe56310857810370b9eb3",
+      "ttl": 20
+    },
+    "94219494": {
+      "meta": {
+        "schema_version": 4,
+        "id": "qq_api",
+        "name": "QQAPI",
+        "version": "1.0.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "aiocqhttp",
+          "uvicorn"
+        ],
+        "description": {
+          "en_us": "Connect Minecraft and QQ",
+          "zh_cn": "连接 MC 与 QQ"
+        }
+      },
+      "size": 1404,
+      "hash_md5": "e728dac486497eb359ea769b6e1b6648",
+      "hash_sha256": "ca5c67b1147e0facfe25f87d3c9667fd9238f3a3ab45a48ad297010e1b4e0164",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"4ba0cebe6e40e830a6c7f48336e9d6bfd11895ff28ee1983eebb7ce78ebc494e\"",
+    "data": "H4sIAB4YumcC/62YbW/jNgyA/0qQr2vj1En6EqC4Hdah2HC9dod2O3QYDNlmbDWy5ElyssTofx8lv8TO7iXp9KVNFPIhTZOUqHJI4+F84F9OppezC//yZDDkIobArg7vbn5e37NfWXR7tSWfP60ivtzc39yN72+eJncvyfXQiJMMrOxPN59gIWQC8QMrEsqV+XVRMBY0Iu/5NqXPKeGJ92XpXNIV0UZ2QZgCXBFrDhK/l0MmUKpPMSrW0cnFdOyf+ef73v92/vvnjyx6uZt8vHm/uXv8xTcqBG0QGRSSGalU61zNPa9aVaOE6rQICwUyElwD16NIZF7hNTbera6nhpLImlMZM0v7xJzWtAqBSOX1vU91xvYd6aj0hReCMbFGSHCcIa9V3FEoT95GQcXSEzoFDCBKvNpQUKWPdsoqlfYfhtByFIZTQnwsqVZDt0yyvJaehFxUwCJUkaS5poIf7WBP2dAwWwmnW/ImGipbiPHtaGWrZLRhhQl5tHqlVXq2vKLNa+VHBHSFwX4bck/dEPUmt1X+hLK2GvB/sKKwDppf8iJkNLIvhmoISJzZira1/npMNXylfcTQvrC9jjTotiQhl50O8+0Ht5H/vmXD/F4MD0B5lmOAS9i44BlMaf42JRZhEZNQSKKFdGGgxyt7X609DSRzYcdybMcUwkmkLcduIEoVcFgVHMK1ONWWHC+ysO6SzkzsSo4oRRMO4ILaskqvbeyhJDxKneAbVFl/qrKDJE6Sg1S9NWQidMFDcc+ySk+lpN7idODIW0M3qD5cwsIV3KB2cC3d5Id1W9r8aNC48WrMFRf0BuWVDZyhZEESJ/SW1ZwyErIF6cjvGlZ1V64lDQtnzXWH6xxnQkeu72j7ZyV39GoztqHJMqrdRMWS+uXjDm/y/D8mzIKj7t2gentDtQnVP7nbhb5oqx5rXCWoQXnlDznRaROqnEhwEylD8sqQ4PlwNBqVKZDqGJOBdNMZKpDdS2WU4onWAbNsULicEW0HkoV1O8YJhQkSu/C8ZbX54+740suXHEd4F2jL6ZEzykBpwd28yRbWs8GFpgsaHTS0HWKmxyvfKcojOCGMnWCqahpRrAMckesdLATmZvsyIHwskkE9vDEgbjbeBlV69YQQQ87ExlW369Bsc5BANE6NRBuuP/bHp+OLU//q8exsPpvMJ1fPdnLM477U7HTsn/rjx/HF/OxqPvWfq7xU6deFZpWQ2Rvqp8CPR8yT5kHttqjSDuDHnfr8IPWIYUa+daZtfVjx/zMWpyKDHE8/zTWVolvz+dyf9E9DkSi4CebVFNfXRONxfX+1OUgZ1MNGp9XenhIVVI0D17UsoF7LpXiBSKvOtG2Wd52rJ72mS7onmdsz2542VVGBs4q5lGn1q/m7cXU2tc1FStHc8nHsPbseH3eQiCMh6y2JHHj9PC3SNw9PI+AK7G0kjtQ2JXJ2OhmNu/egtx+fBrfAQRI2eLAXHoMPleJgVYuqPP6nvja8ffjQAL5dbLVxPJ90THbvOqPzx1v28vzHbPv8uLwemvsUYi7szC60xJa0CxZVgYYsZ/2b1jWE9SkqMIOgWCxwJvm7oLIXGy1yGpnA//kXfltRRUPKqN70r3eqa4z6RXTCWQeyya0mq2JYkILpoJoMDSojSle3SMbToKoiLZbAdy+Tg16jnf5b7x6R23f3+i+d88Bh5hYAAA=="
+  }
+}

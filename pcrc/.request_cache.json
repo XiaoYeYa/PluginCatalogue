@@ -1,0 +1,242 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "79543686": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.4.0",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 105502,
+      "hash_md5": "eaef5d7849d125fca8398a488c9d1775",
+      "hash_sha256": "cdbef2c0a0342bf861db63615b0a8248db974f4f0d5d95caf062487253f3bd69",
+      "ttl": 20
+    },
+    "68934077": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.3.0",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 104809,
+      "hash_md5": "a4cab203e699e85827d2709756507c92",
+      "hash_sha256": "2e4956ba95a9c938475a014349129607beee20b929727b8d02d74e48176aca17",
+      "ttl": 20
+    },
+    "60805098": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.2.3",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 103995,
+      "hash_md5": "4a13ccf5070b2194531f38acdd9768a4",
+      "hash_sha256": "c8c383ef7b8ec7f4c2d4e489004b840991694b40a94776b7b9b037add349fc6d",
+      "ttl": 20
+    },
+    "59251856": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.2.2",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 103952,
+      "hash_md5": "14b060b593b8f99db3a9dd0ef6897d78",
+      "hash_sha256": "f0f54e3e2cd3c3b7e4da48e05b3f4afa93d0efcbf951b29d9c89f63be6256cea",
+      "ttl": 20
+    },
+    "59093086": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.2.1",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 103667,
+      "hash_md5": "796bea080bd6c4af3a3ff6063a660909",
+      "hash_sha256": "6fc603019f2b6948affcd7a5fec18bf6d7d72fcd313cddbaca37275ab8f46a38",
+      "ttl": 20
+    },
+    "58980104": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.2.0",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 103664,
+      "hash_md5": "e5512ffa039d149924837516dea4adec",
+      "hash_sha256": "6972a719e870bdbe276c629a8d2431736cf06e51e21e8ac56e5fd49ac0abacf6",
+      "ttl": 20
+    },
+    "58895591": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.1.0",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 101036,
+      "hash_md5": "c5eeb4bac830b49df7e30c7fa19846a2",
+      "hash_sha256": "c12b5093d85a8cf2a03e4fef473c7e1334eb9a2e351080f071c9aafcc8645cf3",
+      "ttl": 20
+    },
+    "58818127": {
+      "meta": {
+        "schema_version": 4,
+        "id": "pcrc",
+        "name": "PCRC",
+        "version": "1.0.0",
+        "link": "https://github.com/Fallen-Breath/PCRC",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "cryptography",
+          "requests",
+          "pynbt",
+          "redbaron",
+          "colorlog",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "PyCraft based Replay Client",
+          "zh_cn": "基于PyCraft的Replay客户端"
+        }
+      },
+      "size": 100302,
+      "hash_md5": "ca7183e2171e2b409f00cf6212ac7623",
+      "hash_sha256": "0aabd9aa9a49c3c3c5a7c27a9ab287006c2d2d282aa171c139d85608aad62370",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"e31aec4768a36a7980029aa4eddc1e87bac96d679c1430592f8dfd4451916e61\"",
+    "data": "H4sIAHT7uWcC/6VYbW/jNgz+K0G+ronz1lwaoLh17Xa4YV23ottuHQZDlpVYjSx5kpwsMfLfR0l+Tda7q/2ljSk+jyhKpEhlfRr2l73JdDofzReLxUWvz0VIfCvt3999v3tgPzL84eqAPj1uMd/s7w/3k/u7P2cPd+vrvlFHMTG6v9w+3prvVcqYXwh/QIwRPvhOEqQjr1BJJN0ibRRWiCkCErHjRMJ31mdiTfkZ1KCcoYurd4vFaH5q56/z3z/9zPDLx9nDEwbbbiYGgmAaJP1UMqMVaZ2opec5qRquqY7SIFVEYsE14XqIReylXjHH++31zLCsZc7jJjOiU8aE5myOAiiVd7aASMfs1JYa6kx/JRgTO6Dy3zydV2IrIsrXrYkAm3lCRwScCUpH6xaqdBvTLC6z/8CjlkqBdyUJW5DlSDDOnKBj5kmSCMeZBgpLmmgqeBszG3hDKOQacXpAbQkBb3mMhW3wFmcIyBbOahsGB8w8G394f3TWYEK34PvWrCcMhlTvExv+v4G6DRf4728p2fnFSJIGjGK7T1QTH4WxjXqbD45vjJUyr4Sk3DGbkfa3Eq10L0CKhL1HkjC0790yCla6qJCbWgr6/MKt81+Z1hB9yXGv4T0LNiwbsm9NYrCZ+VsEFIaoRYGQSAvZmrVBkjU+7SSaoLg1uQXbrChEe+9ZsL0clErJ153hV8kshyqjhKdxkKe6brxVXCCl6JoT0pqqJMi8Mg8HEnEctecs8Fn+y+0tWrffWuQSXcBE0JoEdDxLkHkqQvmFo/0udhlKg28ySrLqxGjwFaOWHXbXGijt7hZ8cL9p2OnWlAXeywpGhvg6Rev2lCVBcXOv0YHILhbmDC5xcS1pkHbLWxVHrRIIuhhZUZzWFh0p3W1lVx7HVHdYtIU3z3ZHTnMez3iNoEs2LPCNBOvSdz7UMX//7wR5hd/pTBm8l32TgLDwRIIk6eAIA/cyU58ch8NhFhHkru+YyA4B6tD2vpE4gtKsLVFW4KFIiZG21fXKGhhCuc0EClvbWBKUu9/x2m7sdgI9aGs+C27QxZQRpQXvsCUlQ4OYC01XFH9VS/Eqd4Mke68ox+QC1C7gdGmKKZxXaN/y3B8Q1iHxGzQsAJr7vHdgBHW4nAp85uVlawg1uth3Si81ChujZgh6E6QN2WQ0GQ1G48F4+jSeLi+ny9HVs+1PkrCpdTkYTYzWaLqcvgPFZ3eqVFRXmg1Gs8HEKl2OlzNHZdJubjr8/FLXYpZkLxQV1VDfVpjl6xjM4Dy9qUcqZ9vyN/dWkYhJArc+gDgEiG3cDuZrejVu1gFYpNy4aDwzAzukobg8ExdFhOvTdOTuwAgp34UzyLVMSS5LpHghWJ9IqxzSEO/ohp7AbbVStXoWTBVOoZo2zX014lq50tS5DX4pRfGGlC89z4thDQl8KGANkUgIz5dTUU7M4ikmXBH73gVNm/EBShC4aTAZjupvajdW2vvJ6ffyUZWE/+ZvUTcN2OdDJp9VeSdz1Z/R8PzpA3t5/uPy8Pz08bpvOnFk3n/MDbCBLFL5lSpfkxha6sY73o4EedHhm0ZFrFZQX/+TUtlwjBYJxcbtf4F3OcGmSx/gsjGXtlPv/w0/t1TRgDKq981HA9c15ztU83Ph4eLUlectJCuUMu27FseQxUhp9zph1uG7aNJiQ3i1z5zoHczUPBD1crIYuDr+B+9F43ZJFQAA"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "65204921": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.2",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      },
+      "size": 27043,
+      "hash_md5": "88cee98663bdaa4f3acedce38f715eb7",
+      "hash_sha256": "5f06d2f87ff212207bfc30bb9ba3d0ed631f843a57c4638908a10ab7f9c92ca7",
+      "ttl": 20
+    },
+    "64895563": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.1",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      },
+      "size": 13240,
+      "hash_md5": "bf6fc08cc48e2c51036c4bf8fcae99e1",
+      "hash_sha256": "4293332dc97113a8588270f882cbde6e929ec4a75ace69c6e557437cb09bc95a",
+      "ttl": 20
+    },
+    "64796263": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.4.0",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个多功能Minecraft存档备份插件"
+        }
+      },
+      "size": 13238,
+      "hash_md5": "c0ac5cdc7189296c699853d84eeb7a41",
+      "hash_sha256": "21394e43bb8af90046b436bc0ac66c254fdbb022f4395fb9649d1c88d0e62e1c",
+      "ttl": 20
+    },
+    "63366275": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.3.0",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      },
+      "size": 12855,
+      "hash_md5": "dcf47e9dbc11929f5229024e9d767f37",
+      "hash_sha256": "b0361017cdaef4ff7c98dfb02c763ccc3cab44a38fbebcdede8b403a62ba5ed4",
+      "ttl": 20
+    },
+    "54147589": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.2.1",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      },
+      "size": 11228,
+      "hash_md5": "e7d08feeff0c7400f2e3a27b3a6ad230",
+      "hash_sha256": "30bab03b018cb493d97fcebd659b9881a65c872b49bddfa1555e70da2374e91f",
+      "ttl": 20
+    },
+    "53548990": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.2.0",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      },
+      "size": 10437,
+      "hash_md5": "341b28f5e31adf0164aaeb70abbea121",
+      "hash_sha256": "d362ae3998c1e0dc3a6825c09020c322d19a8cb2763eeb68a6c8b266e7a07dab",
+      "ttl": 20
+    },
+    "53426176": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.1.1",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      },
+      "size": 10374,
+      "hash_md5": "f8f4b976c7c0aa75431ec3367135e9e3",
+      "hash_sha256": "077f75eaf0ac99775cb5b4271a4b288f03cc964c059a9ae7e91d122e062c8a5e",
+      "ttl": 20
+    },
+    "53390606": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.1.0",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin",
+          "zh_cn": "一个依赖MCDR的备份插件"
+        }
+      },
+      "size": 10210,
+      "hash_md5": "b4391844b0ad176a506f23f755f45708",
+      "hash_sha256": "fc574f0a3a26b3a86af96c2727516fcd2d0718f2e9f9ca266ade16b71bfcb846",
+      "ttl": 20
+    },
+    "53367700": {
+      "meta": {
+        "schema_version": 4,
+        "id": "smart_backup",
+        "name": "SmartBackup",
+        "version": "1.0.0",
+        "link": "https://github.com/kmcsr/smart_backup_mcdr",
+        "authors": [
+          "zyxkad"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A Minecraft Backup Plugin"
+        }
+      },
+      "size": 8841,
+      "hash_md5": "9705ed67e6e8f97933203a53e2125502",
+      "hash_sha256": "9ee1c70947415df9f1d0000aa22cfcb32723d7e7d77b05c17632baad162ff7d8",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"262a642bd2631463dd662dd850305b76291f217fa648854e1a57fede8ca39d2d\"",
+    "data": "H4sIAFBcumcC/+2YS2/jNhCA/4rha5PIrySIgcX2ETSX3SZdpCjgohAoaSxxTYksSdl1BP/3Dkk9LDfwxqUvBXJJLIrzcTQcDmemGtJkOB/MZtej2e3dZHwxGBY8gdCODr+Eq/T+8YFHq/jXoXlFcjDjKidShxGJV6UI8ziR5uWyZCxsZqzyWMng1XlC0jXRZtaSMAU4wjcFSHyuhoyntGjlzWyryN30dja7uZn0tXu02v24WJQ/p2YqQSyRYSmZeZtpLdQ8CNyoukqpzsqoVCBjXmgo9FXM86AMGvbH9YeZoaSy5rhFzNAhUdCa5hCIVEGrcKZzdqjD3ux23pIzxjcoGr4ZH7QyHYAW6ckAlKkCrjNAY+HLnf1sqvQpqtj5lf2HlrIIhVaTkJwAqSVQGeMBuyqQILhjlZGKJRWa8uIUtXpyBsRlSgr6Qk4FoZyVNxqdImfnG0FYo4+dIukEqsCej3i7c6vHQNdo05NpB5IGprfCns3HPZNY90axcE1hEzYzRBkxGtt9oBpCkuT2VNrzunujj79++BNot8cI/zBw7weClXjyB0suB59/uv/i/Fuu9oLE8U+3Zj+2sKF9y35HIYElGNQKtn4kA6jM3+bkxHgsScQl0Vz6oXukqvdoV9JAcr8VLMEGOs49LWoJNsgrVcLbfPw40YJUe5SKMo/q+HYGeHeSiFI0LQD8eC2lCtowHElSxJknuIFU9S+38yT13HjiImLEeORHwomBpVSBykh9/ejQW0PDNZA+VsLSH2sgHVZL3723qkq79w0UL0ONfuDHbSBB1WAZKdKSpJ7cltJc9Cl5Aemta41xMbDQkkblGUJgB9pLJSJvdTvOYYZyDq5ormOUyKn2tYFl9A/COcDGb/8FNwPe0bWB9KK2uxjqV+e4GV5dpS4I/N3OQILqO0F01hhGEAm+djGMoIoIJl9XV1dVBsSlDTlI33PtEPZOk3GGCaMXrWogmCvlRNuEfmlVTTDDZ5wkftq2lNY3zpEu9HxBYBXrB7WEHjOnDJTmhe9etZgeveCaLmn8pgrn+AI9UvVR0SKGC8LYBTqgpjFFv8bSsb5VImC+V4pB4KeQHOpihwHxvQAbSBXUuXUCgvGtf3za49ijLYFoLK+INsTJaDK5HI0vRzfPo+v56G4+GS9saSWS/qyZmTWePY9v55PRfDRdOJ9T2QHq+nI8NpOm0/l0tmgieK0//nxTwWU+zl5VKtsT/b4TnH9DMGbobacXeu266+K/VYkZz0FgttE0YBR9AdsG6icfMS8LY7MZDm+IxpT3YLDJWgznaaszd8FmRIXu5OO4liXUY0LyrxDrg9Eu5vSGN3RFD8RtetQVrFaYqrjENN80I7o3rhZtFB3ZCCElb1pXBQaQLiAne4KIIxHrDXEBRf01PSLW71AosF01rDTt3gt2Ob0a7TfyHn75bfAABUjCBk+26B98coKDdT1VieTvuhf28PSpARw/SfXiKthfsmvcfb6Pb54f2NfF79cvi+fVh6HpKRDTmTIXxwpjTGdZqkINuWD9juEGojqdCU0NxZdLTPP/Kqns2UZzQWNj+D+GzsFsMEYfu3TthuYRcNUUJW0MwggrYfgn/l5TRSPKqN72eyKuEeDMvGf+eqRxxNoFE1iSkqGH20rMgHKiNEhXjOcidGdM8xUU3d6j02ieG48UgKHXwqvdQTvrvWP63jF975j+PzqmBegNho1eiN4vTJvx8e4ftkdlQJIZAAA="
+  }
+}

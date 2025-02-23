@@ -1,0 +1,121 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "147287898": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.3.1",
+        "link": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "401U"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.7.0"
+        },
+        "requirements": [
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
+      },
+      "size": 30860,
+      "hash_md5": "e57719b2e4ae8f7aaca59fbdc915bb3d",
+      "hash_sha256": "1a3d6e97b26203c623a88a7e82c9732fbe5e82a354fbebf933ebbe4f9c4d7649",
+      "ttl": 20
+    },
+    "142146176": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.3.0",
+        "link": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "401U"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.7.0"
+        },
+        "requirements": [
+          "pyyaml",
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
+      },
+      "size": 62283,
+      "hash_md5": "b5ebb5898fc1fd41cb274c421ef884e9",
+      "hash_sha256": "05bc896d1f1070c5bc24c8239fa86b511173666dc2b8b2044e65343e6c460ef8",
+      "ttl": 20
+    },
+    "96370341": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.2.0",
+        "link": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "pyyaml",
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
+      },
+      "size": 27862,
+      "hash_md5": "c28bd65c438a30e54d3829daf8bcd09c",
+      "hash_sha256": "96b65f34ee8b6a17630b5da17405a0c0e05d29fd14bc52d0a37b87026d3c7a8c",
+      "ttl": 20
+    },
+    "54492937": {
+      "meta": {
+        "schema_version": 4,
+        "id": "mount",
+        "name": "Mount",
+        "version": "0.1.0-beta1",
+        "link": "https://github.com/FAS-Server/Mount",
+        "authors": [
+          "YehowahLiu"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "pyyaml",
+          "jproperties",
+          "mcdreforged"
+        ],
+        "description": {
+          "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+          "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+        }
+      },
+      "size": 27038,
+      "hash_md5": "c9dc46c7885e0633129a2997d5d5588f",
+      "hash_sha256": "597ac6700376371fb1948b45e278458f1c62e67840f74018302f0ec2f549037b",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"953c2125d319b7aeaf428d7a685794fd604db4bc936f901f6c51918932f7066e\"",
+    "data": "H4sIAHT7uWcC/+1Y227jNhD9FdevjSPfktQGFtsC2fXLbpJ2vWjhohAoaWwxpkiVpOx1BP97h9TFkpuka/qxeUmsEc/haDhX5l0adaed8Wg8Hk0GVzcXnS4XEfhW2v3NX69u72fw9Xbya9e8IgkY+WeRcW0Ey4wxv5J+/OVL7wvIDUivXpBKuiHavF4SpgAlYstB4nPeZWJFeRtoIHbrm8nNzfhqcKTP59sPu/v1ZLcYfszIH2kczdgmeAyv7p7C/t38w8jACe5HpJ9JZhCx1qmael4hVZcrquMsyBTIUHANXF+GIvEyr9rv/ebd2LCsZMlTbGxEx4wpLdkKCqRUXvtLYp2wY0UakPbipWBMbJHEP20jrwYeWChfubEgMPeEjgENiCv21hRU6ZOVsqDc/kMTWh6F5pQQncpUwlAt4zj73JOQioIwC1Qoaaqp4Ccr2AIbNiFXhNMn4sSGYEtidDsZbEEGDRt0yJPhBSr3bKiFu32hRwh0g8Z2ozyCG0a9S22Q3zfMZKMCsf6GwtavVqRZwGhoD4hq8EmU2Ci38b8/JSoOWSSC+qzq9NNJMqZpJwk7yq7uUK5FR3BAUWSe0HF4CD8UUSHXjRT0ujXscTyrhqH5L1s+j/Ys1HCsYedIYZC5+VsFVIghSwIhiRbSkbNFkbce7RYaSOJIbaE2CwrhajULtTVBqQy+z5lfoLIMqg4WniVBmd/OYT3EB1GKrjiAI1ENz7068QYSHTh2ZazQefmrOE+ycj1OUmS4gInAkQJXeBaeeyomZW3RvrtOhtCg23wSlmfwGfSBT0vnE7XKSXuiFRtmJI2n60hYob284mOErzKyciWs4VV1XpEnkO7alfgiNXEtaZCdk5kODI1iH7greCA4bh7OIkyrSohLE6qdP9eC2558FqPxv3+xGoF7tqvQrfRZpOby1Vm5+Vn6sk0/w4sM2st/TImOKxukRIKzCQzYywOC3czl5WUeAynKcQLSORQLrK0jMoyx9XKjySs0thsJ0bZZXlrlIuyemSCRo341vD7xs8pw64RTnCEd2Sy0RZZQBkpjF+h6EDW+RcuFpksaftdw8AJziyJ/ryg2pxeEsQv0J01Div6J01eZ1wNgzkndYFF5HMrLUYABcS46FTr3yqYzgpSJ3RlJpEFgo1EC0ThpEG2ohv3hoDcY9vqjeX84HdxMR9cLO2WkUXvVuNe/7g2v54PB9GowHQwWhSep+GgRsv00R57+aDqcLKrEWiqOP1+fPczn2GKh4gbm5wNi+hIiZOhDJ0w59U4bfuJsFIsEUqzi1TWFok/m92TcLuqhXT/tjFC8JRo7wyNh1Q0YnoedjouiFhPlFzGLci0zKGWpFI8QatWYqoz4kCdaq7d0TY/wtu84AlMVZtgHm4G8XlzMXJWifRviUorqgodjBjhkzajBiGwkYC2RSIGXX9P+dBoCV2AvpXC+ssecst7ost+89Jrdfe3MgIMkrPNgZ9zOpwLY2ZRLVRp9K2+MZg+fKoLXw6TcXHnNLZtXXuH1fMYeF79fPS3m63ddM0ITc1djkvwaU8bBVlT5GpKUtS/cthCUnYRvZgyxXGKL/HdGZcs2WqQ0NHb/8y982lBFA8qo3rUn+mKMLc6hYc0jvyofI1gSnNH9Yv4wRAmhvBgrk9QvQkSLNfDDQaIDaJEY90oB06KlzvdH1zNvt4dvt4dvt4f/z9tDDnqLSahVEZqzYSUf7v8Bx5wQa9sYAAA="
+  }
+}

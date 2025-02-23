@@ -1,0 +1,202 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "62033448": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.2",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 10523,
+      "hash_md5": "9abf3535f07ae27d793bb855819ff248",
+      "hash_sha256": "c3764c5dc260219d92294b18c5783207f36bf067604d275e78449dd079226bb2",
+      "ttl": 20
+    },
+    "61114588": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.1",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 10374,
+      "hash_md5": "772402bbc2e4699842d52a8b53d0a3ca",
+      "hash_sha256": "12225d6e979664e49cf80831e4a9a0aebd0877afe0942b8b685f0f8a445c97b7",
+      "ttl": 20
+    },
+    "60208791": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.0-patched",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 9922,
+      "hash_md5": "ab92ed50f00e815af71e0c294f5ea586",
+      "hash_sha256": "24b239b36d4422ecbd5257d585929fbe83ee1eb2ba7c5b9b33c2ca92445af85d",
+      "ttl": 20
+    },
+    "60207466": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.0",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 9958,
+      "hash_md5": "5741b498ee7b94170b677b6d1a5bc6b0",
+      "hash_sha256": "51119e1d92b9c8fe97e81c9e133c29c196ec2dc1591ee39ddc8eac91f1912c43",
+      "ttl": 20
+    },
+    "60187180": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.3",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 4637,
+      "hash_md5": "5b58c9ca8409a92228415e7aabc80830",
+      "hash_sha256": "46b82d5f54064e9ec3d9a578caeafb8bbfa548311d83c291895ad81ad093f82d",
+      "ttl": 20
+    },
+    "60036293": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.2",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 4831,
+      "hash_md5": "15657cb35e2d9ef979b38a11639b6808",
+      "hash_sha256": "bf47a6d037e8ef6eb553ce5593757416e6c154fd42c735146e8930dfc27c32d9",
+      "ttl": 20
+    },
+    "60003579": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.1",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 2081,
+      "hash_md5": "4f3036cda34c7f5c8868085c62e2d7d6",
+      "hash_sha256": "67ca963df69670403350deec2d8fbe12295c8f5635b0d55240dee63aa1406d3c",
+      "ttl": 20
+    },
+    "59966226": {
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.0.0",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      },
+      "size": 1692,
+      "hash_md5": "97d575ffc0cde6fc077398173d142126",
+      "hash_sha256": "fd97bb531e81a70dd9a534c4e50443e2297f2d0ba68bf5ed871b828c7709e8fc",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"f03340ef541937874fd395618b277ab4f24ff7bea942daa06424961f91236779\"",
+    "data": "H4sIAOSAuWcC/+2Y3W/bNhDA/xXBr4stf6RJY6DoUnTIHpI06DIMyDAIlHSWWFOkRlJ2HSH/+46kPiynaFOPj3lJLIr34+l4vONdPaLpaBmcns/OLt6+nZ+fBCMuUojs6OhztM4+fvr9w/yWbkfmFSnAjF8DSUGOP8NKyAxS82pVMRa1728oh0SSlR5f3vwRfmN2KemGaDN3RZgCHBFbDhKf6xETGeXPKEbKKjWbzi4Wi9l0OlT1k1X1Q36bXV+auQT5REaVZOZtrnWplmHoRtUkozqv4kqBTATXwPUkEUVYhR38/ebdqcFksgG5VczQIbKkDc4xkKnCZ6rnumCHyuxJPZu/EoyJLaKin14u7GR7EOXZ0SCUrUOhc0Br4qQnaxaq9DGqWbna/kOLWpRC60pIj4A1kqic8Z2nOpRQCsesYpVIWmoq+DFqDuQNEB2XcPpIjgWivOUYDY+Rt3IGABt01mMITrAO7clLdk9OmwToBm1/NPWAYKB6V9oY8GnPZPbYoHi0obCN2hllFTOa2P2iGiKSFvbc24jw9JNn5ltBJoVuEw3iMlC0KBldUUgDwtNANnODDX4YTgrwMXCck4A0rh9oERRErgMSMPtq4k6VXO8Fr+8bzm7ej9U1zB/twQtQoeUY4Bp2PngGU5u/7YlNMCyQWEiihfSxwIBXDx7tehpI4WMdy7HBWAgvlrYcm5iUquBlp+glXItT3ZHlVRE3cdfbEv15JUrRjAP4oHasOuxSRSwJT3Iv+BZVN7+cd5DMi3MQF6FjJmIfPJweWlYdqpw0SVNHnrQ1dIMawjGg+YIbVA/X0o9/WLWl9Y8WjUlco6/4oLeosG7hjPCsIpkXesdqLy0ZeQTpSe8G5qIr15LGlbfg2uP2rkaxJ9V72uG9yx+9bK8QKFdQ7ccqljQ8Pv7wxs+fLWEGPEXvFjXIDS4JNa/8ZaFvrtVUTb4c1KDC+peS6Lw1VUkk+LGUIYV1TPBSOZlM6hxn2EUKkH4igwPZXCqTHK/DHph1i8Lngmhb3Kys2ilWO0yQ1IfmHavzH3/Xl4G/lBVjPtCWMyAXlIHSgvvZyQ42WIMLjVVD8qLq7yXLDHj1e0V5AidYcJygq2qaUDwHWHk0GSwG5id9GRB+FimgKf6wnvGTeFtUHTYVQgolEztf0W6PZoODBKKx5CTacOfT+Xw8XYxnF/ezxXJ6sXxz/mDLzTIdzjodT8/G88X97M1yer6cXTw4v1T5AQrnXdxP3y4Xi+Wpm2RyQ/MV+PMnilDzoTYtqnwP8GsvvnyReMLQI48thDsdNvz/1NK5KKDE20/bBFP00fw+Ox9ehhJRcWNL05zbEo2X9YPB9hZlOHc7nbvEnhMVuaiB41pW0IyVUnyBRB+M9lFrMLyla3ogbq9rfZluhalKKqVsY6d/42rvfUULKqVo+4ccw04f3tN+FaSRmNmRrpFZAm8+pgPOzZfTBLgC2+LEYtoYgGQlGy8m0/3W6tXtn8HlagVSBFfAQRIW3Nk+SXDtAMGmkVBl+rVpS15e3V23oO+ft0YLFQ7W7tuoNx+Ts/sr9uXhrzePD/e/vRuZRozthZhMtMaw1H88VZGGomTDRu4W4uYmFZliUKxWWJf8W1E5sJIWJU3MDvz9Dz5tqKIxZVTvhn0h18pwG7Jn18airYM1E1JYkYrpyNWGBlQQyl0DoSgjd4q0WAPvdxRdQYvC+FkJGHotun46aPi9dqVfu9KvXenXrrTrSnPQWwxLg2SxX1R340//AUu4lnlcGwAA"
+  }
+}

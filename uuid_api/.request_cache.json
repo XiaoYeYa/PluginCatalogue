@@ -1,0 +1,78 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "117526817": {
+      "meta": {
+        "schema_version": 4,
+        "id": "uuid_api",
+        "name": "UUIDAPI",
+        "version": "0.1.2",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "requests"
+        ],
+        "description": {
+          "en_us": "UUID API",
+          "zh_cn": "UUID API"
+        }
+      },
+      "size": 1562,
+      "hash_md5": "259db4176679b58e6211f9fd09a9cea1",
+      "hash_sha256": "a092d73ad36e912ea07fc62d6408ae7e4835bc5d19afa1b6e326b1a3b14c05d0",
+      "ttl": 20
+    },
+    "70146454": {
+      "meta": {
+        "schema_version": 4,
+        "id": "uuid_api",
+        "name": "UUIDAPI",
+        "version": "0.1.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "UUID API",
+          "zh_cn": "UUID API"
+        }
+      },
+      "size": 1444,
+      "hash_md5": "4544f231907dcb38ac9517273c743cf7",
+      "hash_sha256": "b84a88e360a900c4cc1bbf59c81061ba6bfa8de746661ecb2b546b358aaf15e7",
+      "ttl": 20
+    },
+    "70136083": {
+      "meta": {
+        "schema_version": 4,
+        "id": "uuid_api",
+        "name": "UUIDAPI",
+        "version": "0.1.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/uuid_api",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "UUID API",
+          "zh_cn": "UUID API"
+        }
+      },
+      "size": 1450,
+      "hash_md5": "66d308d8df4900a6f23db6f983164b54",
+      "hash_sha256": "daa2b220dd4dc0cac621c4b5f5c1001a2ca4e9fe91597190948e4e50ba3b5e07",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"4ba0cebe6e40e830a6c7f48336e9d6bfd11895ff28ee1983eebb7ce78ebc494e\"",
+    "data": "H4sIAB4YumcC/62YbW/jNgyA/0qQr2vj1En6EqC4Hdah2HC9dod2O3QYDNlmbDWy5ElyssTofx8lv8TO7iXp9KVNFPIhTZOUqHJI4+F84F9OppezC//yZDDkIobArg7vbn5e37NfWXR7tSWfP60ivtzc39yN72+eJncvyfXQiJMMrOxPN59gIWQC8QMrEsqV+XVRMBY0Iu/5NqXPKeGJ92XpXNIV0UZ2QZgCXBFrDhK/l0MmUKpPMSrW0cnFdOyf+ef73v92/vvnjyx6uZt8vHm/uXv8xTcqBG0QGRSSGalU61zNPa9aVaOE6rQICwUyElwD16NIZF7hNTbera6nhpLImlMZM0v7xJzWtAqBSOX1vU91xvYd6aj0hReCMbFGSHCcIa9V3FEoT95GQcXSEzoFDCBKvNpQUKWPdsoqlfYfhtByFIZTQnwsqVZDt0yyvJaehFxUwCJUkaS5poIf7WBP2dAwWwmnW/ImGipbiPHtaGWrZLRhhQl5tHqlVXq2vKLNa+VHBHSFwX4bck/dEPUmt1X+hLK2GvB/sKKwDppf8iJkNLIvhmoISJzZira1/npMNXylfcTQvrC9jjTotiQhl50O8+0Ht5H/vmXD/F4MD0B5lmOAS9i44BlMaf42JRZhEZNQSKKFdGGgxyt7X609DSRzYcdybMcUwkmkLcduIEoVcFgVHMK1ONWWHC+ysO6SzkzsSo4oRRMO4ILaskqvbeyhJDxKneAbVFl/qrKDJE6Sg1S9NWQidMFDcc+ySk+lpN7idODIW0M3qD5cwsIV3KB2cC3d5Id1W9r8aNC48WrMFRf0BuWVDZyhZEESJ/SW1ZwyErIF6cjvGlZ1V64lDQtnzXWH6xxnQkeu72j7ZyV39GoztqHJMqrdRMWS+uXjDm/y/D8mzIKj7t2gentDtQnVP7nbhb5oqx5rXCWoQXnlDznRaROqnEhwEylD8sqQ4PlwNBqVKZDqGJOBdNMZKpDdS2WU4onWAbNsULicEW0HkoV1O8YJhQkSu/C8ZbX54+740suXHEd4F2jL6ZEzykBpwd28yRbWs8GFpgsaHTS0HWKmxyvfKcojOCGMnWCqahpRrAMckesdLATmZvsyIHwskkE9vDEgbjbeBlV69YQQQ87ExlW369Bsc5BANE6NRBuuP/bHp+OLU//q8exsPpvMJ1fPdnLM477U7HTsn/rjx/HF/OxqPvWfq7xU6deFZpWQ2Rvqp8CPR8yT5kHttqjSDuDHnfr8IPWIYUa+daZtfVjx/zMWpyKDHE8/zTWVolvz+dyf9E9DkSi4CebVFNfXRONxfX+1OUgZ1MNGp9XenhIVVI0D17UsoF7LpXiBSKvOtG2Wd52rJ72mS7onmdsz2542VVGBs4q5lGn1q/m7cXU2tc1FStHc8nHsPbseH3eQiCMh6y2JHHj9PC3SNw9PI+AK7G0kjtQ2JXJ2OhmNu/egtx+fBrfAQRI2eLAXHoMPleJgVYuqPP6nvja8ffjQAL5dbLVxPJ90THbvOqPzx1v28vzHbPv8uLwemvsUYi7szC60xJa0CxZVgYYsZ/2b1jWE9SkqMIOgWCxwJvm7oLIXGy1yGpnA//kXfltRRUPKqN70r3eqa4z6RXTCWQeyya0mq2JYkILpoJoMDSojSle3SMbToKoiLZbAdy+Tg16jnf5b7x6R23f3+i+d88Bh5hYAAA=="
+  }
+}

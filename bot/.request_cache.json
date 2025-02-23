@@ -1,0 +1,347 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "153828212": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.1.3",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 17554,
+      "hash_md5": "ded1f268a97bf3e50f55d172b4442f09",
+      "hash_sha256": "9bc347ec70fee096be06608eb147aaa872a5e48619d7ba80ca56d97960a80dbb",
+      "ttl": 20
+    },
+    "145654528": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.1.2",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 17241,
+      "hash_md5": "c6e08a6f919120e98e86066145210398",
+      "hash_sha256": "276f43d1d9c6b1e622e10e59966690c42e7e45617cc6d651ae019a86bbd53c56",
+      "ttl": 20
+    },
+    "143140301": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.1.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 17176,
+      "hash_md5": "08423e978aaf694c66468b241c2cadc9",
+      "hash_sha256": "9893e1ffa3b6e879b286064349f66b6b3782328faf452a03d533504ff60a36aa",
+      "ttl": 20
+    },
+    "141878339": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.1.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 17157,
+      "hash_md5": "8358d9171f919d5ba9fe790f0d9bf908",
+      "hash_sha256": "96ee18a46e93e2d5d81507c3a21496a0c7ef503deb2d88bd5451815f76f2a286",
+      "ttl": 20
+    },
+    "92299495": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.6",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "dict_command_registration": "^1.0.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13930,
+      "hash_md5": "b673a2892567c70cbdccdd8b50ecdc3a",
+      "hash_sha256": "df555c428df6985433f3fab88eba906f37f7c354b714ebf81605585607d49aa9",
+      "ttl": 20
+    },
+    "89874369": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.5",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "dict_command_registration": "^1.0.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13875,
+      "hash_md5": "707c7c091db6f436573ccaa25c906c86",
+      "hash_sha256": "5ee627d45763e6ef6a442a9b3e9b0434e9e26737ae2e11ff4a0b1fa7cb10be72",
+      "ttl": 20
+    },
+    "89872311": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.4",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "dict_command_registration": "^1.0.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13874,
+      "hash_md5": "f26eb98baa52938329926c127d9bbe2c",
+      "hash_sha256": "61d437c81c8e5c5b2219bd7ceefaa024a12042b0610fc4f28d7b224c78c44829",
+      "ttl": 20
+    },
+    "89873991": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.3",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13423,
+      "hash_md5": "a997cbda05b7608e6fcd9380d30b193e",
+      "hash_sha256": "9c1eac60ea44e88f5f3161142326c354cf866e445d63b1f0e02a33ed90756bbe",
+      "ttl": 20
+    },
+    "72317223": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.2",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13375,
+      "hash_md5": "b885cf032e3aa3dcc028119222919e63",
+      "hash_sha256": "7043e5c443e31ba05f85c55b550c4543b739e5db56f99f1fa6e41420415620fc",
+      "ttl": 20
+    },
+    "72210286": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.1",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13369,
+      "hash_md5": "7a34b0edb72045ae7cfd9cc92e616ebd",
+      "hash_sha256": "42f092ca6a75f0c5f7fe62aa121a723bd8741cb9f7aecdeb3359b1d94a927dfd",
+      "ttl": 20
+    },
+    "72204890": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.0.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.5",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 13362,
+      "hash_md5": "128b253a15fac5f3a1f408fc6b56e773",
+      "hash_sha256": "b2b08d9408fab5a730c5a06d3870e55846c6d65f0c0d10520618bcbbdfdc64af",
+      "ttl": 20
+    },
+    "70146587": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "0.1.0",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Manage carpet bot",
+          "zh_cn": "管理地毯假人"
+        }
+      },
+      "size": 2014,
+      "hash_md5": "f548683c8a24622e7faebb1e764640ac",
+      "hash_sha256": "60ab358275bad391537aeb5a9531f88d08bc01b1203b1617710066f3e2e64c39",
+      "ttl": 20
+    },
+    "156862305": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bot",
+        "name": "Bot",
+        "version": "1.1.4",
+        "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/bot",
+        "authors": [
+          "Andy Zhang"
+        ],
+        "dependencies": {
+          "mcdreforged": "^2.6.0",
+          "minecraft_data_api": "^1.4",
+          "more_command_nodes": "^1.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "The best carpet bot manager!",
+          "zh_cn": "最好用的地毯模组假人管理器！"
+        }
+      },
+      "size": 17549,
+      "hash_md5": "6d0fd98e705cc6a655e46bf5f909fcae",
+      "hash_sha256": "3579fc39ab5ed94584c4a6a24d8117f7cf5b9fa416725cf1fbfdcf87d8659dc9",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"4ba0cebe6e40e830a6c7f48336e9d6bfd11895ff28ee1983eebb7ce78ebc494e\"",
+    "data": "H4sIAEQtuWcC/62YbW/jNgyA/0qQr2vj1En6EqC4Hdah2HC9dod2O3QYDNlmbDWy5ElyssTofx8lv8TO7iXp9KVNFPIhTZOUqHJI4+F84F9OppezC//yZDDkIobArg7vbn5e37NfWXR7tSWfP60ivtzc39yN72+eJncvyfXQiJMMrOxPN59gIWQC8QMrEsqV+XVRMBY0Iu/5NqXPKeGJ92XpXNIV0UZ2QZgCXBFrDhK/l0MmUKpPMSrW0cnFdOyf+ef73v92/vvnjyx6uZt8vHm/uXv8xTcqBG0QGRSSGalU61zNPa9aVaOE6rQICwUyElwD16NIZF7hNTbera6nhpLImlMZM0v7xJzWtAqBSOX1vU91xvYd6aj0hReCMbFGSHCcIa9V3FEoT95GQcXSEzoFDCBKvNpQUKWPdsoqlfYfhtByFIZTQnwsqVZDt0yyvJaehFxUwCJUkaS5poIf7WBP2dAwWwmnW/ImGipbiPHtaGWrZLRhhQl5tHqlVXq2vKLNa+VHBHSFwX4bck/dEPUmt1X+hLK2GvB/sKKwDppf8iJkNLIvhmoISJzZira1/npMNXylfcTQvrC9jjTotiQhl50O8+0Ht5H/vmXD/F4MD0B5lmOAS9i44BlMaf42JRZhEZNQSKKFdGGgxyt7X609DSRzYcdybMcUwkmkLcduIEoVcFgVHMK1ONWWHC+ysO6SzkzsSo4oRRMO4ILaskqvbeyhJDxKneAbVFl/qrKDJE6Sg1S9NWQidMFDcc+ySk+lpN7idODIW0M3qD5cwsIV3KB2cC3d5Id1W9r8aNC48WrMFRf0BuWVDZyhZEESJ/SW1ZwyErIF6cjvGlZ1V64lDQtnzXWH6xxnQkeu72j7ZyV39GoztqHJMqrdRMWS+uXjDm/y/D8mzIKj7t2gentDtQnVP7nbhb5oqx5rXCWoQXnlDznRaROqnEhwEylD8sqQ4PlwNBqVKZDqGJOBdNMZKpDdS2WU4onWAbNsULicEW0HkoV1O8YJhQkSu/C8ZbX54+740suXHEd4F2jL6ZEzykBpwd28yRbWs8GFpgsaHTS0HWKmxyvfKcojOCGMnWCqahpRrAMckesdLATmZvsyIHwskkE9vDEgbjbeBlV69YQQQ87ExlW369Bsc5BANE6NRBuuP/bHp+OLU//q8exsPpvMJ1fPdnLM477U7HTsn/rjx/HF/OxqPvWfq7xU6deFZpWQ2Rvqp8CPR8yT5kHttqjSDuDHnfr8IPWIYUa+daZtfVjx/zMWpyKDHE8/zTWVolvz+dyf9E9DkSi4CebVFNfXRONxfX+1OUgZ1MNGp9XenhIVVI0D17UsoF7LpXiBSKvOtG2Wd52rJ72mS7onmdsz2542VVGBs4q5lGn1q/m7cXU2tc1FStHc8nHsPbseH3eQiCMh6y2JHHj9PC3SNw9PI+AK7G0kjtQ2JXJ2OhmNu/egtx+fBrfAQRI2eLAXHoMPleJgVYuqPP6nvja8ffjQAL5dbLVxPJ90THbvOqPzx1v28vzHbPv8uLwemvsUYi7szC60xJa0CxZVgYYsZ/2b1jWE9SkqMIOgWCxwJvm7oLIXGy1yGpnA//kXfltRRUPKqN70r3eqa4z6RXTCWQeyya0mq2JYkILpoJoMDSojSle3SMbToKoiLZbAdy+Tg16jnf5b7x6R23f3+i+d88Bh5hYAAA=="
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "146835397": {
+      "meta": {
+        "schema_version": 4,
+        "id": "showshowway",
+        "name": "ShowIt",
+        "version": "1.2.0",
+        "link": "https://github.com/WhiteXero/ShowIt",
+        "authors": [
+          "WhiteXero"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "获取玩家的头，或者展示手上的物品"
+        }
+      },
+      "size": 4304,
+      "hash_md5": "f161820e47778415c672543884851ad9",
+      "hash_sha256": "5154718f12add3ce43b850536e78362787e8795f6bdbd20b694da7967e42fe6e",
+      "ttl": 20
+    },
+    "115810884": {
+      "meta": {
+        "schema_version": 4,
+        "id": "showshowway",
+        "name": "ShowShowWay",
+        "version": "1.1.0",
+        "link": "https://github.com/WhiteXero/ShowShowWay",
+        "authors": [
+          "WhiteXero"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "获取玩家的头，或者展示手上的物品"
+        }
+      },
+      "size": 1584,
+      "hash_md5": "6b6e9d414937f3a6fa34a481fc915d26",
+      "hash_sha256": "33761a7eb4cb9f1ec4c29256efbf88c2f36a2e5e52cf81b3178b2f12ac7fa541",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"17f3dabc5d505b21f4f06e2a4d26647f55fefc1aa296a9d5a524b707b0498ab0\"",
+    "data": "H4sIAB4YumcC/6WY247bNhCGXyXwbbOWYm/ttYEgRdGb9maLNEGLLQqBksYSa4pUScqGV/C7Z0jqRGc3jemb9WrE/+PwNJxRO6P5bPtmtVpsHtbxav32zYyLHBJrnX1M9sUvj7/dfywfjzPzilRg7H+U4virNpZdw1jSm/8sqYa/QIpobFBLeiDavN4RpgAt4shB4nM7Y6Kg3BMahe16s9ps1vHywffns/Xn56x4lIVpShBNZNJIZt6WWtdqG0XOquYF1WWTNgpkJrgGrueZqKIm6tkfDu/vDaWQHcd1YkyXxJp2NIdApIo8p0tdsUs/Jgqv7U4wJo6ISK7qJhp0I4TyIgiCujYSugScPGxwttNAlb7WJatp7Q/OnsUonEkJ+ZWgToVOmd1xbiMJtXC8JlWZpLWmgl/rnqc1MCELwukzCYGh1jKMZ9dqrcaI4YD78Fq1E7WRPUvZ6ey8yIAecJ6DiBdqA9Sn2h7iz9jUHgH8TQ4Ujkn/pm5SRjO7JshJSF7Z02vP9fmKMzCJDjkM64MqjsHEbm25n8SLb4/MzuyLbIP5v3l5WR1ZqWHs4RSIMMrW/O3PRYYHj6RCEi1kINNDtN6j7UIDqQLRVmoDmRChs2alNoIr1cD3bcxXUJagho3PmyrtotQt1HGzE6VowQECQYO8jYbwmUrCszKU2Kvb7j+3nqQIXU7iYlXKRBqIwBaRlbeRKkl3Q+gk3CcDNGqfJ2F3A8+oR56WwStqnZN2RXsaXkkaVzcQ2KujtucxwouGFKHAQd5fsgV5BhnuXad3oYlrSdPmlsg0EiaXdhru4Ai4TAJuArqrxo65qqgOHq4V+zv5JqLZf19RjSE82vVqL3y60Ny9uik2v4jvEu0bdpFRR+0PNdFlPwc1kRA8BUYctSnBFGU+n7clEHcdVyCDj6LT2ntEZiXmUWGYtldjulERbZPenXUuxyyYCZIH+jfIhxW/6Rr2VrjGHC2QZqUerKIMlBY8eCEGvYflQtMdzb4ry3+F7CHaD4ryDN4STE9xP2maUdyfWEN1cT0FFhzUjRadxwq6S+sZkOBLp1e3UZd05lAzcbohiEwA9jRKwGI+T4g2qEW8WN7F67t49eldvI2X2+XDky0d6txvdX8Xb+7ih0/x/Xa53i5+fHI7SZWvNFpstsvNUx9YO8fx328XFGY49rJQ5UTz06jYvqbIGO6hK0qXoacDv7LgKUUFNd7iY7Wj6LN5erfyr/VMNNzMzBLNR6IxN7ww9vmA6fz3ky7dtVYSlbhTi3YtG+hstRT/QqYvrGOg8MxHuqcXcpt4jDWZFVOVNZgIm9J6fOOqrqmjFZVS9B9pukF3kS8fe0EaSZm1DB+KauDdYAZgbEZOM+BqMoXEfNIwUXSPZ3JEUpVoqGrmf346Qtpd1YlJ4sVuhznofw2VXt9a1DQz4/r7H3w6UEVTyqg++XWwqxPdMCfedn72y9Y1yGFHGqYTl+AbUEUod3VbVSduD2qxh0kpzEEfsQ9vPqe51TAt5y9OuvjhyRMAAA=="
+  }
+}

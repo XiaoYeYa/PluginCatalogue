@@ -1,0 +1,34 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "94213800": {
+      "meta": {
+        "schema_version": 4,
+        "id": "allow_suicide",
+        "name": "allow_suicide",
+        "version": "1.0.0",
+        "link": "https://github.com/JAs0n319/allow_suicide",
+        "authors": [
+          "JAs0n"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "allow player suicide with no op",
+          "zh_cn": "允许玩家在没有op权限时自杀"
+        }
+      },
+      "size": 880,
+      "hash_md5": "2cb2671e9f5d7bd0a7fe336d48d1b581",
+      "hash_sha256": "765b8d8823028125f17cae37ca4b3a4677cf355c5e8e1751e8f8b5db7059c270",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"ae1738affcefb7352f3e0c35abb6a1915862ddb5fb247e026cc9f11a51df0a40\"",
+    "data": "H4sIAEQtuWcC/62YbW/jNgyA/0qQr2vruGn6EmC4HdBi6LDrdkNuGzoMhmwrtlpZ0iQ5ucTIfx/14sROt1xT9UtTS+IjiqIoUs2Q5MPpYHJzFU+ux5c3J4Mh4zlObOvwt+S5uP3lfjIXF5+HpgtV2LQjSvkyUTXJSI5Nx7ymNGl7f/qoRmwc30QvhglJFkibQXNEFYYWvmRYwnczpLwgrCtuBLxyF/HVVRz3dft0+/ny9z8faPb0ZfJwezd+WN99NSIIZkAyqSU1o0qthZpGkWtVZwXRZZ3WCsuMM42ZPst4FdVRO8eHxfcXhlJIz3GTmaZ9oiCe5hCAVFFX91JXdF+NjkB36JwbSwEgOWaSaCu2YxBWvIUBYk3EdYnBcNC/sSYgSh+pkBVp7A8YzlIUGFHi/DiOFwKVjHtsmkhiwR2uTlUmidCEsyOV64kaFpcFYmSN3sACUYsweh0pakWMLF6A+x0p7GSayB6kbLVxOmSYLMDEbwHuCRueXgl7jL/ASOv38JssCF4mbY+oU0oyux1E4wTllT259kxvXu/5L+NDjrc7ZGQ/mv6BoGiF5cAPGywBxGs94MJ5vXzuhJPDa7emPzC9gX3LfocYkQUY0jNeBYGMfGP+tscog2OKUi6R5jKI3AM1vU87kcaoCprAAmz84zzMmhZgbwGlavw69z4ItBy1PUSsrlIf68LZu/ODlCIFwzgIt4U00TYgpxKxrAzjtozG/+f2HBVhW45cNEwpT4NAMC6ykCZSJfK3kE5C9TNYw+hTJZ4HUw1jR9UycNetotLuesuEq1CDBwRhW0bUtFSKWFGjIgy7hbT3fIHWWIZq6iku6DEtSVqHx7wdp5NEpKHK7jD7qck7YN0taK1QVUQHGsAi+v7/Dlzjry/YpiE0mraMXpB214Dveod74D8n8WVBsL8ZRtR8J5AuW6sIJHGgUQwialIEedbZ2VlTYuTSgwrLwMPsCPb+klkJKWEIrGkZkBBVSNsEfm4VzSGjpxzlQbpuIVuveIe0oOcFAurZIKYF9JAVoVhpzgK3aUvpwRnXZE6yV5UyB/k9UPNBEZbhExhyAp6nYQj4M9SK/g5JMQ28QAwBFoIq7EsZilHgZdcymsinzjkWlK+CQ1IHY8+zxEhD3YS0AZ6Pzseno/PT0XgWX08nV9PJ6NHWTiL//1HX09iNErUq+4Pi+HR0ORuNpuPJdHT12IZsrz78+5qKyizNXkyq7Ej+sJObHpbLKPjZ0XXcdtYFe1MNWPIKC8gqQJDBIbJF5tp8xaN+mpHxmhmLmeYl0pDV7jW2+YlR4dcVVI32Oi2RStyJh3Yta+zbhORPONN7rbtQ02tekmeyJ24ToV0laoWJympI5M17w67HVZldRSsiJW+frPyifQTNO4KAQyntNXGBmV9Nf+kkw0xh+7AGVaSxQOW2pX2k+3Q/G/zsRxm7ivxr+7B2P/v2c5efQEUttvswl13OfqRPj39M1o+zu/XQPAm4bTZLh/CxsxxRicYVVPi9R8ElTn12kpgqiM/nkKz/UxPZW7vmgmTGsH/9DV8LokhKKNGr/guFK8mdVTrW2vMb/5njOaqpTlxtZK2GCHNlcSUSdyA0f8Zst1EM6yXM0TN/N8Fs2+PNv01AStdsFQAA"
+  }
+}

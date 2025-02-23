@@ -1,0 +1,62 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {},
+  "asset_data": {
+    "111548725": {
+      "meta": {
+        "schema_version": 4,
+        "id": "location_marker",
+        "name": "Location Marker",
+        "version": "1.3.2",
+        "link": "https://github.com/TISUnion/LocationMarker",
+        "authors": [
+          "Fallen_Breath",
+          "Van_Involution"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*",
+          "mcdreforged": ">=2.0.0-beta.12"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A server side waypoint manager",
+          "zh_cn": "一个服务端共享路标点管理器"
+        }
+      },
+      "size": 19325,
+      "hash_md5": "a786fdbb93124d333b8511b17cc659ac",
+      "hash_sha256": "b01e5c32e5530d18793c22f5ea098800aedc2e36f3fb1251e2a0db1c096beee0",
+      "ttl": 20
+    },
+    "42573255": {
+      "meta": {
+        "schema_version": 4,
+        "id": "location_marker",
+        "name": "Location Marker",
+        "version": "1.3.1",
+        "link": "https://github.com/TISUnion/LocationMarker",
+        "authors": [
+          "Fallen_Breath",
+          "Van_Involution"
+        ],
+        "dependencies": {
+          "minecraft_data_api": "*",
+          "mcdreforged": ">=2.0.0-beta.12"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A server side waypoint manager",
+          "zh_cn": "一个服务端共享路标点管理器"
+        }
+      },
+      "size": 17799,
+      "hash_md5": "53009ceff6004e3d22a4d679f4500068",
+      "hash_sha256": "b23fde3f1b6183c8c9f053558452796d012944528ad4a1b2d2dfebbaa979428d",
+      "ttl": 20
+    }
+  },
+  "repos_info": {
+    "etag": "\"e6bd2aedcee8b2e316f443e5fc6aa403b5dd242feab3338af7337edd40a77fc4\"",
+    "data": "H4sIAOSAuWcC/+2YX2/jNgzAv0qQ17Vx/jZtgOI2oFtwQ3vtthQ7ZBgM2VZiNbLkSXKyxMh3HyXLiZ0eck2Vp6Evd40k/kRTJEUqb5KoOWr0uoNhd3jd7lw0moxH2DejzYe7n1eP9Fcajm826Ovvy5AtNg8vz72Hl7APc7dNvRwlWK+95yFShLMHJBZY6JlZRqlfTk8+//HMYNp7vS4VZImUXjVDVGIY4SsGU6NG3qR8TlhVXgsY5fqDfrffvr55pfH6cXGznnZ/ydDXNI7GdBm8/Nb5cve5/XA3H2hxBLsh4WeCaolYqVSOPK8Yla05UXEWZBKLkDOFmWqFPPEyr9zv0/K2rylzYTnFxnrokJgSSysQgJRe9TtildBDNSoC1aUzTilfAcA/ZRNvJ7ZnEDZ/DwPEco+rGIPhYH5rTECkOlEhI5Kb/8BwhiLBiAJHp3GsEKikXWWbewKnvMBlgQwFSbWPnahcTVSzuJgjRjboHSwQNQit14miRkTL4iW434nChUzumaAK19tChxCTJZj4PcADYc1T69TE9GPFPMb/QdJfErzyyxVpFlASmmMhCvsoSkw0mzjfvj0CvpE0Irw7Ki38UwP2XmLRkCTCjRVap5ww1UgQQ3ObjbhYVFLMcRuYIzi2vaZ9z5BHIZ4haNQCr91IGpDrf8uICiFiUcAFUly4oWukvPbT7KQwStx2MASTDDl3tKghmPtBygy/zdmPEw1I7mKKZUlgU98Z4Pt4QlKSOcPYjbej5N4uQwcCsTB2BJeQ3P5VnDyaOx48KhJkQHngRoKFnqHknoyRvZmU76yh5mpIHSvwzB2rIXusEq5nb1QV5uxLKNyQCvzAjVtCvLzEUsTmGeRUN+6OUhYAc7TBwllXiylyIFOCBNkZUuAeVKkvAmd195zDsuUc3LS8lEEiIcrVBoZRD4RzgLXfvoLrAefsWkJqWbu4GOzUOW6Gb+5i+wZ3t9MQL/8hRSouDZMigV3tohleHiAowVqtVh5jVJQNCRaucV0gzJ0mwhjKRidaXkKgVkqQMlX+zKgaQdlPOYrctN1Rdr5xjnKh5gsp9MBuUEOoMRNCsVScuZ7VDlOjM67IjIRv6nmOb1Aj5Z8kYSG+QJRegAMqEhLwa+gq7a0SYOp6pWgEfApKsO16KEauF2AJyT1bW0c4pXztnp8qHBPaAiMFTRZSmthtd9uXne5lrzNpX43ag1GvMzUNVhrVV/X0qk530umPejej/nBa+JyMXy1qDyedq1GnN+oPpmUGt/rDn29qu/THmatKxhXRH/eCo+8IhhS87fR2b7fvkr2vV4x5glOoNkCSQTSZbnSjfw2H9fIj5BnTVruG4RVSUPQeDJZ1i9bhaa1i+46DpF/EPowrkWE7lgr+gkN1MLrPOrXhFVmQA3FTIO1bViNMZJhBoa8fKPYzRTdaKtrpmiQhBC8fuexX23QaVSSBhwJaG+IpZvZzdsi+/nYSYiaxeZaDZtMcf0ove6129Rlw/OW5McYMC0QbT6b7b9wXgo2lXSrT6F/7ajZ+ui8Bx4PJbi696pbVZ7/wajKmL9M/B5vpZHHb1I8LSL9b6btjAWlmb1oifYWTlNafHFc4sBWNr9soPptBpf9PRkTNNoqnJNSW/+tv+LUkkgSEErWuv3UUrb09iIo5rSFLz7I+FeEZyqjyi+ZKkxIkVeG5WlG/CBvFF5jtzxK8QPFEu1iKIZsaeL49eLP6eEL9eEL9eEL9fz+hMqxWkG/q2b/apJYT3e1/paWOOO0ZAAA="
+  }
+}
