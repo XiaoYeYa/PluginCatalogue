@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "jrrp",
+    "name": "Jrrp",
+    "version": "3.0.0",
+    "link": "https://github.com/HuajiMURsMC/jrrp",
+    "authors": [
+      "Huaji_MUR233"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.1.4",
+      "mc_uuid": ">=1.0.0"
+    },
+    "requirements": [
+      "mcdreforged>=2.1.4"
+    ],
+    "description": {
+      "en_us": "《今日人品》"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "jrrp",
+    "authors": [
+      "Huaji_MUR233"
+    ],
+    "repository": "https://github.com/HuajiMURsMC/jrrp",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "tool"
+    ],
+    "introduction": {
+      "zh_cn": "不基于 `random.randint(0, 100)` 的今日人品\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/jrrp/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/jrrp/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}

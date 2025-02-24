@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "mcd_task",
+    "name": "Task",
+    "version": "2.3.6-dev+build.68",
+    "link": "https://github.com/TISUnion/Task",
+    "authors": [
+      "Pandaria",
+      "Ra1ny_Yuki"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.1.3"
+    },
+    "requirements": [
+      "mcdreforged>=2.1.3",
+      "parse"
+    ],
+    "description": {
+      "en_us": "A plugin to show tasks of project in progress",
+      "zh_cn": "用于展示进行中的工程任务的插件"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "mcd_task",
+    "authors": [
+      "Pandaria",
+      "Fallen_Breath",
+      "Ra1ny_Yuki"
+    ],
+    "repository": "https://github.com/TISUnion/Task",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "tool"
+    ],
+    "introduction": {
+      "en_us": "Shows tasks of project in progress\n",
+      "zh_cn": "工程任务进度管理\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/mcd_task/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/mcd_task/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}
