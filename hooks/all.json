@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "hooks",
+    "name": "hooks",
+    "version": "2.1.3",
+    "link": "https://github.com/OptiJava/hooks",
+    "authors": [
+      "OptiJava"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.9.0"
+    },
+    "requirements": [],
+    "description": {
+      "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+      "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "hooks",
+    "authors": [
+      "OptiJava"
+    ],
+    "repository": "https://github.com/OptiJava/hooks",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "management"
+    ],
+    "introduction": {
+      "en_us": "Provides some triggers and interfaces for various scripts, allowing MCDR to automatically trigger scripts based on certain conditions, making it more convenient to use fully automated management scripts to do various things.\n\nPursuing full automation in server management and maintenance!\n",
+      "zh_cn": "为各种脚本提供了一些触发器和接口，让mcdr自动根据某些条件触发脚本，更方便的使用全自动化管理脚本去做各种事情。\n\n追求服务器管理、维护全自动化！\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/hooks/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/hooks/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}
