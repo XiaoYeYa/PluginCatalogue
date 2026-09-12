@@ -1,0 +1,50 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "matrix_sync",
+    "name": "MatrixSync",
+    "version": "2.5.4",
+    "link": "https://github.com/Mooling0602/MatrixSync-MCDR",
+    "authors": [
+      "Mooling0602"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.14.0",
+      "mutils": ">=0.0.1"
+    },
+    "requirements": [
+      "matrix-nio",
+      "aiofiles",
+      "asyncio",
+      "mcdreforged>=2.14"
+    ],
+    "description": {
+      "en_us": "Sync messages between online game and Matrix groups.",
+      "zh_cn": "同步Matrix群组和线上游戏的消息。"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "matrix_sync",
+    "authors": [
+      "Mooling0602"
+    ],
+    "repository": "https://github.com/Mooling0602/MatrixSync-MCDR",
+    "branch": "main",
+    "related_path": ".",
+    "labels": [
+      "tool",
+      "information"
+    ],
+    "introduction": {
+      "en_us": "A MCDR (full name \"MCDReforged\") plugin sync messages between online game and Matrix groups, uses the Apache-2.0 open source license.\n",
+      "zh_cn": "一个使用 Apache-2.0 开源协议的MCDR（全称MCDReforged）插件，用于同步Matrix群组和《我的世界》服务器的线上游戏之间的消息。\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/Mooling0602/MatrixSync-MCDR/main/descriptions/en_us.md",
+      "zh_cn": "https://raw.githubusercontent.com/Mooling0602/MatrixSync-MCDR/main/descriptions/zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}

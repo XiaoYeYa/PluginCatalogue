@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "hat",
+  "authors": [
+    "shuangshun"
+  ],
+  "repository": "https://github.com/shuangshun/Hat",
+  "branch": "main",
+  "related_path": ".",
+  "labels": [
+    "tool"
+  ],
+  "introduction": {
+    "zh_cn": "# Hat\n\n[![](https://shields.io/github/v/release/shuangshun/Hat)](https://github.com/shuangshun/Hat/releases)\n[![](https://shields.io/github/downloads/shuangshun/Hat/total)](https://github.com/shuangshun/Hat)\n[![](https://shields.io/github/stars/shuangshun/Hat)](https://github.com/shuangshun/Hat)\n\n**English** | [中文](https://github.com/shuangshun/Hat/tree/main/README_zh_cn.md)\n\nProvides a command `!!hat`, allowing players to wear items on their head\n\n---\n\n## Usage\n\n- Install the plugin and all required dependencies\n- Hold any item in your hand and enter the `!!hat` command in the game\n\n## Configuration Explanation\n\n- `permission` sets the minimum permission level required to use the `!!hat` command\n> Only integer values are allowed. For details, please refer to [Permission Overview](https://docs.mcdreforged.com/en/latest/permission.html#overview)\n\n- `cooldown` sets the cooldown time for using the `!!hat` command (unit: seconds)\n\n```json5\n{\n    \"permission\": 1, // Default is 1, regular player\n    \"cooldown\": 3 // Default is 3 seconds\n}\n```\n\n------\n\n> [!Warning]\n> Notice! This plugin is only applicable for [1.17+](https://minecraft.wiki/w/Commands/item#History)\n"
+  },
+  "introduction_urls": {
+    "zh_cn": "https://raw.githubusercontent.com/shuangshun/Hat/main/README.md"
+  }
+}
