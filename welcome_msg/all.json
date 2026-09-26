@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "welcome_msg",
+    "name": "welcome_msg",
+    "version": "1.2.0",
+    "link": "https://github.com/JAs0n319/Welcome_MSG",
+    "authors": [
+      "JAs0n"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.1.0"
+    },
+    "requirements": [],
+    "description": {
+      "en_us": "Send welcome Msg to all player",
+      "zh_cn": "入服欢迎消息"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "welcome_msg",
+    "authors": [
+      "JAs0n"
+    ],
+    "repository": "https://github.com/JAs0n319/Welcome_MSG",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "information"
+    ],
+    "introduction": {
+      "en_us": "Send welcome message\n",
+      "zh_cn": "发送欢迎消息\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/JAs0n319/Welcome_MSG/master/introduction/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/JAs0n319/Welcome_MSG/master/introduction/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}
