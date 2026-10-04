@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "timed_quick_backup_multi",
+    "name": "Timed QBM",
+    "version": "1.3.0",
+    "link": "https://github.com/TISUnion/TimedQBM",
+    "authors": [
+      "Fallen_Breath"
+    ],
+    "dependencies": {
+      "quick_backup_multi": ">=1.1.0"
+    },
+    "requirements": [],
+    "description": {
+      "en_us": "A Quick-Backup-Multi extension for automatically trigger QBM at given interval",
+      "zh_cn": "一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "timed_quick_backup_multi",
+    "authors": [
+      "Fallen_Breath"
+    ],
+    "repository": "https://github.com/TISUnion/TimedQBM",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "management"
+    ],
+    "introduction": {
+      "en_us": "Worried about infrequent backups leading to serious progress losses due to the world being restored? Try this timed backup plugin now!\n",
+      "zh_cn": "担心备份不频繁导致回档损失严重？快试试这个定时备份插件吧！\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/timed_quick_backup_multi/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/timed_quick_backup_multi/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}
