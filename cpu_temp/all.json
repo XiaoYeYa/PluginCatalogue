@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "cpu_temp",
+    "name": "cpu_temp",
+    "version": "3.0.2",
+    "link": "https://github.com/R1ckyH/cpu_temp",
+    "authors": [
+      "Ricky"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.0.0"
+    },
+    "requirements": [
+      "psutil",
+      "mcdreforged",
+      "APScheduler"
+    ],
+    "description": {
+      "en_us": "A plugin to check cpu temp regularly.",
+      "zh_cn": "服务器温度警报插件。"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "cpu_temp",
+    "authors": [
+      "Ricky"
+    ],
+    "repository": "https://github.com/R1ckyH/cpu_temp",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "information"
+    ],
+    "introduction": {
+      "en_us": "A plugin to check cpu temp regularly.\n",
+      "zh_cn": "服务器温度警报插件。\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/R1ckyH/cpu_temp/master/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/R1ckyH/cpu_temp/master/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}

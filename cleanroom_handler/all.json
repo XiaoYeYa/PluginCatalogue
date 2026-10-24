@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "cleanroom_handler",
+    "name": "CleanRoom Server Handler",
+    "version": "1.0.0",
+    "link": "https://github.com/CmmmmmmLau/MCDR_CustomChatFormat",
+    "authors": [
+      "Cmmmmmm"
+    ],
+    "dependencies": {},
+    "requirements": [
+      "mcdreforged>=2.10.2"
+    ],
+    "description": {
+      "en_us": "A Server Handler for CleanRoom in Minecraft 1.12.2 on Java21"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "cleanroom_handler",
+    "authors": [
+      "Cmmmmmm"
+    ],
+    "repository": "https://github.com/CmmmmmmLau/CleanroomHandler",
+    "branch": "master",
+    "related_path": ".",
+    "labels": [
+      "handler"
+    ],
+    "introduction": {
+      "en_us": "Cleanroom Handler\n---------\n\n添加对Cleanroom的服务端处理器支持\n\nAdding server handler support for Cleanroom on Minecraft 1.12.2 with Java 21.\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/cleanroom_handler/introduction.md",
+      "zh_cn": "https://raw.githubusercontent.com/MCDReforged/PluginCatalogue/master/plugins/cleanroom_handler/introduction-zh_cn.md"
+    }
+  },
+  "release": null,
+  "repository": null
+}
