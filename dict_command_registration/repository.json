@@ -1,0 +1,19 @@
+{
+  "url": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "name": "MCDReforgedPlugins",
+  "full_name": "AnzhiZhang/MCDReforgedPlugins",
+  "html_url": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
+  "description": "MCDReforged Plugins",
+  "archived": false,
+  "stargazers_count": 101,
+  "watchers_count": 101,
+  "forks_count": 55,
+  "readme": "# MCDReforged 插件仓库\n\n[![License](https://shields.io/github/license/AnzhiZhang/MCDReforgedPlugins?label=License)](https://github.com/AnzhiZhang/MCDReforgedPlugins/blob/master/LICENSE)\n[![Build](https://img.shields.io/github/actions/workflow/status/AnzhiZhang/MCDReforgedPlugins/release.yml?label=Build&branch=master)](https://github.com/AnzhiZhang/MCDReforgedPlugins/actions/workflows/release.yml)\n[![Downloads](https://shields.io/github/downloads/AnzhiZhang/MCDReforgedPlugins/total?label=Downloads)](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases)\n[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev/)\n\n这里是我开发的 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件收集仓库\n\n一个文件夹为一个插件，每个插件的说明在文件夹内\n\n## License\n\nCopyright © 2020-2025 Andy Zhang <public@mail.zhanganzhi.com> and Contributors\n\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.\n\n本程序是自由软件：你可以再分发之和/或依照由自由软件基金会发布的 GNU 通用公共许可证修改之，无论是版本 3 许可证，还是（按你的决定）任何以后版都可以。\n\n发布该程序是希望它能有用，但是并无保障；甚至连可销售和符合某个特定的目的都不保证。请参看 GNU 通用公共许可证，了解详情。\n\n你应该随程序获得一份 GNU 通用公共许可证的复本。如果没有，请看 <https://www.gnu.org/licenses/>。\n",
+  "readme_url": "https://raw.githubusercontent.com/AnzhiZhang/MCDReforgedPlugins/master/readme.md",
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0"
+  }
+}
